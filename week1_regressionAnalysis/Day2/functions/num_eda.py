@@ -51,7 +51,7 @@ def num_scatter_plot(df,num_features,target_col):
     for col in num_features:
         fig, axes = plt.subplots(1, figsize=(18, 6))
 
-        sns.scatterplot(data=df, x=col,y=target_col, ax=axes)
+        sns.regplot(data=df, x=col,y=target_col, ax=axes)
         axes.set_title(f'Bar Plot for {col}')
         axes.tick_params(axis='x', rotation=45)
         
