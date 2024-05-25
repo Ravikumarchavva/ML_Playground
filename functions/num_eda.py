@@ -66,3 +66,8 @@ def num_scatter_plot(df,num_features,target_col):
 
         plt.tight_layout()
         plt.show()
+def num_stack_plot(data,num_cols,target_col):
+    for i in num_cols:
+        plt.figure(figsize=(20,5))
+        sns.histplot(data.to_pandas(),x=i,hue=target_col,multiple="stack")
+        plt.show()

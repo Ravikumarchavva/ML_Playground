@@ -136,9 +136,9 @@ def compute_z_scores(data, columns,threshold=3):
     return data
 
 from scipy.stats import kruskal
-def perform_non_normal_kruskal_hypothesis(data,cat_cols):
+def perform_non_normal_kruskal_hypothesis(data,cat_cols,group_col):
     for i in cat_cols:
-        groups = [group["price"].values for name, group in data.to_pandas().groupby(i)]
+        groups = [group[group_col].values for name, group in data.to_pandas().groupby(i)]
 
         # Perform Kruskal-Wallis test
         stat, p_value = kruskal(*groups)
@@ -147,6 +147,6 @@ def perform_non_normal_kruskal_hypothesis(data,cat_cols):
 
         # Interpretation
         if p_value < 0.05:
-            print(f"There is a significant difference in prices between different {i} categories.")
+            print(f"There is a significant difference in {group_col} between different {i} categories.")
         else:
-            print(f"There is no significant difference in prices between different {i} categories.")
+            print(f"There is no significant difference in {group_col} between different {i} categories.")
