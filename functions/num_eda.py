@@ -28,25 +28,6 @@ class ConstantScaler(BaseEstimator, TransformerMixin):
         # Return the input features as output features
         return input_features
 
-def num_hist_plot(df,num_features,target_col):
-    for col in num_features:
-        fig, axes = plt.subplots(1, figsize=(18, 6))
-
-        sns.histplot(data=df, x=col,kde=True, ax=axes)
-        axes.set_title(f'Bar Plot for {col}')
-        axes.tick_params(axis='x', rotation=45)
-        
-        # Add percentage annotations on top of bars
-        total = len(df[col])
-        for p in axes.patches:
-            height = p.get_height()
-            axes.text(p.get_x() + p.get_width() / 2.,
-                        height + 3,
-                        '{:1.2f}%'.format((height / total) * 100),
-                        ha="center")
-
-        plt.tight_layout()
-        plt.show()
 def num_scatter_plot(df,num_features,target_col):
     for col in num_features:
         fig, axes = plt.subplots(1, figsize=(18, 6))
