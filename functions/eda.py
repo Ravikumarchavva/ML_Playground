@@ -77,6 +77,17 @@ def categorical_violin_plot(df, cat_features, target_col):
 
         plt.tight_layout()
         plt.show()
+def categorical_box_plot(df, cat_features, target_col):
+    for col in cat_features:
+        fig, axes = plt.subplots(1, figsize=(18, 6))
+
+        # Count Plot with hue
+        sns.boxplot(data=df, x=col, y=target_col, ax=axes)
+        axes.set_title(f'Bar Plot for {col}')
+        axes.tick_params(axis='x', rotation=45)
+        
+        plt.tight_layout()
+        plt.show()
 def categorical_pie_plot(df, cat_features):
     for col in cat_features:
         
@@ -136,7 +147,7 @@ def compute_z_scores(data, columns,threshold=3):
     return data
 
 from scipy.stats import kruskal
-def perform_non_normal_kruskal_hypothesis(data,cat_cols,group_col):
+def perform_non_normal_kruskal_hypothesis(data,cat_cols,group_col,alpha=0.05):
     for i in cat_cols:
         groups = [group[group_col].values for name, group in data.to_pandas().groupby(i)]
 
@@ -146,7 +157,7 @@ def perform_non_normal_kruskal_hypothesis(data,cat_cols,group_col):
         print(f'P-value: {p_value}')
 
         # Interpretation
-        if p_value < 0.05:
+        if p_value < alpha:
             print(f"There is a significant difference in {group_col} between different {i} categories.")
         else:
             print(f"There is no significant difference in {group_col} between different {i} categories.")
