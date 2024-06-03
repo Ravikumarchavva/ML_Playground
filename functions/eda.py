@@ -153,11 +153,10 @@ def perform_non_normal_kruskal_hypothesis(data,cat_cols,group_col,alpha=0.05):
 
         # Perform Kruskal-Wallis test
         stat, p_value = kruskal(*groups)
-        print(f'Kruskal-Wallis H-statistic: {stat}')
-        print(f'P-value: {p_value}')
+        print(f'Kruskal-Wallis H-statistic: {stat} P-value: {p_value}')
 
         # Interpretation
         if p_value < alpha:
-            print(f"There is a significant difference in {group_col} between different {i} categories.")
+            print(f"There is a significant difference in {group_col} between different {i} categories.\n")
         else:
-            print(f"There is no significant difference in {group_col} between different {i} categories.")
+            print(f"There is no significant difference in {group_col} between different {i} categories.\n")
