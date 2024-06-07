@@ -5,6 +5,9 @@ In Week 1, our goal was to predict car prices using various Linear Models in mac
 - **Day 1**: We started with preliminary data exploration, understanding the dataset's structure,Preprocessing and initial model training using traditional machine learning algorithms.
   ![Day 1 Report](Day1-report.png)
 
+  **Power Bi Report** 
+  ![Power Bi Report](carpriceReport_page-0001.jpg)
+
 - **Day 2**: We then implemented naive modeling techniques to establish a baseline performance.
   
 - **Day 3**: Delved into feature engineering, creating new features from existing ones to capture more information and improve model performance.
