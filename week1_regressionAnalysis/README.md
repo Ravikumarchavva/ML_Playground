@@ -1,6 +1,6 @@
 # Objective: Predicting Car Prices
 
-In Week 1, our goal was to predict car prices using various Linear Models in machine learning techniques. Here's a summary of our journey from Day 1 to Day 6:
+In Week 1, our goal was to predict car prices using various Linear Models in machine learning techniques. Here's a summary of our journey from Day 1 to Day 7:
 
 - **Day 1**: We started with preliminary data exploration, understanding the dataset's structure,Preprocessing and initial model training using traditional machine learning algorithms.
   ![Day 1 Report](Day1-report.png)
