@@ -15,6 +15,7 @@ In Week 1, our goal was to predict car prices using various Linear Models in mac
 
 - **Day 6**: Utilized ensemble methods, including bagging and boosting techniques, to enhance model performance by combining multiple models.
   ![Day 6 Ensemble Report](Day6-ensembling-Report.png)
+  
 - **Day 7**: We also leveraged AutoML to streamline model selection and optimization, achieving predictions and metrics near to manual training.
 
 By systematically progressing through preprocessing, naive modeling, feature engineering, regularization, error analysis, ensembling, and AutoML, we successfully developed a robust predictive model for car price estimation.
