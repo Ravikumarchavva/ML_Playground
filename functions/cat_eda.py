@@ -30,7 +30,7 @@ def cramers_v_matrix(df, cat_cols):
     
 def plot_heatmap(matrix, columns):
     """Plot heatmap for Cramér's V matrix."""
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(18, 5))
     sns.heatmap(matrix, annot=True, cmap='coolwarm', fmt=".2f", xticklabels=columns, yticklabels=columns)
     plt.title("Cramér's V Association Matrix")
     plt.show()

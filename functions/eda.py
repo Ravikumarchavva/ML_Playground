@@ -37,46 +37,57 @@ def classify_cols(df,cat_features,decide_factor=10):
     
     else:
         raise ValueError("No columns provided to classify.")
+import matplotlib.pyplot as plt
+import seaborn as sns
+
 def categorical_hist_plot(df, cat_features, target_col):
-    for col in cat_features:
-        fig, axes = plt.subplots(1, figsize=(18, 6))
-
-        # Count Plot with hue
-        sns.countplot(data=df, x=col, hue=target_col, ax=axes)
-        axes.set_title(f'Bar Plot for {col}')
-        axes.tick_params(axis='x', rotation=45)
+    # Determine the number of rows needed based on the number of categorical columns
+    n_cols = 2
+    n_rows = (len(cat_features) + 1) // n_cols  # Round up if there is an odd number of columns
+    
+    fig, axes = plt.subplots(nrows=n_rows, ncols=n_cols, figsize=(20, 5 * n_rows))
+    axes = axes.flatten()  # Flatten the array of axes for easy indexing
+    
+    for index, col in enumerate(cat_features):
+        sns.countplot(data=df, x=col, hue=target_col, ax=axes[index])
+        axes[index].set_title(f'Bar Plot for {col}')
+        axes[index].tick_params(axis='x', rotation=45)
         
         # Add percentage annotations on top of bars
         total = len(df[col])
-        for p in axes.patches:
+        for p in axes[index].patches:
             height = p.get_height()
-            axes.text(p.get_x() + p.get_width() / 2.,
-                        height + 3,
-                        '{:1.2f}%'.format((height / total) * 100),
-                        ha="center")
+            axes[index].text(p.get_x() + p.get_width() / 2.,
+                             height + 3,
+                             '{:1.2f}%'.format((height / total) * 100),
+                             ha="center")
 
-        plt.tight_layout()
-        plt.show()
+    # Hide any unused subplots
+    for j in range(index + 1, len(axes)):
+        fig.delaxes(axes[j])
+    
+    plt.tight_layout()
+    plt.show()
+
 def categorical_violin_plot(df, cat_features, target_col):
-    for col in cat_features:
-        fig, axes = plt.subplots(1, figsize=(18, 6))
-
-        # Count Plot with hue
-        sns.violinplot(data=df, x=col, y=target_col, ax=axes)
-        axes.set_title(f'Bar Plot for {col}')
-        axes.tick_params(axis='x', rotation=45)
-        
-        # Add percentage annotations on top of bars
-        total = len(df[col])
-        for p in axes.patches:
-            height = p.get_height()
-            axes.text(p.get_x() + p.get_width() / 2.,
-                        height + 3,
-                        '{:1.2f}%'.format((height / total) * 100),
-                        ha="center")
-
-        plt.tight_layout()
-        plt.show()
+    # Determine the number of rows needed based on the number of categorical columns
+    n_cols = 2
+    n_rows = (len(cat_features) + 1) // n_cols  # Round up if there is an odd number of columns
+    
+    fig, axes = plt.subplots(nrows=n_rows, ncols=n_cols, figsize=(20, 5 * n_rows))
+    axes = axes.flatten()  # Flatten the array of axes for easy indexing
+    
+    for index, col in enumerate(cat_features):
+        sns.violinplot(data=df, x=col, y=target_col, ax=axes[index])
+        axes[index].set_title(f'Violin Plot for {col}')
+        axes[index].tick_params(axis='x', rotation=45)
+    
+    # Hide any unused subplots
+    for j in range(index + 1, len(axes)):
+        fig.delaxes(axes[j])
+    
+    plt.tight_layout()
+    plt.show()
 def categorical_box_plot(df, cat_features, target_col):
     for col in cat_features:
         fig, axes = plt.subplots(1, figsize=(18, 6))
@@ -98,6 +109,32 @@ def categorical_pie_plot(df, cat_features):
         
         axes.set_title(f'Pie Chart for {col}')
         axes.set_ylabel('')
+        
+        plt.tight_layout()
+        plt.show()
+
+def univariavte_lineplots(df1, df2, columns):
+    num_cols = len(columns)
+    cols_per_figure = 4
+    num_figures = (num_cols + cols_per_figure - 1) // cols_per_figure
+    
+    for i in range(num_figures):
+        fig, axes = plt.subplots(ncols=2, nrows=2, figsize=(18, 10))
+        axes = axes.flatten()
+        
+        for j in range(cols_per_figure):
+            col_idx = i * cols_per_figure + j
+            if col_idx >= num_cols:
+                axes[j].axis('off')
+                continue
+
+            col = columns[col_idx]
+            axes[j].plot(df1[col], np.zeros_like(df1[col]), 'o')
+            axes[j].plot(df2[col], np.zeros_like(df2[col]), 'o')
+            axes[j].legend(["Exited", "NotExited"])
+            axes[j].set_title(f'{col} Distribution')
+            axes[j].set_xlabel(col)
+            axes[j].set_ylabel('Count')
         
         plt.tight_layout()
         plt.show()

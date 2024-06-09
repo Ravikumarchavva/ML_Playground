@@ -47,8 +47,21 @@ def num_scatter_plot(df,num_features,target_col):
 
         plt.tight_layout()
         plt.show()
-def num_stack_plot(data,num_cols,target_col):
-    for i in num_cols:
-        plt.figure(figsize=(20,5))
-        sns.histplot(data.to_pandas(),x=i,hue=target_col,multiple="stack")
-        plt.show()
+def num_stack_plot(data, num_cols, target_col):
+    # Determine the number of rows needed based on the number of numerical columns
+    n_cols = 2
+    n_rows = (len(num_cols) + 1) // n_cols  # Round up if there is an odd number of columns
+    
+    fig, ax = plt.subplots(nrows=n_rows, ncols=n_cols, figsize=(20, 5 * n_rows))
+    ax = ax.flatten()  # Flatten the array of axes for easy indexing
+    
+    for index, col in enumerate(num_cols):
+        sns.histplot(data.to_pandas(), x=col, hue=target_col, multiple="stack", ax=ax[index])
+        ax[index].set_title(f'Distribution of {col} by {target_col}')
+    
+    # Hide any unused subplots
+    for j in range(index + 1, len(ax)):
+        fig.delaxes(ax[j])
+    
+    plt.tight_layout()
+    plt.show()
