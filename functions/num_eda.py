@@ -47,7 +47,7 @@ def num_scatter_plot(df,num_features,target_col):
 
         plt.tight_layout()
         plt.show()
-def num_stack_plot(data, num_cols, target_col):
+def num_dodge_plot(data, num_cols, target_col):
     # Determine the number of rows needed based on the number of numerical columns
     n_cols = 2
     n_rows = (len(num_cols) + 1) // n_cols  # Round up if there is an odd number of columns
@@ -56,7 +56,7 @@ def num_stack_plot(data, num_cols, target_col):
     ax = ax.flatten()  # Flatten the array of axes for easy indexing
     
     for index, col in enumerate(num_cols):
-        sns.histplot(data.to_pandas(), x=col, hue=target_col, multiple="stack", ax=ax[index])
+        sns.histplot(data.to_pandas(), x=col, hue=target_col, multiple="dodge",fill=True, ax=ax[index])
         ax[index].set_title(f'Distribution of {col} by {target_col}')
     
     # Hide any unused subplots
