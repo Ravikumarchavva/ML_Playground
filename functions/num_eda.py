@@ -5,28 +5,17 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.base import BaseEstimator, TransformerMixin
 
-class ConstantScaler(BaseEstimator, TransformerMixin):
-    def __init__(self):
-        # self.constant = constant
-        pass
-
-    def fit(self, X, y=None):
-        # The fit method does not do anything in this case
-        return self
-
-    def transform(self, X):
-        # Scale the input data by the constant value
-        return X / X.max()
-
-    def fit_transform(self, X, y=None):
-        # Fit to data, then transform it
-        return self.transform(X)
-
-    def get_params(self, deep=True):
-        return {}
-    def get_feature_names_out(self, input_features=None):
-        # Return the input features as output features
-        return input_features
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+import statsmodels.api as sm
+def calculate_vif(data,target_col,head=5):
+    num_cols=[col for col in data.drop(target_col).columns if data[col].dtype!= pl.String]
+    if type(data)==pl.DataFrame:
+        data=data.to_pandas()
+    df = sm.add_constant(data[num_cols])
+    vif = pd.DataFrame()
+    vif["variables"] = df.columns
+    vif["VIF"] = [variance_inflation_factor(df.values, i) for i in range(df.shape[1])]
+    return vif.sort_values(by='VIF',ascending=False).head(head)
 
 def num_scatter_plot(df,num_features,target_col):
     for col in num_features:
