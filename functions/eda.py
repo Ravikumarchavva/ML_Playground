@@ -150,23 +150,23 @@ def remove_single_value_cols(df,cat_features):
 
 from scipy.stats import ttest_ind
 
-def perform_ttest(data, column, category1, category2,target_col, alpha=0.05):
+def perform_ttest(data, columns, category1, category2,target_col, alpha=0.05):
     # Filter data for each category
-
-    category1_data=data.filter(data[column]==category1)[target_col]
-    category2_data=data.filter(data[column]==category2)[target_col]
-    # Perform t-test
-    t_stat, p_value = ttest_ind(category1_data, category2_data, equal_var=False)
-    
-    # Interpretation
-    if p_value < alpha:
-        print(f'T-statistic: {t_stat}')
-        print(f'P-value: {p_value}')
-        print(f"There is a significant difference in {target_col} between {category1} and {category2} for column '{column}'.")
-    else:
-        print(f'T-statistic: {t_stat}')
-        print(f'P-value: {p_value}')
-        print(f"There is no significant difference in {target_col} between {category1} and {category2} for column '{column}'.")
+    for column in columns:
+        category1_data=data.filter(data[column]==category1)[target_col]
+        category2_data=data.filter(data[column]==category2)[target_col]
+        # Perform t-test
+        t_stat, p_value = ttest_ind(category1_data, category2_data, equal_var=False)
+        
+        # Interpretation
+        if p_value < alpha:
+            print(f'T-statistic: {t_stat}')
+            print(f'P-value: {p_value}')
+            print(f"There is a significant difference in {target_col} between {category1} and {category2} for column '{column}'.")
+        else:
+            print(f'T-statistic: {t_stat}')
+            print(f'P-value: {p_value}')
+            print(f"There is no significant difference in {target_col} between {category1} and {category2} for column '{column}'.")
 
 
 def compute_z_scores(data, columns,threshold=3):
