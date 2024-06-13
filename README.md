@@ -1,6 +1,8 @@
-# ML_Playground
+# ML_Playground 
 
 Welcome to the ML_Playground repository! This is a space dedicated to practicing and experimenting with various machine learning algorithms and techniques on a week-by-week basis.
+
+A collection of machine learning applications focusing on regression, classification, and other core ML techniques.
 
 ## Table of Contents
 
