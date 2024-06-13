@@ -33,7 +33,7 @@ To get started with this repository, you will need to have Python and several li
 You can install these libraries using pip:
 
 ```bash
-pip install numpy pandas scikit-learn tensorflow matplotlib jupyter
+pip install -r requirements.txt
 ```
 
 ## Project Structure
