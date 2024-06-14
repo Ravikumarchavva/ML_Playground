@@ -3,21 +3,15 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-
-def get_date_columns(df):
+from typing import Union
+def get_date_columns(df : pl.DataFrame):
     columns=[]
     for col in df.columns:
         if(df[col].dtype==pl.Date):
             columns.append(col)
     return columns
 
-class NotCategoricalError(Exception):
-    """Exception raised for non-categorical columns."""
-
-    def __init__(self, column):
-        self.column = column
-        super().__init__(f"{column} is not a categorical column.")
-def classify_cols(df,cat_features,decide_factor=10):
+def classify_cols(df : pl.DataFrame,cat_features : list,decide_factor=10):
     oneHot_cols = []
     ord_cols = []
     
@@ -40,7 +34,7 @@ def classify_cols(df,cat_features,decide_factor=10):
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def categorical_hist_plot(df, cat_features, target_col):
+def categorical_hist_plot(df : Union[pl.DataFrame,pd.DataFrame], cat_features : list, target_col : pl.String):
     # Determine the number of rows needed based on the number of categorical columns
     n_cols = 2
     n_rows = (len(cat_features) + 1) // n_cols  # Round up if there is an odd number of columns
@@ -69,7 +63,7 @@ def categorical_hist_plot(df, cat_features, target_col):
     plt.tight_layout()
     plt.show()
 
-def categorical_violin_plot(df, cat_features, target_col):
+def categorical_violin_plot(df : Union[pl.DataFrame,pd.DataFrame], cat_features : list, target_col : pl.String):
     # Determine the number of rows needed based on the number of categorical columns
     n_cols = 2
     n_rows = (len(cat_features) + 1) // n_cols  # Round up if there is an odd number of columns
@@ -88,7 +82,7 @@ def categorical_violin_plot(df, cat_features, target_col):
     
     plt.tight_layout()
     plt.show()
-def categorical_box_plot(df, cat_features, target_col):
+def categorical_box_plot(df : Union[pl.DataFrame,pd.DataFrame], cat_features : list, target_col : pl.String):
     for col in cat_features:
         fig, axes = plt.subplots(1, figsize=(18, 6))
 
@@ -99,7 +93,7 @@ def categorical_box_plot(df, cat_features, target_col):
         
         plt.tight_layout()
         plt.show()
-def categorical_pie_plot(df, cat_features):
+def categorical_pie_plot(df : Union[pl.DataFrame,pd.DataFrame], cat_features : list):
     for col in cat_features:
         
         fig, axes = plt.subplots(1, figsize=(18, 6))
@@ -113,7 +107,7 @@ def categorical_pie_plot(df, cat_features):
         plt.tight_layout()
         plt.show()
 
-def univariavte_lineplots(df1, df2, columns):
+def univariavte_lineplots(df1 : Union[pl.DataFrame,pd.DataFrame], df2 : Union[pl.DataFrame,pd.DataFrame], columns : list):
     num_cols = len(columns)
     cols_per_figure = 4
     num_figures = (num_cols + cols_per_figure - 1) // cols_per_figure
@@ -138,7 +132,7 @@ def univariavte_lineplots(df1, df2, columns):
         
         plt.tight_layout()
         plt.show()
-def remove_single_value_cols(df,cat_features):
+def remove_single_value_cols(df : pl.DataFrame, cat_features : list):
     for col in cat_features:
         unique_values = df[col].drop_nulls().unique()
         
@@ -150,7 +144,9 @@ def remove_single_value_cols(df,cat_features):
 
 from scipy.stats import ttest_ind
 
-def perform_ttest(data, columns, category1, category2,target_col, alpha=0.05):
+def perform_ttest(data : Union[pl.DataFrame,pd.DataFrame], columns: list, category1 : pl.String, category2: pl.String,target_col: pl.String, alpha=0.05):
+    if isinstance(data,pd.DataFrame):
+        data = pl.from_pandas(data)
     # Filter data for each category
     for column in columns:
         category1_data=data.filter(data[column]==category1)[target_col]
@@ -169,7 +165,7 @@ def perform_ttest(data, columns, category1, category2,target_col, alpha=0.05):
             print(f"There is no significant difference in {target_col} between {category1} and {category2} for column '{column}'.")
 
 
-def compute_z_scores(data, columns,threshold=3):
+def compute_z_scores(data : pl.DataFrame, columns : list,threshold=3):
     for column in columns:
         mean = data[column].mean()
         std_dev = data[column].std()
@@ -184,9 +180,11 @@ def compute_z_scores(data, columns,threshold=3):
     return data
 
 from scipy.stats import kruskal
-def perform_non_normal_kruskal_hypothesis(data,cat_cols,group_col,alpha=0.05):
+def perform_non_normal_kruskal_hypothesis(data : Union[pl.DataFrame,pd.DataFrame],cat_cols: list,group_col: pl.String,alpha=0.05):
+    if isinstance(data, pl.DataFrame):
+        data = data.to_pandas()
     for i in cat_cols:
-        groups = [group[group_col].values for name, group in data.to_pandas().groupby(i)]
+        groups = [group[group_col].values for name, group in data.groupby(i)]
 
         # Perform Kruskal-Wallis test
         stat, p_value = kruskal(*groups)
@@ -197,3 +195,23 @@ def perform_non_normal_kruskal_hypothesis(data,cat_cols,group_col,alpha=0.05):
             print(f"There is a significant difference in {group_col} between different {i} categories.\n")
         else:
             print(f"There is no significant difference in {group_col} between different {i} categories.\n")
+
+from sklearn.metrics import matthews_corrcoef
+def plot_binarycols_heatmap(data : Union[pl.DataFrame,pd.DataFrame],binary_cols : list):
+    cols_width= data[binary_cols].columns
+    phi_matrix = np.zeros((len(cols_width),len(cols_width)))
+    for i in range(len(cols_width)):
+        for j in range(len(cols_width)):
+            phi_matrix[i][j]=matthews_corrcoef(data[cols_width[i]],data[cols_width[j]])
+    plt.figure(figsize=(18,5))
+    sns.heatmap(data=phi_matrix,annot=True,xticklabels=cols_width,yticklabels=cols_width)
+    plt.title("matthews corrcoef between binary columns")
+    plt.show()
+
+if __name__ == "__main__":
+    class NotCategoricalError(Exception):
+        """Exception raised for non-categorical columns."""
+
+        def __init__(self, column):
+            self.column = column
+            super().__init__(f"{column} is not a categorical column.")
