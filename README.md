@@ -1,6 +1,8 @@
-# ML_Playground
+# ML_Playground 
 
 Welcome to the ML_Playground repository! This is a space dedicated to practicing and experimenting with various machine learning algorithms and techniques on a week-by-week basis.
+
+A collection of machine learning applications focusing on regression, classification, and other core ML techniques.
 
 ## Table of Contents
 
@@ -31,7 +33,7 @@ To get started with this repository, you will need to have Python and several li
 You can install these libraries using pip:
 
 ```bash
-pip install numpy pandas scikit-learn tensorflow matplotlib jupyter
+pip install -r requirements.txt
 ```
 
 ## Project Structure
