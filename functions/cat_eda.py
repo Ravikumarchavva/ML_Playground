@@ -26,22 +26,28 @@ def plot_Association_heatmap(df: Union[pl.DataFrame, pd.DataFrame], columns: lis
     plt.title("Cramér's V Association Matrix")
     plt.show()
 
-def plot_roc_curve(fpr, tpr):
+def plot_evaluation(fpr, tpr,y_true,y_pred, auc=0.5):
     """
     Plots a ROC curve given the false positive rate (fpr) and 
-    true positive rate (tpr) of a classifier.
+    true positive rate (tpr) of a classifier, including the AUC.
     """
+    fig,ax = plt.subplots(ncols=2,figsize=(18,5))
     # Plot ROC curve
-    plt.plot(fpr, tpr, color='green', label='ROC')
+    ax[0].plot(fpr, tpr, color='green', label=f'ROC (AUC = {auc:.3f})')
     
     # Plot line with no predictive power (baseline)
-    plt.plot([0, 1], [0, 1], color='red', linestyle='--', label='Guess')
+    ax[0].plot([0, 1], [0, 1], color='red', linestyle='--', label=f'Guess AUC {0.5} ')
     
     # Customize the plot
-    plt.xlabel('False Positive Rate')
-    plt.ylabel('True Positive Rate')
-    plt.title('Receiver Operating Characteristic (ROC) Curve', fontsize=15)
-    plt.legend()
+    ax[0].set_xlabel('False Positive Rate')
+    ax[0].set_ylabel('True Positive Rate')
+    ax[0].set_title('Receiver Operating Characteristic (ROC) Curve', fontsize=15)
+    ax[0].legend()
+    
+    # Plot Confusion matrix
+    from sklearn.metrics import ConfusionMatrixDisplay,confusion_matrix
+    fig=ConfusionMatrixDisplay(confusion_matrix=confusion_matrix(y_true,y_pred))
+    fig.plot(ax=ax[1])
     plt.show()
 
 def cramers_v_matrix(df: Union[pl.DataFrame, pd.DataFrame], cat_cols: list):
