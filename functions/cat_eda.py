@@ -1,3 +1,5 @@
+from functions.pipeline_helpers import get_features
+import sys
 import pandas as pd
 import polars as pl
 import numpy as np
@@ -17,6 +19,14 @@ def cramers_v(x, y):
     rcorr = r - ((r - 1) ** 2) / (n - 1)
     kcorr = k - ((k-1) ** 2) / (n - 1)
     return np.sqrt(phi2corr / min((kcorr - 1), (rcorr - 1)))
+
+def cramers_v_matrix(df: Union[pl.DataFrame, pd.DataFrame], cat_cols: list):
+    """Build Cramér's V matrix for categorical columns."""
+    matrix = np.zeros((len(cat_cols), len(cat_cols)))
+    for i, col1 in enumerate(cat_cols):
+        for j, col2 in enumerate(cat_cols):
+            matrix[i, j] = cramers_v(df[col1], df[col2])
+    return matrix
     
 def plot_Association_heatmap(df: Union[pl.DataFrame, pd.DataFrame], columns: list):
     """Plot heatmap for Cramér's V matrix."""
@@ -26,7 +36,7 @@ def plot_Association_heatmap(df: Union[pl.DataFrame, pd.DataFrame], columns: lis
     plt.title("Cramér's V Association Matrix")
     plt.show()
 
-def plot_evaluation(fpr, tpr,y_true,y_pred, auc=0.5):
+def plot_evaluation(fpr, tpr,y_true,y_pred, auc=0.5,title=''):
     """
     Plots a ROC curve given the false positive rate (fpr) and 
     true positive rate (tpr) of a classifier, including the AUC.
@@ -43,20 +53,13 @@ def plot_evaluation(fpr, tpr,y_true,y_pred, auc=0.5):
     ax[0].set_ylabel('True Positive Rate')
     ax[0].set_title('Receiver Operating Characteristic (ROC) Curve', fontsize=15)
     ax[0].legend()
-    
+    fig.suptitle(title, fontsize=18, y=1.02) 
     # Plot Confusion matrix
     from sklearn.metrics import ConfusionMatrixDisplay,confusion_matrix
     fig=ConfusionMatrixDisplay(confusion_matrix=confusion_matrix(y_true,y_pred))
     fig.plot(ax=ax[1])
     plt.show()
 
-def cramers_v_matrix(df: Union[pl.DataFrame, pd.DataFrame], cat_cols: list):
-    """Build Cramér's V matrix for categorical columns."""
-    matrix = np.zeros((len(cat_cols), len(cat_cols)))
-    for i, col1 in enumerate(cat_cols):
-        for j, col2 in enumerate(cat_cols):
-            matrix[i, j] = cramers_v(df[col1], df[col2])
-    return matrix
 
 def cat_proportion_plot(data: Union[pl.DataFrame, pd.DataFrame], cat_cols: list, target_col: str):
     if isinstance(data, pl.DataFrame):
@@ -86,3 +89,61 @@ def cat_proportion_plot(data: Union[pl.DataFrame, pd.DataFrame], cat_cols: list,
     plt.tight_layout()
     plt.show()
 
+from matplotlib.colors import ListedColormap
+
+def decision_boundary(X,y,feature1,feature2,classifier,transformer=None,mesh_step_size=1,title=''):
+
+    # Create a mesh grid
+    h = mesh_step_size  # step size in the mesh
+    x_min, x_max = X[feature1].min() - 1, X[feature1].max() + 1
+    y_min, y_max = X[feature2].min() - 1, X[feature2].max() + 5
+    xx, yy = np.meshgrid(np.arange(x_min, x_max, h),
+                        np.arange(y_min, y_max, h))
+
+    # Prepare the data for the prediction on the mesh grid
+    grid_data = pd.DataFrame(np.c_[xx.ravel(), yy.ravel()], columns=[feature1, feature2])
+
+    # Add other features with default values to match the original dataset
+    for col in X.columns:
+        if col not in [feature1, feature2]:
+            grid_data[col] = X[col].mean()  # or some default value
+    if transformer is None:
+        grid_data_transformed = grid_data
+        grid_data_transformed=grid_data_transformed[X.columns] # Same feature order
+    # Apply the same transformations to the grid data
+    else:   
+        grid_data_transformed = transformer.transform(grid_data)
+        grid_data_transformed = pd.DataFrame(grid_data_transformed,columns=get_features(transformer))
+
+    # Predict the classes for each point in the mesh grid
+    Z = classifier.predict(grid_data_transformed)
+    Z = Z.reshape(xx.shape)
+
+    # Create color maps
+    cmap_light = ListedColormap(['#FFAAAA', '#AAFFAA'])
+    cmap_bold = ['#FF0000', '#00FF00']
+
+    plt.figure(figsize=(18, 5))
+    plt.contourf(xx, yy, Z, alpha=0.8, cmap=cmap_light)
+
+    # Plot theing points
+    scatter = plt.scatter(X[feature1], X[feature2], c=y, edgecolors='k', marker='o', cmap=ListedColormap(cmap_bold))
+
+    # Adjust y-axis limits
+    plt.ylim(y_min, y_max)
+
+    # Add more tick labels
+    plt.yticks(np.arange(y_min, y_max + 1, 5))  # Adjust the increment as needed
+
+    # Label the y-axis
+    plt.ylabel(feature2)
+
+    plt.xlabel(feature1)
+    plt.title(f'{title} Decision Boundary')
+
+    # Create a legend
+    handles = scatter.legend_elements()[0]
+    labels = ['Class 0', 'Class 1']
+    plt.legend(handles, labels)
+
+    plt.show()
