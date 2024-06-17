@@ -41,7 +41,8 @@ pip install -r requirements.txt
 The repository is organized into weekly directories, each focusing on a specific ML concept or project:
 
 - **week1_regressionAnalysis/**: Contains notebooks and scripts related to regression analysis.
-- **week2_classification/**: Contains notebooks and scripts related to classification tasks.
+- **week2_Binaryclassification/**: Contains notebooks and scripts related to classification tasks.
+- **week3_Timeseries/** Contains notebooks and scripts related to TimeSeries Tasks
 - ... (Add more weeks are in progress)
 
 ## Usage
