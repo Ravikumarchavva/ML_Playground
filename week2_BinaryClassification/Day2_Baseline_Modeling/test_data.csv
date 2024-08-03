@@ -1,0 +1,1407 @@
+customerID,SeniorCitizen,Partner,Dependents,tenure,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+8597-CWYHH,0,0,0,43,Yes,0,No,No,No,No,Yes,Yes,12,0,Mailed check,94.35,3921.3,0
+1810-MVMAI,0,1,1,30,Yes,1,Yes,Yes,Yes,Yes,No,No,1,0,Electronic check,67.6,2000.2,0
+8042-RNLKO,0,0,0,66,Yes,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),25.45,1699.15,0
+9548-LIGTA,0,1,0,61,No,1,Yes,Yes,No,Yes,Yes,Yes,24,1,Mailed check,81.05,4747.65,0
+6022-KOUQO,0,1,1,2,No,1,No,No,No,Yes,No,No,1,0,Bank transfer (automatic),29.05,44.75,0
+5628-RKIFK,1,0,0,49,Yes,0,Yes,No,No,No,Yes,Yes,1,0,Credit card (automatic),101.55,5070.4,0
+1862-SKORY,1,1,0,40,No,1,No,Yes,No,No,Yes,No,1,1,Electronic check,39.3,1637.4,1
+7868-TMWMZ,1,1,0,60,No,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),110.0,6668.35,0
+0117-LFRMW,0,1,1,37,No,1,Yes,Yes,Yes,No,No,No,1,0,Bank transfer (automatic),40.2,1448.8,1
+8007-YYPWD,0,0,0,15,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.05,369.1,0
+9396-ZSFLL,0,0,0,15,Yes,1,No,No,No,No,No,No,1,0,Mailed check,48.85,631.4,0
+3002-WQZWT,0,0,0,29,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.2,1993.25,0
+2038-OEQZH,0,0,0,4,No,0,No,No,Yes,No,No,Yes,1,0,Electronic check,86.05,308.1,0
+5949-EBSQK,0,1,1,4,No,1,No,No,No,Yes,No,Yes,1,0,Credit card (automatic),61.45,229.55,1
+3643-AHCFP,1,1,0,7,Yes,0,No,No,No,No,Yes,Yes,1,1,Bank transfer (automatic),95.6,644.35,1
+7319-VENRZ,0,0,0,7,No,1,No,No,Yes,Yes,Yes,No,1,0,Bank transfer (automatic),64.3,445.95,0
+1755-FZQEC,0,0,0,39,No,2,No,No,No,No,No,No,12,0,Mailed check,19.9,791.15,0
+7520-HQWJU,0,1,1,66,Yes,1,Yes,Yes,Yes,No,No,No,1,1,Bank transfer (automatic),67.45,4508.65,0
+3521-MNKLV,0,0,0,24,No,1,No,No,Yes,No,No,No,1,1,Mailed check,49.7,1167.8,0
+5565-FILXA,1,0,0,16,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,96.15,1529.2,1
+3186-AJIEK,0,0,0,66,No,0,Yes,No,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),105.65,6844.5,0
+9770-KXGQU,0,0,0,53,Yes,0,Yes,Yes,Yes,No,Yes,No,12,0,Mailed check,98.6,5311.85,0
+8413-VONUO,0,0,0,2,No,0,No,Yes,No,No,Yes,Yes,1,0,Electronic check,95.65,167.3,1
+0565-JUPYD,0,0,0,63,Yes,0,Yes,Yes,Yes,Yes,Yes,No,12,0,Credit card (automatic),104.5,6590.8,0
+5747-PMBSQ,1,1,0,10,No,0,No,Yes,Yes,Yes,Yes,No,1,1,Mailed check,92.5,934.1,1
+8397-MVTAZ,0,1,0,34,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,100.05,3480.0,1
+9637-EIHEQ,0,0,0,1,No,1,No,No,No,Yes,No,No,1,1,Electronic check,50.8,50.8,1
+1866-RZZQS,1,0,0,41,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,98.4,4187.75,1
+5842-POCOP,0,1,0,5,No,0,Yes,No,Yes,No,No,Yes,1,1,Mailed check,88.9,454.15,1
+0480-KYJVA,0,1,1,72,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),24.25,1784.5,0
+4983-CLMLV,0,1,0,52,Yes,0,No,Yes,No,Yes,Yes,Yes,1,1,Credit card (automatic),102.7,5138.1,0
+0224-RLWWD,1,0,0,2,No,1,No,No,No,No,No,No,1,1,Electronic check,44.3,89.3,0
+8393-JMVMB,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.45,19.45,0
+7511-YMXVQ,0,0,0,9,No,1,No,No,No,No,Yes,Yes,1,1,Electronic check,45.4,418.8,1
+9504-DSHWM,0,0,0,20,Yes,1,Yes,No,No,Yes,No,No,1,0,Bank transfer (automatic),59.2,1191.2,0
+9474-PHLYD,0,0,0,15,No,1,No,No,Yes,No,No,Yes,1,1,Electronic check,59.45,892.65,1
+3794-NFNCH,0,1,0,30,No,1,No,No,Yes,No,No,No,1,1,Mailed check,50.0,1474.9,0
+2075-RMJIK,0,1,1,5,No,1,Yes,No,No,No,No,No,1,1,Mailed check,49.4,232.55,0
+6416-TVAIH,0,1,1,1,No,0,No,No,No,No,No,No,1,1,Electronic check,68.5,68.5,1
+6625-UTXEW,0,1,0,12,No,1,No,Yes,No,No,No,No,1,1,Electronic check,51.25,612.1,0
+6844-DZKRF,0,0,0,2,No,1,No,No,No,Yes,No,No,1,1,Credit card (automatic),50.2,109.25,0
+9101-BWFSS,0,1,0,50,Yes,0,Yes,Yes,No,Yes,Yes,Yes,12,0,Electronic check,108.55,5610.7,1
+5320-BRKGK,0,1,1,58,Yes,1,Yes,No,Yes,Yes,Yes,No,24,0,Mailed check,75.8,4415.75,0
+5884-FBCTL,0,1,1,72,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.1,1857.85,0
+2359-KMGLI,0,0,0,24,Yes,0,No,Yes,No,No,No,No,1,1,Electronic check,80.25,1861.5,1
+0237-YFUTL,0,1,0,50,Yes,0,Yes,Yes,No,Yes,Yes,Yes,1,1,Bank transfer (automatic),109.65,5405.8,0
+5729-KLZAR,0,1,1,4,No,0,No,No,No,No,No,Yes,1,0,Electronic check,80.85,302.75,1
+6689-VRRTK,1,0,0,44,Yes,0,Yes,Yes,Yes,No,Yes,Yes,12,1,Credit card (automatic),109.8,4860.35,0
+1548-FEHVL,0,1,0,61,Yes,0,Yes,Yes,No,No,Yes,Yes,1,1,Electronic check,106.2,6375.2,0
+0875-CABNR,1,0,0,10,No,0,No,No,Yes,No,No,Yes,1,1,Credit card (automatic),84.6,865.55,1
+1194-SPVSP,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),19.65,19.65,0
+4690-PKDQG,1,1,0,42,Yes,0,No,Yes,Yes,No,Yes,No,1,1,Electronic check,95.55,3930.6,0
+0228-MAUWC,0,0,0,19,Yes,1,No,No,Yes,Yes,No,No,1,0,Electronic check,59.55,1144.6,0
+8434-VGEQQ,0,1,1,61,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),20.55,1305.95,0
+5887-IKKYO,0,1,1,58,Yes,0,No,No,Yes,Yes,No,Yes,24,0,Bank transfer (automatic),94.35,5563.65,0
+4211-MMAZN,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,20.25,20.25,1
+8812-ZRHFP,0,1,1,30,No,0,No,No,Yes,No,No,Yes,12,0,Electronic check,86.45,2538.05,0
+3345-PBBFH,0,1,0,8,No,1,No,Yes,No,No,No,No,1,1,Bank transfer (automatic),49.55,393.45,0
+2311-QYMUQ,0,1,1,16,No,0,No,Yes,Yes,No,Yes,No,1,1,Credit card (automatic),89.45,1430.25,1
+5215-LNLDJ,0,1,1,7,No,1,No,No,No,No,No,No,1,1,Electronic check,24.7,149.05,0
+7576-OYWBN,1,0,0,3,Yes,0,No,No,No,No,No,No,1,1,Electronic check,76.05,231.8,1
+0004-TLHLJ,0,0,0,4,No,0,No,No,Yes,No,No,No,1,1,Electronic check,73.9,280.85,1
+1089-XZWHH,0,1,1,24,No,2,No,No,No,No,No,No,24,1,Mailed check,19.7,494.05,0
+7639-LIAYI,0,0,0,52,Yes,1,Yes,No,No,Yes,Yes,Yes,24,1,Credit card (automatic),79.75,4217.8,0
+4183-WCSEP,0,0,0,31,No,0,No,Yes,No,Yes,No,No,1,1,Electronic check,78.45,2435.15,1
+0813-TAXXS,0,0,0,55,Yes,1,No,No,Yes,No,Yes,Yes,24,1,Bank transfer (automatic),77.8,4323.35,0
+3315-IKYZQ,0,1,1,28,No,1,Yes,No,Yes,Yes,Yes,No,12,0,Mailed check,50.8,1386.8,0
+9060-HJJRW,0,0,0,51,No,1,No,Yes,Yes,No,Yes,Yes,12,1,Credit card (automatic),56.4,2928.5,0
+5256-SKJGO,0,1,1,64,No,1,No,Yes,No,Yes,Yes,Yes,24,1,Electronic check,54.6,3423.5,0
+7402-EYFXX,1,0,0,26,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,93.6,2404.1,0
+2135-DQWAQ,0,0,0,5,No,0,No,Yes,No,No,Yes,No,1,1,Mailed check,85.3,420.45,0
+9168-INPSZ,1,1,0,44,Yes,0,No,No,Yes,Yes,Yes,Yes,1,0,Electronic check,104.15,4495.65,0
+8020-BWHYL,1,0,0,15,No,0,No,Yes,No,No,No,No,1,1,Credit card (automatic),75.3,1147.45,1
+6332-FBZRI,0,1,1,67,Yes,1,Yes,Yes,Yes,Yes,No,No,12,1,Credit card (automatic),69.35,4653.25,0
+5318-YKDPV,0,1,1,43,No,1,Yes,No,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),79.15,3566.6,0
+7617-EYGLW,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Electronic check,19.45,19.45,0
+2848-YXSMW,0,1,1,72,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.4,1363.25,0
+6032-KRXXO,0,0,0,30,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,90.25,2755.35,1
+3638-WEABW,0,1,0,58,Yes,1,No,Yes,No,Yes,No,No,24,1,Credit card (automatic),59.9,3505.1,0
+9076-AXYIK,1,1,0,64,Yes,0,No,No,Yes,Yes,Yes,Yes,24,0,Electronic check,102.1,6538.45,0
+5921-NGYRH,0,1,0,64,No,0,Yes,No,No,No,No,No,1,1,Mailed check,73.55,4764.0,0
+4013-GUXND,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,20.8,20.8,0
+4237-CLSMM,0,1,0,2,No,2,No,No,No,No,No,No,1,0,Mailed check,20.0,38.0,0
+9392-XBGTD,0,0,1,27,No,2,No,No,No,No,No,No,24,0,Mailed check,20.6,581.85,0
+7771-CFQRQ,0,1,1,47,No,1,No,Yes,No,Yes,No,Yes,24,0,Bank transfer (automatic),63.8,3007.25,0
+9667-TKTVZ,0,0,0,2,Yes,1,No,No,No,Yes,No,No,1,1,Mailed check,54.35,117.05,0
+8168-UQWWF,0,0,0,11,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Bank transfer (automatic),97.85,1105.4,1
+9224-VTYID,0,1,1,47,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Mailed check,90.5,4318.35,0
+6463-MVYRY,1,0,0,57,No,1,Yes,No,Yes,Yes,Yes,No,24,0,Bank transfer (automatic),69.85,4003.0,0
+6496-SLWHQ,1,0,0,3,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,105.0,294.45,1
+9063-ZGTUY,0,1,1,61,No,2,No,No,No,No,No,No,1,1,Mailed check,19.4,1182.55,1
+9508-ILZDG,1,0,0,34,Yes,0,No,Yes,No,Yes,Yes,No,1,1,Electronic check,96.35,3190.25,0
+8070-AAWZP,1,1,0,24,No,1,No,No,Yes,Yes,No,No,1,0,Mailed check,34.25,828.2,0
+5087-SUURX,0,1,0,18,No,1,No,No,Yes,No,Yes,No,1,1,Electronic check,39.05,669.85,1
+4626-GYCZP,0,0,0,7,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,93.85,635.6,1
+9943-VSZUV,1,0,0,67,Yes,0,No,No,No,No,No,No,1,1,Mailed check,75.7,5060.85,0
+3466-WAESX,0,0,1,16,Yes,1,Yes,Yes,No,No,No,Yes,1,1,Electronic check,69.1,1083.7,0
+1591-MQJTP,1,1,0,51,Yes,0,Yes,No,Yes,No,No,Yes,12,1,Bank transfer (automatic),93.65,4839.15,0
+9720-JJJOR,0,1,1,41,No,1,Yes,Yes,Yes,No,No,No,12,1,Bank transfer (automatic),60.3,2511.3,0
+9170-CCKOU,0,1,0,17,Yes,0,Yes,Yes,Yes,No,No,No,1,0,Credit card (automatic),90.2,1454.15,1
+7014-ZZXAW,0,1,0,71,Yes,2,No,No,No,No,No,No,24,1,Credit card (automatic),24.25,1732.95,0
+0156-FVPTA,0,1,0,22,No,1,Yes,No,No,Yes,No,No,1,1,Electronic check,54.2,1152.7,1
+2990-IAJSV,0,0,0,72,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),92.0,6632.75,0
+3823-KYNQY,0,0,0,12,Yes,2,No,No,No,No,No,No,12,0,Credit card (automatic),24.95,280.4,0
+9948-YPTDG,0,1,0,38,No,0,Yes,Yes,No,No,No,No,1,1,Electronic check,79.45,3013.05,1
+7619-PLRLP,0,1,0,53,Yes,1,Yes,Yes,Yes,No,No,Yes,12,0,Bank transfer (automatic),74.1,3833.95,0
+1703-MGIAB,0,0,0,17,Yes,1,No,No,Yes,Yes,Yes,No,1,1,Mailed check,69.0,1108.0,0
+1628-BIZYP,0,0,0,1,No,0,No,Yes,No,No,No,Yes,1,1,Electronic check,85.0,85.0,0
+8685-WHQPW,1,0,0,22,Yes,0,No,No,No,No,No,No,1,1,Bank transfer (automatic),74.4,1692.6,1
+3496-LFSZU,0,1,0,4,No,0,No,No,No,No,No,No,1,0,Electronic check,70.5,294.2,0
+3125-RAHBV,0,0,0,22,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),20.3,467.15,0
+9867-JCZSP,0,1,1,17,No,2,No,No,No,No,No,No,12,0,Mailed check,20.75,418.25,0
+7277-KAMWT,0,0,0,13,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),20.0,268.45,0
+9018-PCIOK,0,0,0,55,No,1,No,Yes,Yes,No,No,Yes,24,1,Mailed check,64.75,3617.1,0
+9691-HKOVS,0,1,0,55,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,12,1,Electronic check,90.15,4916.95,0
+6686-YPGHK,1,0,0,47,No,0,Yes,No,No,No,No,Yes,1,0,Mailed check,85.5,4042.3,1
+2451-YMUXS,1,0,0,67,Yes,1,Yes,Yes,No,Yes,No,No,24,1,Bank transfer (automatic),64.55,4250.1,0
+7426-GSWPO,1,0,0,64,Yes,0,Yes,Yes,No,No,Yes,Yes,1,1,Bank transfer (automatic),103.5,6548.65,0
+4576-CSAJH,0,0,0,22,No,1,No,Yes,No,Yes,No,No,12,1,Credit card (automatic),55.15,1193.05,1
+9013-AQORL,0,0,1,48,No,1,No,Yes,Yes,No,No,Yes,1,0,Credit card (automatic),45.55,2108.35,0
+7853-WNZSY,0,0,0,1,No,2,No,No,No,No,No,No,1,1,Credit card (automatic),19.75,19.75,0
+0377-JBKKT,0,1,1,22,No,1,Yes,Yes,No,Yes,No,No,1,1,Mailed check,57.95,1271.8,0
+7660-HDPJV,0,0,0,1,No,0,No,No,No,No,No,No,1,1,Electronic check,69.2,69.2,1
+3948-KXDUF,0,0,0,66,Yes,1,Yes,Yes,Yes,Yes,No,No,24,0,Bank transfer (automatic),68.75,4447.55,0
+4480-QQRHC,1,0,0,8,No,0,No,No,Yes,No,No,No,1,1,Bank transfer (automatic),74.05,600.15,0
+5055-BRMNE,0,1,1,67,Yes,0,Yes,No,No,Yes,Yes,Yes,24,0,Credit card (automatic),106.7,7009.5,0
+8120-JDCAM,0,1,1,4,No,0,No,No,No,No,No,No,1,1,Mailed check,69.55,284.9,0
+7554-NEWDD,0,0,0,10,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.7,251.6,0
+2139-FQHLM,0,0,0,19,No,0,No,No,Yes,Yes,Yes,No,1,0,Mailed check,89.95,1682.4,0
+8456-QDAVC,0,0,0,19,No,0,No,No,No,No,Yes,No,1,1,Bank transfer (automatic),78.7,1495.1,0
+2550-AEVRU,0,1,1,57,No,1,Yes,Yes,No,No,No,No,12,0,Electronic check,53.45,3053.0,0
+3808-HFKDE,0,0,0,20,No,1,No,No,No,No,No,No,1,1,Electronic check,44.35,927.15,0
+8268-YDIXR,0,1,0,56,Yes,0,Yes,Yes,Yes,No,No,No,12,1,Electronic check,93.15,5253.95,0
+1534-OULXE,0,1,1,61,No,1,Yes,No,No,No,No,No,12,1,Bank transfer (automatic),49.7,2961.4,0
+2589-AYCRP,0,0,0,50,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),19.75,989.05,0
+3211-AAPKX,0,0,0,20,Yes,0,No,No,No,Yes,Yes,Yes,1,1,Mailed check,98.55,2031.95,0
+4671-LXRDQ,0,0,0,2,No,1,No,No,No,No,No,No,1,1,Mailed check,45.0,96.45,1
+8060-HIWJJ,0,0,0,64,Yes,1,No,Yes,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),86.55,5632.55,0
+5334-AFQJB,1,0,0,72,Yes,2,No,No,No,No,No,No,24,1,Credit card (automatic),25.1,1789.9,0
+1271-UODNO,0,0,0,39,Yes,1,No,No,No,Yes,No,No,24,1,Credit card (automatic),53.85,2200.7,0
+8651-ENBZX,1,0,0,60,Yes,0,No,No,Yes,Yes,Yes,Yes,12,1,Electronic check,106.0,6441.4,1
+8901-HJXTF,0,1,1,12,No,1,No,Yes,No,No,No,No,1,0,Mailed check,29.2,309.1,1
+7241-AJHFS,0,0,0,32,Yes,0,Yes,No,No,Yes,No,No,1,0,Bank transfer (automatic),87.65,2766.4,0
+8999-EXMNO,0,1,1,19,No,2,No,No,No,No,No,No,24,0,Mailed check,20.15,387.7,0
+5356-KZCKT,0,0,0,58,Yes,2,No,No,No,No,No,No,24,1,Credit card (automatic),24.45,1513.6,0
+9467-ROOLM,0,0,0,25,No,2,No,No,No,No,No,No,1,0,Mailed check,19.05,461.3,0
+0257-ZESQC,1,1,0,27,No,0,Yes,No,No,No,No,No,1,1,Bank transfer (automatic),75.2,1929.35,1
+8290-YWKHZ,1,1,0,32,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,93.2,2931.0,1
+1803-BGNBD,0,0,0,12,No,1,No,Yes,No,Yes,No,No,1,1,Electronic check,54.3,654.5,0
+8961-QDZZJ,0,1,1,57,No,0,No,Yes,No,No,Yes,Yes,12,1,Electronic check,95.0,5535.8,0
+3831-YCPUO,0,1,1,72,No,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),109.5,7854.9,0
+1360-RCYRT,0,1,1,23,No,1,No,No,No,Yes,No,No,1,1,Bank transfer (automatic),30.35,678.75,0
+4683-WYDOU,0,1,0,62,Yes,0,No,No,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),107.6,6912.7,0
+2625-TRCZQ,0,1,0,51,No,1,No,Yes,No,No,Yes,Yes,1,1,Electronic check,49.65,2553.35,0
+5275-SQEIZ,0,0,0,1,No,0,No,No,No,No,No,Yes,1,1,Mailed check,80.85,80.85,1
+5349-AZPEW,0,1,1,5,No,1,No,No,No,No,No,No,1,0,Mailed check,25.05,125.5,0
+4608-LCIMN,0,1,1,8,No,1,No,No,No,No,No,No,1,0,Bank transfer (automatic),44.65,369.15,0
+4741-WWJQZ,0,1,0,2,No,0,Yes,No,No,Yes,No,No,1,1,Electronic check,80.15,194.55,0
+9553-DLCLU,0,0,1,13,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),88.95,1161.75,0
+6680-NENYN,0,0,0,43,Yes,0,No,Yes,Yes,No,Yes,Yes,24,1,Electronic check,104.6,4759.85,1
+8809-XKHMD,0,1,0,72,Yes,0,Yes,Yes,No,Yes,No,Yes,24,1,Bank transfer (automatic),100.55,7325.1,0
+2027-CWDNU,0,1,1,18,No,0,No,No,No,Yes,No,Yes,1,1,Electronic check,85.6,1601.5,0
+5022-JNQEQ,0,1,1,9,No,0,No,No,No,Yes,No,No,1,1,Electronic check,75.85,647.5,0
+1816-FLZDK,0,0,0,1,No,1,No,No,No,Yes,No,No,1,0,Mailed check,29.15,29.15,0
+5666-MBJPT,0,0,0,65,Yes,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),25.1,1725.0,0
+2867-UIMSS,0,0,0,1,No,0,No,No,No,No,No,Yes,1,0,Electronic check,80.5,80.5,1
+0795-GMVQO,0,1,0,67,Yes,0,Yes,Yes,Yes,No,Yes,Yes,12,0,Credit card (automatic),109.9,7332.4,0
+6963-EZQEE,1,1,0,70,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),88.55,6306.5,0
+7607-QKKTJ,0,1,1,45,Yes,0,No,Yes,Yes,No,No,Yes,12,1,Credit card (automatic),95.0,4368.85,0
+2974-GGUXS,1,1,0,36,Yes,0,No,Yes,No,No,Yes,No,1,1,Credit card (automatic),91.95,3301.05,0
+4177-JPDFU,0,0,0,12,No,1,No,Yes,No,Yes,No,No,1,0,Mailed check,34.0,442.45,0
+3417-TSCIC,0,0,0,29,No,1,No,No,No,No,No,No,12,1,Mailed check,24.85,788.05,0
+6807-SIWJI,0,0,0,38,Yes,0,Yes,Yes,No,No,Yes,Yes,12,1,Electronic check,104.85,3887.25,0
+0363-SVHYR,0,1,1,71,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),86.85,6263.8,0
+4685-ERGHK,0,0,0,57,Yes,0,No,No,No,No,Yes,No,12,1,Electronic check,86.9,4939.25,0
+3301-LSLWQ,0,0,0,29,Yes,1,Yes,No,No,No,No,Yes,1,1,Electronic check,66.1,1912.15,0
+3389-KTRXV,0,1,1,23,Yes,2,No,No,No,No,No,No,24,0,Mailed check,23.85,625.65,0
+6817-WTYHE,0,0,0,2,No,1,No,No,No,No,No,No,1,0,Bank transfer (automatic),44.9,111.05,0
+8064-RAVOH,0,0,1,1,No,1,No,No,Yes,No,No,No,1,1,Electronic check,49.85,49.85,0
+4118-CEVPF,1,0,0,35,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,12,1,Bank transfer (automatic),110.8,3836.3,0
+9950-MTGYX,0,1,1,28,No,2,No,No,No,No,No,No,24,1,Credit card (automatic),20.3,487.95,0
+9450-TRJUU,0,0,0,35,Yes,0,No,No,No,No,Yes,No,1,0,Electronic check,83.15,2848.45,0
+5868-YWPDW,1,1,0,6,No,0,No,Yes,No,No,No,Yes,1,1,Electronic check,84.2,519.15,1
+7576-JMYWV,1,1,1,46,Yes,0,Yes,Yes,No,Yes,Yes,Yes,1,1,Electronic check,110.2,4972.1,0
+4199-QHJNM,1,1,0,67,Yes,0,No,Yes,No,Yes,Yes,Yes,24,0,Bank transfer (automatic),102.9,6989.7,0
+8387-MOJJT,0,1,1,42,No,0,No,No,No,No,Yes,No,1,1,Credit card (automatic),77.95,3384.0,1
+8138-EALND,0,0,0,15,No,2,No,No,No,No,No,No,1,0,Mailed check,19.75,311.6,0
+8097-VBQTZ,0,0,0,54,No,1,Yes,Yes,No,Yes,Yes,No,1,1,Mailed check,69.9,3883.3,0
+8780-YRMTT,0,0,0,66,No,1,Yes,Yes,Yes,Yes,No,No,24,1,Mailed check,47.4,3177.25,0
+7890-VYYWG,1,1,0,3,No,1,No,No,No,No,Yes,No,1,1,Mailed check,36.45,93.7,1
+4011-ARPHK,0,0,0,27,No,1,Yes,No,No,No,No,No,1,0,Mailed check,50.35,1411.35,0
+0281-CNTZX,0,1,0,63,No,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),19.95,1234.8,0
+7898-PDWQE,0,1,0,71,Yes,1,Yes,Yes,Yes,Yes,No,Yes,24,0,Credit card (automatic),80.4,5727.15,0
+3164-AALRN,0,0,0,5,No,1,No,No,Yes,No,Yes,Yes,12,1,Mailed check,70.0,347.4,1
+9412-GHEEC,0,0,0,40,Yes,0,No,No,Yes,Yes,Yes,Yes,1,0,Bank transfer (automatic),104.8,4131.95,1
+2357-COQEK,1,0,0,28,Yes,0,No,No,Yes,Yes,Yes,Yes,1,1,Electronic check,103.3,2890.65,1
+4006-HKYHO,0,0,0,63,No,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),86.7,5309.5,0
+5204-QZXPU,0,0,0,19,No,1,No,No,Yes,No,Yes,No,1,1,Electronic check,39.65,733.35,1
+8067-NIOYM,0,1,1,24,No,2,No,No,No,No,No,No,24,1,Credit card (automatic),21.1,490.65,0
+0404-SWRVG,0,0,0,3,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.4,229.55,1
+2359-KLTEK,0,1,1,41,No,0,No,No,Yes,No,Yes,Yes,1,1,Bank transfer (automatic),94.9,3848.0,0
+2683-JXWQQ,0,1,1,61,No,1,Yes,No,Yes,No,No,No,1,0,Bank transfer (automatic),33.6,2117.2,0
+8224-UAXBZ,0,1,0,58,No,1,Yes,Yes,No,No,Yes,No,12,1,Electronic check,45.35,2540.1,0
+7197-VOJMM,0,1,0,67,No,1,Yes,Yes,No,Yes,No,Yes,24,1,Credit card (automatic),69.2,4671.65,0
+6179-GJPSO,1,0,0,43,No,0,Yes,Yes,No,Yes,Yes,Yes,1,1,Credit card (automatic),108.15,4600.7,1
+9142-KZXOP,0,0,0,44,No,0,No,No,No,No,No,No,1,0,Credit card (automatic),68.85,2958.95,0
+9919-FZDED,1,1,0,72,Yes,1,Yes,Yes,Yes,No,Yes,Yes,24,1,Credit card (automatic),84.1,5981.65,0
+4895-TMWIR,1,1,0,11,No,2,No,No,No,No,No,No,1,0,Mailed check,19.95,214.75,1
+0292-WEGCH,0,1,1,54,Yes,1,No,Yes,Yes,Yes,Yes,Yes,1,1,Electronic check,86.2,4524.05,0
+2682-KEVRP,1,0,0,22,No,2,No,No,No,No,No,No,12,1,Mailed check,20.05,417.0,0
+1373-ORVIZ,0,1,1,11,Yes,1,No,No,No,Yes,No,Yes,1,1,Electronic check,66.35,740.8,1
+0002-ORFBO,0,1,1,9,No,1,No,Yes,No,Yes,Yes,No,12,1,Mailed check,65.6,593.3,0
+6101-IMRMM,0,0,1,6,No,0,No,No,Yes,No,Yes,Yes,1,0,Mailed check,94.5,575.45,1
+8966-OIQHG,0,1,1,22,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),20.75,452.35,0
+9139-WQQDY,0,1,1,49,Yes,0,No,Yes,No,No,Yes,Yes,12,0,Mailed check,100.45,4941.8,1
+6878-GGDWG,0,1,0,32,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),19.4,641.15,0
+2851-MMUTZ,0,0,0,27,No,1,No,Yes,No,Yes,No,No,1,1,Mailed check,56.15,1439.35,0
+1266-NZYUI,0,1,1,72,Yes,1,Yes,No,Yes,Yes,No,No,24,0,Bank transfer (automatic),66.85,4758.8,0
+0925-VYDLG,0,0,0,3,Yes,0,No,No,No,No,No,No,1,0,Electronic check,75.25,242.0,1
+0761-AETCS,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Electronic check,19.3,19.3,1
+0017-DINOC,0,0,0,54,No,1,Yes,No,No,Yes,Yes,No,24,0,Credit card (automatic),45.2,2460.55,0
+1298-PHBTI,0,1,1,71,Yes,0,No,Yes,No,Yes,No,No,24,1,Electronic check,84.8,6152.4,0
+0928-XUTSN,0,0,0,13,No,0,No,No,No,No,No,Yes,1,1,Electronic check,80.5,1011.8,0
+4129-LYCOI,0,0,1,67,Yes,0,No,Yes,No,Yes,Yes,Yes,24,1,Electronic check,104.0,7039.05,0
+8749-CLJXC,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,20.05,20.05,0
+4192-GORJT,0,1,0,5,No,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,94.45,498.1,1
+3518-FSTWG,1,1,0,72,Yes,0,Yes,Yes,Yes,No,Yes,Yes,24,1,Bank transfer (automatic),109.55,7920.7,0
+3199-XGZCY,0,0,0,8,Yes,0,No,No,No,No,No,No,1,1,Electronic check,75.25,576.7,0
+2273-QCKXA,0,0,0,1,No,1,No,No,No,Yes,No,No,1,0,Mailed check,49.05,49.05,0
+7054-DMVAS,0,0,0,54,No,1,Yes,Yes,No,No,Yes,No,24,1,Bank transfer (automatic),65.3,3512.9,0
+1535-VTJOQ,0,0,0,24,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),25.15,553.0,0
+1729-VLAZJ,0,0,1,10,No,1,Yes,Yes,No,Yes,No,No,12,0,Mailed check,40.25,411.45,0
+7823-JSOAG,0,0,0,3,Yes,0,No,No,No,No,No,No,1,0,Electronic check,74.5,217.45,0
+7549-MYGPK,0,1,1,63,Yes,0,Yes,Yes,Yes,No,Yes,No,1,1,Electronic check,100.55,6215.35,1
+1682-VCOIO,0,0,0,23,No,2,No,No,No,No,No,No,12,0,Mailed check,20.45,481.1,0
+4102-HLENU,0,1,0,67,Yes,1,Yes,Yes,Yes,No,No,No,24,0,Mailed check,65.65,4322.85,0
+6855-VLGOS,0,1,1,72,No,2,No,No,No,No,No,No,24,0,Electronic check,20.55,1432.55,0
+8883-ANODQ,0,1,1,68,Yes,0,No,Yes,Yes,No,No,No,24,1,Credit card (automatic),84.4,5746.75,0
+6992-TKNYO,0,1,0,38,Yes,1,No,No,Yes,Yes,No,Yes,12,0,Credit card (automatic),69.0,2669.45,0
+7483-IQWIB,0,1,1,37,Yes,0,No,Yes,Yes,No,Yes,No,1,1,Electronic check,92.95,3415.25,0
+2892-GESUL,0,1,1,18,No,2,No,No,No,No,No,No,24,0,Mailed check,19.35,309.25,0
+5177-RVZNU,0,0,1,37,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),20.3,755.4,0
+8788-DOXSU,0,0,0,59,No,1,No,No,Yes,No,No,Yes,12,1,Bank transfer (automatic),61.35,3645.5,0
+0311-QYWSS,0,0,0,6,No,1,Yes,No,No,No,No,No,1,1,Electronic check,49.45,314.6,0
+4078-SAYYN,0,0,0,11,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,100.75,1129.75,1
+6815-ABQFQ,0,1,0,56,Yes,0,No,Yes,No,Yes,Yes,Yes,12,1,Electronic check,107.25,6033.3,0
+2371-KFUOG,0,0,0,58,No,0,Yes,Yes,No,No,Yes,Yes,12,0,Bank transfer (automatic),99.15,5720.95,0
+5249-QYHEX,0,1,1,40,Yes,2,No,No,No,No,No,No,24,1,Mailed check,24.8,1024.7,0
+1696-HXOWK,0,1,0,71,Yes,0,Yes,Yes,No,No,Yes,No,12,0,Mailed check,95.65,6856.95,0
+4198-VFOEA,0,0,0,12,No,1,Yes,No,No,Yes,No,No,12,1,Mailed check,33.6,435.45,0
+7205-BAIAD,0,0,0,40,No,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),20.6,827.3,0
+3985-HOYPM,0,0,0,26,No,2,No,No,No,No,No,No,12,0,Mailed check,19.4,525.55,0
+7157-SMCFK,0,0,1,61,No,2,No,No,No,No,No,No,24,0,Mailed check,19.75,1124.2,0
+3884-HCSWG,0,0,0,17,No,0,No,No,No,No,No,No,1,1,Electronic check,70.0,1144.5,1
+2885-HIJDH,0,1,1,69,Yes,1,Yes,No,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),86.9,6194.1,0
+2937-FTHUR,0,0,1,18,Yes,1,Yes,No,No,No,No,Yes,1,0,Electronic check,64.8,1166.7,0
+0174-QRVVY,0,1,1,71,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),25.35,1847.55,0
+3589-PPVKW,0,0,0,9,No,1,No,No,No,No,No,No,1,1,Mailed check,44.4,348.15,0
+7041-TXQJH,0,0,0,37,No,1,No,No,Yes,No,No,Yes,1,1,Credit card (automatic),40.2,1478.85,0
+7880-XSOJX,0,0,0,4,No,1,Yes,Yes,No,Yes,No,No,1,0,Mailed check,42.4,146.4,0
+6010-DDPPW,0,1,0,70,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.15,1940.85,0
+5181-OABFK,0,1,1,56,No,1,Yes,Yes,Yes,No,No,No,24,1,Credit card (automatic),61.3,3346.8,0
+0068-FIGTF,0,0,0,27,No,1,No,Yes,Yes,Yes,Yes,Yes,12,0,Mailed check,78.2,2078.95,0
+7089-RKVSZ,0,1,1,8,Yes,2,No,No,No,No,No,No,12,0,Mailed check,24.4,203.95,0
+5515-AKOAJ,0,0,0,54,Yes,0,No,No,No,Yes,Yes,Yes,1,1,Electronic check,100.1,5440.9,1
+4391-RESHN,0,0,0,23,Yes,0,No,No,Yes,Yes,Yes,Yes,1,1,Mailed check,104.05,2470.1,1
+4910-AQFFX,0,1,1,9,Yes,0,No,No,Yes,No,No,No,1,1,Bank transfer (automatic),79.35,661.25,1
+2692-AQCPF,0,1,0,65,Yes,0,No,Yes,Yes,Yes,Yes,Yes,12,1,Credit card (automatic),108.05,7118.9,0
+9027-YFHQJ,0,0,0,7,Yes,2,No,No,No,No,No,No,1,1,Bank transfer (automatic),25.05,152.95,0
+3312-UUMZW,0,1,0,32,Yes,0,No,Yes,No,No,Yes,Yes,1,1,Credit card (automatic),98.85,3145.9,0
+6029-CSMJE,0,0,0,17,No,1,No,No,No,No,No,No,1,1,Mailed check,25.65,440.2,0
+2397-BRLOM,1,1,1,8,No,0,No,No,No,No,Yes,No,1,1,Credit card (automatic),80.45,583.45,1
+3890-RTCMS,0,0,0,16,No,1,No,No,No,Yes,No,No,1,1,Mailed check,49.45,799.0,0
+6029-WTIPC,1,0,0,37,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,101.1,3744.05,1
+7785-RDVIG,0,1,1,3,No,2,No,No,No,No,No,No,1,0,Mailed check,19.3,54.7,0
+2107-FBPTK,1,0,0,30,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,104.1,3121.1,0
+1360-JYXKQ,1,1,0,54,No,0,No,No,Yes,Yes,Yes,Yes,12,1,Electronic check,99.1,5437.1,0
+3269-ATYWD,1,0,0,39,Yes,0,No,No,No,No,Yes,Yes,1,1,Bank transfer (automatic),95.65,3759.05,1
+0756-MPZRL,0,0,0,46,No,1,No,No,Yes,Yes,No,No,12,0,Credit card (automatic),33.7,1537.85,0
+7184-LRUUR,0,0,0,22,No,1,No,Yes,Yes,No,Yes,No,12,0,Bank transfer (automatic),65.25,1441.8,0
+3370-HXOPH,0,0,0,3,Yes,0,No,No,No,No,No,No,1,0,Electronic check,76.1,257.6,0
+9938-ZREHM,0,1,0,37,Yes,1,No,Yes,No,Yes,No,Yes,12,0,Mailed check,72.1,2658.4,0
+0961-ZWLVI,0,0,1,49,Yes,0,Yes,Yes,Yes,No,Yes,Yes,12,1,Credit card (automatic),109.2,5290.45,0
+8699-ASUFO,1,1,0,7,Yes,0,No,No,No,No,No,No,1,1,Mailed check,74.4,527.9,1
+2040-OBMLJ,0,0,0,31,Yes,0,No,No,No,Yes,No,No,12,0,Credit card (automatic),81.7,2548.65,0
+0439-IFYUN,1,0,0,18,No,0,No,Yes,No,No,No,No,1,1,Electronic check,74.7,1294.6,0
+0887-HJGAR,0,0,0,1,No,1,No,No,No,No,No,No,1,1,Mailed check,45.7,45.7,1
+7711-YIJWC,0,1,1,61,No,1,Yes,Yes,Yes,Yes,Yes,Yes,12,0,Bank transfer (automatic),84.9,5264.5,0
+3170-GWYKC,0,0,0,60,No,0,Yes,No,Yes,Yes,Yes,Yes,1,1,Bank transfer (automatic),104.95,6236.75,0
+3797-VTIDR,0,1,0,1,No,1,No,No,No,No,No,No,1,1,Electronic check,23.45,23.45,1
+7310-EGVHZ,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),20.2,20.2,0
+8450-UYIBU,1,0,0,35,No,1,No,No,Yes,No,Yes,No,1,1,Electronic check,39.85,1434.6,0
+3512-IZIKN,0,1,0,70,Yes,1,Yes,No,Yes,Yes,No,No,24,0,Credit card (automatic),65.3,4759.75,1
+5066-GFJMM,0,1,0,3,No,2,No,No,No,No,No,No,1,1,Mailed check,19.9,45.75,0
+4361-JEIVL,0,0,1,1,No,1,No,No,No,No,No,No,1,1,Electronic check,44.4,44.4,1
+9758-MFWGD,1,1,1,48,No,1,No,Yes,No,No,No,No,12,0,Bank transfer (automatic),29.9,1388.75,0
+0939-EREMR,0,0,1,13,No,1,No,No,Yes,Yes,No,No,1,0,Mailed check,53.45,718.1,0
+2188-SXWVT,0,0,0,34,No,1,Yes,Yes,No,No,No,No,12,0,Mailed check,55.0,1885.15,0
+6253-GNHWH,0,1,1,71,Yes,1,Yes,Yes,Yes,Yes,No,No,24,0,Mailed check,71.1,5224.95,0
+7101-HRBLJ,0,1,1,72,No,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),83.7,6096.9,0
+4641-FROLU,0,1,1,30,No,2,No,No,No,No,No,No,24,0,Mailed check,19.3,602.9,0
+7739-LAXOG,0,1,1,32,Yes,0,No,No,Yes,No,No,Yes,1,1,Bank transfer (automatic),91.05,2954.5,1
+4486-EFAEB,0,0,0,13,No,2,No,No,No,No,No,No,1,1,Electronic check,20.4,251.65,0
+3620-EHIMZ,0,1,1,52,No,2,No,No,No,No,No,No,24,0,Mailed check,19.35,1031.7,0
+7781-HVGMK,0,1,1,72,No,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),65.2,4784.45,0
+3525-DVKFN,0,0,0,17,No,2,No,No,No,No,No,No,24,0,Mailed check,19.4,358.05,0
+4671-VJLCL,0,0,0,63,Yes,1,Yes,Yes,Yes,Yes,Yes,No,24,1,Credit card (automatic),79.85,4861.45,0
+2533-QVMSK,0,1,0,61,Yes,0,No,Yes,No,Yes,Yes,No,24,1,Electronic check,94.1,5638.3,1
+8606-CIQUL,1,1,1,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),115.75,8399.15,0
+9518-RWHZL,0,0,0,64,Yes,0,No,No,Yes,No,Yes,Yes,12,1,Credit card (automatic),100.05,6254.2,1
+1245-HARPS,0,1,0,14,No,2,No,No,No,No,No,No,24,0,Mailed check,20.4,292.4,0
+7328-OWMOM,0,0,1,31,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),20.1,589.25,0
+5125-CNDSP,0,0,1,63,No,1,Yes,Yes,No,Yes,No,No,12,1,Bank transfer (automatic),40.6,2588.95,0
+1814-DKOLC,0,0,0,5,Yes,2,No,No,No,No,No,No,1,0,Mailed check,25.45,134.75,0
+8903-XEBGX,0,0,1,2,No,1,No,No,No,No,No,Yes,1,1,Electronic check,55.3,108.65,0
+8065-QBYTO,1,0,0,71,Yes,0,Yes,Yes,No,Yes,Yes,No,12,1,Credit card (automatic),99.65,7181.25,0
+7319-ZNRTR,0,1,1,25,No,2,No,No,No,No,No,No,12,0,Electronic check,19.6,411.15,0
+3930-ZGWVE,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.75,19.75,0
+7993-NQLJE,0,1,1,15,No,0,Yes,No,No,No,No,No,1,0,Mailed check,75.1,1151.55,0
+2085-BOJKI,0,1,0,17,No,0,No,No,Yes,No,Yes,Yes,12,1,Bank transfer (automatic),96.65,1588.25,0
+8439-LTUGF,0,0,0,10,No,2,No,No,No,No,No,No,1,1,Credit card (automatic),20.0,198.6,0
+3866-MDTUB,0,0,0,2,No,1,Yes,No,No,No,Yes,Yes,1,1,Electronic check,70.75,146.9,1
+9625-QNLUX,0,1,1,68,No,0,Yes,Yes,Yes,No,Yes,Yes,24,1,Credit card (automatic),103.25,7074.4,0
+0048-PIHNL,0,1,0,49,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),20.45,900.9,0
+3398-FSHON,1,0,0,12,Yes,0,No,Yes,No,No,Yes,No,1,1,Electronic check,91.3,1094.5,1
+6568-POCUI,0,1,0,45,No,0,No,No,No,Yes,Yes,Yes,24,1,Credit card (automatic),95.2,4285.8,0
+8917-FAEMR,0,0,0,37,No,2,No,No,No,No,No,No,24,0,Mailed check,19.85,784.25,0
+0374-IOEGQ,0,0,0,3,No,1,No,No,No,No,No,No,1,0,Electronic check,44.6,122.7,0
+2180-DXNEG,0,0,0,12,No,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,96.0,1062.1,1
+4813-HQMGZ,0,1,0,8,Yes,0,No,No,No,Yes,No,Yes,1,1,Electronic check,90.25,743.75,0
+2386-OWURY,0,0,0,58,No,0,No,No,No,Yes,Yes,Yes,1,1,Electronic check,95.3,5817.7,0
+6586-PSJOX,0,0,1,15,No,1,No,No,Yes,Yes,No,No,12,0,Credit card (automatic),55.2,864.55,0
+7611-YKYTC,0,1,1,22,No,0,Yes,No,No,No,No,No,1,0,Bank transfer (automatic),75.0,1573.95,0
+5550-VFRLC,1,0,0,1,No,0,No,No,No,No,No,No,1,1,Electronic check,69.85,69.85,1
+8970-ANWXO,0,0,0,23,Yes,1,No,No,No,Yes,Yes,Yes,12,1,Mailed check,73.75,1756.6,0
+4859-ZSRDZ,0,1,1,58,No,1,No,No,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),55.5,3166.9,0
+4628-CTTLA,0,0,0,57,No,1,No,Yes,No,No,Yes,No,1,1,Electronic check,39.3,2111.45,1
+6624-JDRDS,0,0,0,6,No,1,Yes,No,No,No,No,No,1,0,Bank transfer (automatic),29.45,161.45,0
+7133-VBDCG,0,0,0,25,No,0,Yes,Yes,No,No,No,No,1,1,Bank transfer (automatic),79.85,2015.35,1
+1399-OUPJN,0,1,1,57,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),19.75,1272.05,0
+9717-QEBGU,0,0,0,2,No,0,No,No,No,No,No,No,1,1,Electronic check,70.3,144.0,0
+3191-CSNMG,0,1,1,3,No,0,No,No,No,No,Yes,No,1,1,Electronic check,80.7,239.45,0
+3482-ABPKK,0,0,0,28,No,1,Yes,No,No,Yes,No,No,12,0,Mailed check,54.3,1546.3,0
+1432-FPAXX,0,0,0,29,No,1,No,Yes,No,No,No,No,1,1,Electronic check,30.6,856.35,1
+9110-HSGTV,0,0,0,69,No,1,Yes,No,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),82.45,5555.3,0
+9894-QMIMJ,0,0,0,23,No,1,No,Yes,Yes,No,No,No,12,0,Bank transfer (automatic),55.8,1327.85,0
+2659-VXMWZ,0,1,1,67,Yes,0,Yes,Yes,Yes,No,Yes,Yes,12,1,Electronic check,111.3,7482.1,1
+5482-VXSXJ,0,0,0,22,No,0,No,Yes,No,No,Yes,Yes,1,1,Mailed check,93.2,2157.3,0
+6845-RGTYS,0,1,0,47,Yes,0,Yes,Yes,Yes,No,Yes,No,1,1,Electronic check,98.75,4533.7,1
+6481-LXPWL,0,1,1,56,No,1,No,Yes,Yes,No,No,No,12,1,Credit card (automatic),36.1,1971.5,0
+1624-NALOJ,1,0,0,5,Yes,0,No,Yes,No,No,No,Yes,1,1,Electronic check,89.8,502.6,1
+0082-LDZUE,0,0,0,1,No,1,No,No,No,No,No,No,1,1,Mailed check,44.3,44.3,0
+2371-JUNGC,0,0,0,11,No,2,No,No,No,No,No,No,1,0,Mailed check,20.25,208.0,0
+5622-UEJFI,0,1,1,35,Yes,2,No,No,No,No,No,No,24,1,Credit card (automatic),25.4,949.8,0
+9191-MYQKX,0,1,0,7,No,0,No,No,Yes,No,No,No,1,1,Bank transfer (automatic),75.15,496.9,1
+4445-ZJNMU,0,0,0,9,Yes,0,No,Yes,No,No,Yes,Yes,1,1,Credit card (automatic),99.3,918.75,0
+2160-GPFXD,0,1,1,54,Yes,1,Yes,Yes,No,Yes,No,No,24,1,Credit card (automatic),65.65,3566.7,0
+6377-KSLXC,0,0,0,5,No,2,No,No,No,No,No,No,1,0,Mailed check,19.95,107.05,0
+7688-AWMDX,0,1,0,71,No,1,Yes,No,No,Yes,No,No,24,0,Bank transfer (automatic),54.5,3778.2,0
+4123-FCVCB,0,0,0,12,Yes,1,No,No,No,Yes,Yes,Yes,12,1,Mailed check,75.85,854.45,0
+0939-YAPAF,0,0,0,35,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,100.25,3527.6,1
+9546-CQJSU,0,0,0,2,Yes,0,No,No,Yes,No,Yes,No,1,1,Electronic check,91.4,193.6,1
+8245-UMPYT,1,0,0,16,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,96.4,1581.2,1
+5832-XKAES,0,0,0,2,No,0,No,No,No,No,No,No,1,1,Credit card (automatic),69.8,134.7,1
+9512-PHSMG,0,1,0,10,No,2,No,No,No,No,No,No,1,1,Mailed check,20.55,252.75,0
+9332-GYWLO,0,1,1,6,No,1,No,No,No,No,Yes,No,1,0,Electronic check,54.85,355.1,0
+3946-MHCZW,0,0,0,1,No,1,No,No,Yes,No,No,No,1,0,Mailed check,50.9,50.9,1
+6407-GSJNL,0,0,0,51,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),24.95,1288.0,0
+7682-AZNDK,0,1,1,34,No,0,No,Yes,Yes,No,Yes,No,1,1,Electronic check,89.85,3091.75,0
+7182-OVLBJ,0,1,1,62,Yes,0,Yes,No,No,No,Yes,Yes,24,1,Bank transfer (automatic),101.15,6638.35,0
+0670-ANMUU,0,0,0,71,Yes,0,Yes,No,No,Yes,No,Yes,12,0,Credit card (automatic),97.65,6687.85,0
+0505-SPOOW,0,1,0,70,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),19.8,1397.65,0
+0506-LVNGN,1,0,0,5,No,0,No,No,Yes,No,No,No,1,1,Credit card (automatic),75.55,349.65,1
+5233-AOZUF,0,1,0,29,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.95,2149.05,0
+8819-WFGGJ,0,1,0,68,No,1,Yes,No,Yes,No,Yes,Yes,24,1,Bank transfer (automatic),54.1,3794.5,0
+9298-WGMRW,0,1,0,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),115.5,8312.75,0
+0508-OOLTO,0,1,1,2,No,0,No,No,No,No,No,No,1,1,Electronic check,71.65,135.75,0
+0378-XSZPU,0,1,0,58,No,1,Yes,Yes,Yes,No,No,No,12,0,Credit card (automatic),60.3,3563.8,1
+0067-DKWBL,1,0,0,2,No,1,Yes,No,No,No,No,No,1,1,Electronic check,49.25,91.1,1
+9576-ANLXO,0,0,0,3,No,0,No,No,No,No,No,No,1,1,Bank transfer (automatic),69.55,222.3,1
+8495-PRWFH,1,0,0,42,Yes,1,No,No,Yes,No,No,No,1,0,Electronic check,55.65,2421.75,0
+2824-DXNKN,0,1,1,72,Yes,1,Yes,No,Yes,No,Yes,No,24,1,Bank transfer (automatic),71.45,5025.85,0
+7717-BICXI,0,1,1,60,No,2,No,No,No,No,No,No,24,0,Mailed check,20.55,1205.05,0
+0060-FUALY,0,1,0,59,Yes,0,Yes,Yes,No,No,Yes,No,1,1,Electronic check,94.75,5597.65,0
+4971-PUYQO,0,0,0,27,Yes,0,No,No,No,No,Yes,Yes,1,1,Mailed check,94.55,2724.6,1
+9470-RTWDV,0,1,1,26,Yes,1,No,No,Yes,Yes,Yes,Yes,12,1,Credit card (automatic),82.0,2083.1,0
+5339-TJFEK,0,1,1,62,Yes,0,Yes,Yes,No,No,Yes,Yes,1,1,Electronic check,105.5,6487.2,0
+8909-BOLNL,0,0,0,3,No,2,No,No,No,No,No,No,12,0,Mailed check,21.2,52.05,0
+0531-XBKMM,0,0,1,66,Yes,1,Yes,Yes,No,Yes,No,No,24,0,Bank transfer (automatic),65.7,4378.9,0
+7153-OANIO,0,0,0,1,No,0,No,No,No,No,No,No,1,0,Electronic check,69.95,69.95,1
+4489-SNOJF,0,1,1,35,Yes,1,Yes,No,Yes,Yes,Yes,No,1,0,Electronic check,72.25,2568.55,1
+5656-MJEFC,0,1,1,42,No,1,Yes,No,Yes,Yes,Yes,No,24,0,Credit card (automatic),48.15,2032.3,0
+7734-DBOAI,0,1,1,1,No,1,No,No,No,Yes,Yes,No,1,0,Electronic check,40.1,40.1,1
+6614-YWYSC,1,1,0,61,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.0,1501.75,0
+8058-DMYRU,1,0,0,54,Yes,0,No,Yes,No,No,No,Yes,1,1,Electronic check,90.05,4931.8,0
+8314-HTWVE,0,1,1,7,No,2,No,No,No,No,No,No,24,0,Mailed check,19.85,144.15,0
+6719-OXYBR,0,0,0,15,No,0,No,No,Yes,No,Yes,No,1,0,Electronic check,85.3,1219.85,0
+3070-BDOQC,0,0,0,60,No,0,No,Yes,Yes,No,Yes,Yes,24,1,Electronic check,99.65,5941.05,0
+2798-NYLMZ,0,1,0,71,Yes,0,Yes,No,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),108.55,7616.0,0
+1221-GHZEP,0,0,0,62,No,1,Yes,No,No,Yes,No,Yes,24,1,Mailed check,65.1,3846.75,0
+4291-HPAXL,0,0,1,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.85,19.85,0
+5804-LEPIM,1,0,0,2,No,0,No,No,No,No,No,No,1,1,Electronic check,70.35,139.05,1
+9970-QBCDA,0,0,0,6,No,2,No,No,No,No,No,No,1,0,Credit card (automatic),19.7,129.55,0
+9385-NXKDA,0,1,0,72,Yes,1,Yes,Yes,Yes,No,Yes,Yes,24,1,Credit card (automatic),82.65,5919.35,0
+9801-NOSHQ,0,0,1,23,No,2,No,No,No,No,No,No,12,0,Mailed check,19.8,465.45,0
+4393-OBCRR,0,0,0,3,No,2,No,No,No,No,No,No,12,0,Mailed check,20.25,71.2,0
+1942-OQFRW,0,0,0,1,No,1,No,No,No,No,No,No,1,0,Electronic check,44.0,44.0,0
+8083-YTZES,0,0,0,4,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.35,265.35,1
+1140-UKVZG,0,0,0,17,Yes,2,No,No,No,No,No,No,1,0,Mailed check,24.8,475.25,0
+8570-KLJYJ,0,0,0,36,Yes,1,Yes,No,No,No,No,No,12,0,Mailed check,54.45,1893.5,0
+2226-ICFDO,0,1,1,72,Yes,1,Yes,No,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),85.9,6110.75,0
+5397-NSKQG,0,1,1,67,No,1,Yes,No,No,No,Yes,Yes,24,0,Credit card (automatic),50.9,3281.65,0
+9108-EQPNQ,0,1,1,10,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),26.1,225.55,0
+9146-JRIOX,0,1,1,14,Yes,2,No,No,No,No,No,No,1,0,Mailed check,25.55,372.45,0
+6563-VRERX,0,1,1,33,No,2,No,No,No,No,No,No,12,0,Mailed check,20.6,690.25,0
+1066-JKSGK,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,20.15,20.15,1
+3926-CUQZX,0,0,0,1,No,1,No,No,No,No,No,No,1,1,Bank transfer (automatic),45.1,45.1,1
+5797-APWZC,0,0,0,1,No,0,No,No,No,No,Yes,Yes,1,0,Electronic check,90.6,90.6,1
+8619-IJNDK,0,1,1,71,No,1,Yes,Yes,Yes,Yes,No,No,24,0,Credit card (automatic),64.05,4492.9,0
+7112-OPOTK,0,0,0,33,No,0,No,No,No,No,No,No,1,0,Electronic check,68.25,2171.15,1
+7503-QQRVF,1,1,0,16,No,0,No,Yes,No,No,No,No,1,1,Credit card (automatic),74.3,1178.25,1
+6950-TWMYB,0,1,1,54,No,0,No,Yes,No,Yes,No,No,24,1,Bank transfer (automatic),79.95,4362.05,0
+9975-SKRNR,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,18.9,18.9,0
+8006-PYCSW,0,0,0,2,No,2,No,No,No,No,No,No,1,0,Mailed check,20.1,39.8,0
+0795-LAFGP,0,1,1,71,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Electronic check,90.4,6668.05,0
+1574-DYCWE,0,1,1,51,No,2,No,No,No,No,No,No,24,0,Mailed check,19.95,1028.75,0
+6175-IRFIT,0,0,0,5,No,0,No,No,No,No,No,Yes,1,0,Mailed check,78.75,426.35,0
+0975-VOOVL,0,0,0,3,No,1,No,Yes,No,No,No,No,1,0,Mailed check,29.2,98.5,0
+4892-VLANZ,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.8,19.8,1
+4132-KALRO,0,0,0,4,Yes,0,No,No,No,Yes,Yes,Yes,1,1,Mailed check,100.85,399.25,0
+5968-VXZLG,0,0,0,2,No,1,No,No,No,No,No,No,1,1,Bank transfer (automatic),46.6,87.9,0
+2111-DWYHN,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,21.1,21.1,0
+0661-KQHNK,0,1,1,6,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.0,105.5,0
+0489-WMEMG,0,0,1,23,No,1,No,No,No,Yes,No,No,12,1,Electronic check,49.45,1119.35,0
+6242-FEGFD,0,1,0,66,Yes,0,Yes,Yes,Yes,Yes,No,No,24,0,Mailed check,96.6,6424.25,0
+8205-MQUGY,0,1,1,12,No,1,Yes,No,No,No,No,No,1,1,Electronic check,49.2,571.15,0
+4374-YMUSQ,0,0,0,34,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,12,0,Credit card (automatic),116.25,3899.05,0
+8922-NPKBJ,0,1,1,42,No,2,No,No,No,No,No,No,24,0,Mailed check,19.35,867.3,0
+1492-KGETH,0,1,1,70,Yes,1,Yes,Yes,Yes,Yes,No,Yes,12,0,Bank transfer (automatic),78.35,5445.95,0
+4632-PAOYU,0,1,1,22,No,2,No,No,No,No,No,No,12,0,Mailed check,19.95,433.5,0
+0746-JTRFU,0,0,0,2,No,1,No,No,No,No,No,No,1,1,Electronic check,25.05,56.35,1
+5312-IRCFR,0,1,1,64,Yes,0,No,Yes,Yes,No,No,Yes,12,1,Electronic check,92.85,5980.75,0
+3967-VQOGC,0,1,1,67,Yes,2,No,No,No,No,No,No,24,1,Mailed check,24.9,1680.25,0
+1465-VINDH,0,1,1,10,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Credit card (automatic),102.1,1068.85,1
+8980-WQFWL,0,0,0,35,No,1,No,No,Yes,No,No,Yes,1,1,Electronic check,62.1,2096.1,0
+1698-XFZCI,0,0,0,61,Yes,0,Yes,Yes,Yes,No,Yes,Yes,12,1,Electronic check,107.75,6521.9,0
+5318-IXUZF,0,0,0,2,No,0,No,Yes,No,No,Yes,No,1,1,Bank transfer (automatic),87.15,183.75,1
+3352-RICWQ,0,1,1,9,No,2,No,No,No,No,No,No,24,0,Mailed check,19.75,210.65,0
+1293-BSEUN,0,1,1,72,No,2,No,No,No,No,No,No,24,1,Mailed check,20.7,1482.3,0
+4931-TRZWN,0,0,0,13,No,1,Yes,No,No,No,Yes,Yes,1,1,Electronic check,71.95,923.85,0
+8003-EWNDZ,0,0,0,10,No,2,No,No,No,No,No,No,1,1,Electronic check,21.2,222.65,0
+7945-PRBVF,0,0,0,35,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),21.45,705.45,0
+3795-CAWEX,0,1,1,70,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),116.55,8152.3,0
+8731-WBBMB,0,1,0,26,No,1,No,Yes,Yes,Yes,Yes,Yes,1,0,Bank transfer (automatic),81.9,2078.55,0
+3745-HRPHI,0,1,1,66,No,1,No,No,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),54.65,3632.0,0
+8967-SZQAS,0,0,0,14,No,1,No,Yes,No,No,No,No,1,0,Electronic check,50.45,765.45,0
+9591-YVTEB,1,0,0,55,No,1,Yes,Yes,No,No,Yes,No,1,1,Electronic check,44.85,2479.05,0
+6036-TTFYU,0,1,0,16,No,2,No,No,No,No,No,No,1,0,Mailed check,19.6,314.45,0
+6821-BUXUX,0,0,0,13,Yes,0,Yes,Yes,No,No,Yes,No,1,1,Electronic check,96.65,1244.5,1
+7163-OCEQI,0,1,1,22,Yes,1,No,No,Yes,Yes,Yes,Yes,12,1,Mailed check,78.65,1663.75,0
+7789-HKSBS,1,1,0,42,Yes,0,Yes,No,Yes,No,Yes,Yes,12,1,Bank transfer (automatic),105.2,4599.15,0
+4659-NZRUF,0,0,0,19,Yes,0,Yes,Yes,No,No,No,Yes,1,1,Electronic check,95.15,1789.25,1
+3039-MJSLN,0,0,1,3,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),20.2,50.6,0
+1600-DILPE,0,0,0,12,No,1,No,No,No,No,No,No,1,1,Bank transfer (automatic),45.0,524.35,0
+8388-FYNPZ,0,0,0,4,No,1,Yes,No,Yes,No,No,No,1,0,Electronic check,56.75,245.15,0
+6440-DKQGE,0,0,1,30,No,1,No,Yes,Yes,No,Yes,No,12,0,Credit card (automatic),64.5,1929.95,0
+1415-YFWLT,1,0,0,1,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,89.3,89.3,1
+9503-XJUME,0,0,1,52,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.65,928.4,0
+8436-BJUMM,0,1,1,26,Yes,0,No,No,No,No,Yes,No,1,1,Electronic check,83.75,2070.6,1
+9565-FLVCG,0,1,1,65,Yes,1,Yes,Yes,No,No,No,Yes,24,1,Mailed check,69.55,4459.15,0
+9253-QXKBE,1,1,0,29,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,94.45,2653.65,1
+9489-JMTTN,0,1,1,72,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),89.75,6595.9,0
+3550-SAHFP,0,0,0,33,Yes,0,No,No,No,No,No,Yes,1,1,Electronic check,83.35,2757.85,1
+2240-HSJQD,0,0,1,38,Yes,0,No,Yes,No,No,No,No,1,1,Mailed check,81.85,3141.7,0
+7672-VFMXZ,0,1,0,57,No,1,Yes,No,No,Yes,No,No,1,0,Electronic check,55.7,3171.6,0
+5828-AVIPD,0,1,1,19,Yes,0,No,No,No,Yes,Yes,Yes,12,1,Electronic check,100.95,1875.55,1
+1480-BKXGA,1,1,0,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),116.05,8404.9,0
+4223-BKEOR,0,0,1,21,No,1,Yes,No,Yes,No,No,Yes,12,0,Mailed check,64.85,1336.8,0
+7054-ENNGU,0,1,0,9,No,1,No,Yes,No,No,No,No,1,0,Mailed check,50.85,466.6,0
+7758-UJWYS,0,1,1,34,No,1,No,No,No,Yes,Yes,No,24,1,Electronic check,40.55,1325.85,0
+8344-WFMFH,0,0,1,9,No,1,No,Yes,No,No,No,No,1,1,Electronic check,50.1,484.05,0
+6734-CKRSM,0,0,0,3,No,2,No,No,No,No,No,No,1,0,Mailed check,20.0,63.6,0
+0967-BMLBD,0,1,1,11,No,2,No,No,No,No,No,No,12,1,Mailed check,20.0,196.35,0
+8050-XGRVL,0,1,1,62,No,1,Yes,No,Yes,No,No,No,12,0,Credit card (automatic),54.75,3425.35,0
+8164-OCKUJ,0,1,1,59,No,2,No,No,No,No,No,No,24,0,Mailed check,20.6,1286.0,0
+7356-IWLFW,0,1,1,46,Yes,0,No,Yes,No,No,No,No,1,1,Bank transfer (automatic),80.0,3769.7,0
+3223-DWFIO,1,0,0,4,No,0,No,No,No,No,No,No,1,0,Electronic check,69.35,261.65,0
+5649-VUKMC,0,0,0,12,No,0,No,No,Yes,No,Yes,Yes,12,0,Mailed check,95.5,1115.15,1
+7845-URHJN,0,1,0,8,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),20.15,156.25,1
+0420-HLGXF,1,0,0,39,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,99.75,4036.0,0
+9330-DHBFL,0,1,1,23,No,1,Yes,Yes,Yes,Yes,No,No,12,1,Mailed check,66.25,1533.8,0
+3680-CTHUH,0,0,0,60,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,12,1,Credit card (automatic),116.6,7049.5,0
+6339-TBELP,0,0,0,71,Yes,0,No,No,Yes,Yes,No,No,24,1,Credit card (automatic),86.4,6172.0,0
+5504-WSIUR,0,0,0,70,Yes,0,No,Yes,Yes,Yes,No,No,12,1,Bank transfer (automatic),90.25,6385.95,0
+6595-COKXZ,0,0,0,1,No,1,No,No,No,No,No,No,1,1,Mailed check,44.45,44.45,1
+4657-FWVFY,0,1,1,40,Yes,0,No,Yes,Yes,No,Yes,No,1,1,Credit card (automatic),96.35,3915.4,0
+2514-GINMM,0,0,0,1,No,0,No,No,No,No,Yes,No,1,1,Electronic check,79.5,79.5,1
+6869-FGJJC,0,0,0,68,No,0,No,Yes,Yes,No,No,No,12,0,Credit card (automatic),79.6,5461.45,0
+8234-GSZYK,0,0,0,43,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),26.45,1110.05,0
+8430-TWCBX,0,1,0,49,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),20.7,1032.05,0
+5845-BZZIB,0,1,1,35,No,2,No,No,No,No,No,No,24,0,Mailed check,20.1,655.3,0
+8734-FNWVH,0,1,1,31,Yes,1,No,No,No,No,No,Yes,1,0,Bank transfer (automatic),59.7,1825.5,0
+1867-BDVFH,0,1,1,11,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.35,834.2,1
+6862-CQUMB,0,0,0,37,No,0,No,Yes,No,No,Yes,Yes,1,1,Credit card (automatic),96.1,3646.8,0
+4010-YLMVT,0,0,0,56,Yes,0,Yes,Yes,No,No,Yes,Yes,1,1,Credit card (automatic),106.6,5893.95,0
+9507-HSMMZ,0,0,0,54,No,2,No,No,No,No,No,No,24,0,Mailed check,20.0,1149.65,0
+4074-SJFFA,0,0,0,1,No,1,No,No,No,No,No,Yes,1,1,Mailed check,54.75,54.75,1
+1299-AURJA,0,1,1,70,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),24.7,1685.9,0
+5590-YRFJT,0,1,0,20,No,1,No,No,No,No,No,No,1,1,Electronic check,24.45,482.8,1
+7148-XZPHA,0,1,1,55,No,0,No,Yes,No,Yes,No,No,1,0,Electronic check,79.4,4238.45,0
+1088-AUUZZ,0,1,1,56,Yes,1,Yes,Yes,No,Yes,No,Yes,24,1,Credit card (automatic),75.85,4261.2,0
+6313-GIDIT,1,0,0,53,No,1,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,54.45,2854.55,1
+4821-WQOYN,0,1,1,72,No,2,No,No,No,No,No,No,24,1,Credit card (automatic),20.1,1326.25,0
+4854-SSLTN,0,1,1,2,No,1,Yes,Yes,No,Yes,No,No,24,0,Mailed check,59.5,130.5,0
+7000-WCEVQ,1,0,0,20,Yes,1,No,No,No,No,No,Yes,1,1,Mailed check,61.6,1174.35,1
+2378-VTKDH,1,1,0,65,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,104.35,6578.55,0
+1098-TDVUQ,0,0,0,1,No,2,No,No,No,No,No,No,1,1,Bank transfer (automatic),19.25,19.25,0
+3551-HUAZH,1,0,0,1,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.4,74.4,1
+4189-NAKJS,0,0,0,26,Yes,1,No,No,No,No,No,No,12,1,Credit card (automatic),51.55,1295.4,0
+9818-XQCUV,0,0,0,2,No,2,No,No,No,No,No,No,1,0,Mailed check,20.35,45.3,0
+6614-FHDBO,0,0,0,72,Yes,0,No,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),109.2,7878.3,0
+9940-RHLFB,0,0,0,1,No,0,No,No,Yes,No,No,No,1,0,Electronic check,75.3,75.3,1
+3863-QSTYI,0,0,0,59,No,1,No,No,Yes,Yes,Yes,No,1,1,Electronic check,64.65,3735.45,0
+8714-CTZJW,0,0,0,4,No,0,No,No,Yes,No,No,Yes,1,1,Credit card (automatic),82.85,319.6,0
+5811-IWXYM,0,1,1,52,Yes,0,No,No,Yes,No,Yes,Yes,12,0,Bank transfer (automatic),101.25,5301.1,0
+9225-BZLNZ,0,1,0,72,Yes,1,Yes,Yes,Yes,No,Yes,Yes,24,1,Electronic check,85.25,6083.1,0
+9351-HXDMR,0,1,0,72,Yes,0,Yes,No,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),110.9,8240.85,0
+7928-VJYAB,0,1,1,11,No,0,No,No,No,No,Yes,Yes,1,0,Electronic check,90.6,1020.2,0
+0325-XBFAC,0,0,0,8,No,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,94.7,740.3,1
+0909-SELIE,0,1,0,61,Yes,1,Yes,Yes,Yes,Yes,No,Yes,24,1,Bank transfer (automatic),80.8,4860.85,0
+0516-VRYBW,0,0,1,18,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),20.15,390.85,1
+2984-TBYKU,0,1,1,72,Yes,0,Yes,Yes,Yes,Yes,No,Yes,24,1,Credit card (automatic),104.9,7732.65,0
+8840-DQLGN,1,1,0,35,Yes,0,Yes,Yes,No,Yes,Yes,No,1,1,Bank transfer (automatic),100.5,3653.35,1
+7032-LMBHI,0,0,0,37,Yes,1,Yes,No,No,No,Yes,No,12,0,Bank transfer (automatic),64.65,2347.85,0
+8510-AWCXC,1,0,0,13,Yes,0,Yes,No,No,No,Yes,Yes,1,1,Electronic check,100.8,1308.1,1
+6728-CZFEI,0,0,0,15,No,1,No,No,No,No,Yes,No,12,0,Mailed check,56.15,931.9,0
+9397-TZSHA,0,0,0,69,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),24.6,1678.05,0
+1670-SVOWZ,0,1,1,14,No,0,No,Yes,No,Yes,No,Yes,1,1,Credit card (automatic),89.65,1208.35,1
+8388-DMKAE,0,0,0,8,No,2,No,No,No,No,No,No,24,0,Mailed check,20.25,174.65,0
+3192-LNKRK,0,1,1,34,No,0,No,No,Yes,No,Yes,No,1,1,Mailed check,84.05,2909.95,0
+6633-MPWBS,0,0,0,5,No,1,No,No,No,Yes,No,No,1,1,Electronic check,49.2,216.9,1
+4868-AADLV,1,1,1,66,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,12,1,Electronic check,116.25,7862.25,0
+0504-HHAPI,1,0,0,27,Yes,0,No,No,Yes,No,No,Yes,1,0,Credit card (automatic),88.3,2467.75,1
+6248-TKCQV,0,1,1,70,Yes,1,Yes,No,No,Yes,Yes,Yes,24,1,Bank transfer (automatic),80.6,5460.2,0
+2612-RRIDN,0,0,0,4,No,0,No,No,No,No,Yes,No,1,1,Electronic check,81.0,340.85,1
+0643-OKLRP,1,1,0,47,Yes,0,Yes,No,No,No,No,No,1,0,Electronic check,80.35,3825.85,1
+7825-GKXMW,0,0,0,1,No,1,No,No,No,No,No,No,1,0,Electronic check,45.8,45.8,1
+1821-BUCWY,0,0,0,30,No,1,Yes,No,Yes,No,No,No,24,1,Mailed check,55.65,1653.85,0
+2468-SJFLM,0,0,0,1,No,0,No,No,No,Yes,No,No,1,1,Mailed check,74.3,74.3,0
+5458-CQJTA,0,1,1,65,No,1,Yes,No,No,Yes,Yes,Yes,24,1,Bank transfer (automatic),74.8,4820.15,1
+2079-FBMZK,0,0,0,6,No,0,No,No,No,No,No,No,1,1,Mailed check,69.25,418.4,1
+8237-ULIXL,0,1,0,72,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),24.85,1871.85,0
+2632-UCGVD,1,1,0,66,Yes,0,No,No,No,Yes,Yes,Yes,1,1,Credit card (automatic),100.05,6871.9,1
+3990-QYKBE,1,1,0,37,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,92.5,3473.4,1
+0107-WESLM,0,0,0,1,No,2,No,No,No,No,No,No,1,1,Electronic check,19.85,19.85,1
+6124-ACRHJ,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.75,19.75,0
+1596-OQSPS,0,0,0,11,No,1,No,Yes,No,No,No,No,1,0,Electronic check,51.1,531.15,0
+8809-RIHDD,0,1,1,72,Yes,0,No,Yes,Yes,No,Yes,Yes,24,1,Electronic check,103.4,7372.65,1
+5803-NQJZO,0,1,0,72,Yes,1,Yes,Yes,Yes,Yes,No,No,24,1,Bank transfer (automatic),67.8,4804.65,0
+4458-KVRBJ,0,0,0,59,Yes,2,No,No,No,No,No,No,24,0,Mailed check,25.0,1510.5,0
+3043-SUDUA,0,0,0,32,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),19.9,601.55,0
+3654-ARMGP,0,0,0,61,Yes,1,No,Yes,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),88.65,5321.25,0
+8399-YNDCH,1,0,0,21,No,1,No,No,Yes,No,Yes,No,1,1,Bank transfer (automatic),60.05,1236.15,1
+0191-EQUUH,0,0,1,25,No,1,Yes,No,No,Yes,No,No,24,0,Bank transfer (automatic),35.05,844.45,0
+5527-ACHSO,0,0,0,11,No,1,No,No,No,Yes,Yes,Yes,1,0,Mailed check,70.5,829.3,0
+0916-QOFDP,1,1,1,14,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,95.8,1346.3,0
+4091-TVOCN,0,0,1,48,Yes,1,Yes,No,Yes,No,Yes,Yes,12,1,Credit card (automatic),78.75,3682.45,0
+8123-QBNAZ,0,1,1,36,Yes,0,Yes,No,Yes,No,Yes,Yes,1,1,Credit card (automatic),104.5,3684.95,0
+2034-CGRHZ,1,0,0,24,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Credit card (automatic),102.95,2496.7,1
+9802-CAQUT,0,1,1,72,Yes,0,Yes,Yes,Yes,No,Yes,Yes,24,0,Credit card (automatic),109.55,7887.25,0
+2817-LVCPP,0,0,0,50,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.4,1023.95,0
+2379-GYFLQ,0,0,0,46,Yes,0,No,Yes,Yes,No,Yes,No,12,1,Credit card (automatic),94.9,4422.95,0
+1196-AMORA,0,0,0,7,Yes,0,No,No,No,No,No,No,1,0,Electronic check,73.6,520.0,1
+0310-SUCIN,0,1,0,71,No,1,Yes,Yes,Yes,Yes,Yes,Yes,12,1,Bank transfer (automatic),84.8,6046.1,0
+7274-RTAPZ,0,0,0,1,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,90.55,90.55,1
+4694-PHWFW,0,0,1,8,No,2,No,No,No,No,No,No,1,0,Mailed check,19.95,170.9,0
+5404-GGUKR,0,0,0,5,No,1,No,Yes,No,No,No,No,1,1,Electronic check,51.35,262.3,0
+6856-RAURS,0,0,0,2,Yes,0,No,No,No,No,No,No,1,1,Mailed check,74.9,136.05,0
+1135-LMECX,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.85,19.85,0
+1544-JJMYL,0,0,0,27,No,1,Yes,No,Yes,Yes,Yes,No,12,0,Credit card (automatic),69.35,1927.3,0
+7488-MXJIV,0,0,0,4,Yes,0,No,No,No,No,Yes,No,1,1,Electronic check,85.65,321.65,1
+7570-WELNY,0,1,0,68,Yes,0,Yes,Yes,No,No,No,No,24,1,Bank transfer (automatic),84.7,5711.05,0
+0390-DCFDQ,1,1,0,1,No,0,No,No,No,No,No,No,1,1,Mailed check,70.45,70.45,1
+8129-GMVGI,0,1,1,56,No,2,No,No,No,No,No,No,24,0,Mailed check,20.05,1090.1,0
+8739-WWKDU,1,0,0,25,Yes,0,No,Yes,No,No,Yes,No,1,1,Electronic check,89.5,2196.15,1
+7938-OUHIO,0,0,0,3,No,0,No,No,Yes,Yes,Yes,Yes,1,1,Electronic check,98.7,293.65,1
+3724-BSCVH,0,1,1,10,No,2,No,No,No,No,No,No,12,0,Mailed check,20.45,242.4,0
+2386-LAHRK,0,0,0,1,No,1,No,No,No,No,Yes,No,1,1,Mailed check,53.5,53.5,1
+3173-NVMPX,0,1,1,9,Yes,1,No,Yes,No,No,No,No,1,1,Mailed check,55.3,501.2,0
+8780-RSYYU,0,0,0,25,No,2,No,No,No,No,No,No,1,1,Credit card (automatic),19.2,532.1,0
+2154-KVJFF,0,0,0,15,Yes,0,No,Yes,No,No,No,No,1,1,Electronic check,79.75,1111.85,1
+8761-NSOBC,0,0,0,44,No,0,No,Yes,No,Yes,Yes,Yes,1,0,Electronic check,100.55,4398.15,1
+3663-MITLP,0,0,0,15,No,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,101.25,1457.25,1
+8722-NGNBH,0,0,0,5,No,1,Yes,No,Yes,Yes,No,No,1,0,Mailed check,40.0,223.45,1
+8514-VZHEB,0,1,1,59,No,2,No,No,No,No,No,No,24,0,Mailed check,19.5,1147.85,0
+8201-AAXCB,0,1,1,25,Yes,1,No,No,No,No,Yes,No,1,0,Electronic check,60.35,1404.65,0
+8454-AATJP,0,0,0,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),115.05,8405.0,0
+5309-TAIKL,0,0,0,7,No,1,No,No,Yes,Yes,No,Yes,1,0,Bank transfer (automatic),62.8,418.3,0
+4686-UXDML,0,0,0,21,Yes,0,No,Yes,No,No,Yes,Yes,1,1,Credit card (automatic),99.85,1992.55,0
+9701-CDXHR,0,1,0,51,No,0,No,No,No,No,No,No,1,0,Mailed check,69.15,3649.6,0
+1984-GPTEH,0,0,0,29,Yes,2,No,No,No,No,No,No,1,0,Electronic check,25.15,702.0,0
+6754-WKSHP,0,0,1,30,Yes,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),25.35,723.3,0
+2293-IJWPS,0,1,0,57,Yes,0,No,No,Yes,No,Yes,Yes,12,1,Credit card (automatic),100.75,5985.0,0
+8548-AWOFC,0,1,0,66,Yes,1,No,No,No,Yes,No,Yes,1,0,Electronic check,63.85,4264.6,0
+1346-UFHAX,0,0,0,13,Yes,0,Yes,No,No,No,No,No,1,1,Credit card (automatic),80.0,1029.35,0
+4526-EXKKN,0,0,0,40,Yes,2,No,No,No,No,No,No,24,1,Mailed check,24.6,973.95,0
+1980-KXVPM,1,0,0,3,Yes,0,No,No,No,No,No,No,1,1,Credit card (automatic),75.05,256.25,1
+2606-RMDHZ,0,0,0,6,No,1,No,Yes,No,No,No,No,1,1,Credit card (automatic),30.5,208.7,1
+3230-IUALN,0,1,1,45,No,1,Yes,No,Yes,Yes,Yes,Yes,24,1,Mailed check,81.0,3533.6,0
+6439-PKTRR,0,1,1,70,Yes,1,Yes,Yes,Yes,Yes,Yes,No,24,0,Electronic check,80.7,5617.95,0
+0689-NKYLF,0,0,0,13,No,0,No,No,Yes,No,Yes,No,1,1,Electronic check,83.2,1060.6,1
+9847-HNVGP,0,0,0,17,No,2,No,No,No,No,No,No,12,0,Mailed check,19.95,310.6,0
+0264-CNITK,0,1,1,71,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),20.1,1389.6,0
+4012-YCFAI,0,1,0,60,No,1,Yes,Yes,No,Yes,No,No,24,1,Mailed check,61.35,3766.2,0
+1564-NTYXF,1,0,0,13,Yes,0,No,No,No,No,No,Yes,1,1,Electronic check,82.0,1127.2,1
+4439-JMPMT,0,1,1,5,No,0,No,No,No,Yes,Yes,No,1,1,Electronic check,85.75,470.95,1
+5447-WZAFP,0,0,0,53,No,0,No,Yes,Yes,No,Yes,Yes,12,1,Mailed check,100.3,5200.8,0
+4123-DVHPH,0,1,0,9,Yes,0,Yes,No,No,No,No,Yes,1,1,Electronic check,88.05,801.3,0
+4672-FOTSD,0,0,0,12,Yes,1,Yes,Yes,No,Yes,No,No,1,1,Electronic check,67.25,832.3,0
+5673-TIYIB,0,0,0,2,No,1,No,Yes,Yes,Yes,No,No,1,1,Credit card (automatic),40.4,77.15,1
+0668-OGMHD,0,1,0,21,No,1,Yes,No,No,No,No,No,1,0,Electronic check,28.5,629.35,0
+2982-VPSGI,0,1,0,11,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,94.0,1078.9,1
+3845-FXCYS,0,0,0,2,No,2,No,No,No,No,No,No,1,1,Electronic check,19.65,31.2,0
+3717-OEAUQ,0,0,0,2,No,0,No,No,No,No,No,No,1,0,Mailed check,70.7,129.2,0
+8869-TORSS,0,0,0,48,No,1,Yes,No,Yes,Yes,No,No,12,1,Credit card (automatic),60.35,2896.4,1
+8128-YVJRG,0,0,0,7,Yes,0,Yes,No,No,No,No,No,1,1,Mailed check,79.65,604.7,1
+8709-KRDVL,0,0,0,33,Yes,0,No,Yes,No,No,Yes,Yes,1,1,Electronic check,100.0,3320.6,0
+6368-TZZDT,0,1,1,4,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.5,96.85,0
+5651-CRHKQ,0,1,0,41,No,0,No,Yes,Yes,Yes,No,No,12,1,Bank transfer (automatic),86.2,3339.05,0
+6082-GLJIX,0,0,0,18,No,2,No,No,No,No,No,No,1,0,Mailed check,19.25,331.35,0
+6650-BWFRT,0,1,0,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),117.15,8529.5,0
+4717-GHADL,0,0,0,50,Yes,1,No,Yes,No,Yes,Yes,Yes,24,1,Mailed check,79.6,4024.2,0
+8259-NFJTV,0,1,1,7,No,1,Yes,No,No,Yes,No,No,1,0,Mailed check,34.65,246.6,0
+3933-DQPWX,0,0,0,50,No,1,No,Yes,Yes,Yes,No,No,24,0,Credit card (automatic),39.7,1932.75,0
+5687-DKDTV,0,0,0,4,No,2,No,No,No,No,No,No,1,0,Mailed check,20.35,77.5,1
+0121-SNYRK,0,0,0,50,No,1,Yes,No,No,Yes,No,No,12,1,Mailed check,35.4,1748.9,0
+1403-LKLIK,0,1,1,33,No,2,No,No,No,No,No,No,12,0,Mailed check,20.1,579.4,0
+9073-ZZIAY,0,1,1,62,No,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Electronic check,86.1,5215.25,0
+7950-XWOVN,0,0,0,11,No,1,No,Yes,Yes,No,No,No,1,0,Mailed check,34.7,383.55,0
+9732-KPKBW,0,0,0,1,No,1,Yes,No,No,Yes,No,No,1,1,Electronic check,53.95,53.95,1
+5457-COLHT,0,1,1,69,No,1,Yes,Yes,No,Yes,Yes,Yes,24,0,Bank transfer (automatic),80.65,5542.55,0
+0459-SPZHJ,0,1,1,63,Yes,1,Yes,Yes,Yes,No,Yes,Yes,24,0,Credit card (automatic),83.5,5435.0,0
+3778-FOAQW,0,1,0,24,No,2,No,No,No,No,No,No,12,0,Mailed check,20.15,456.85,0
+7094-MSZAO,0,1,1,10,No,2,No,No,No,No,No,No,1,1,Credit card (automatic),20.05,218.5,0
+2739-CCZMB,0,0,1,5,No,2,No,No,No,No,No,No,1,0,Credit card (automatic),20.35,122.0,0
+0423-UDIJQ,1,0,0,9,No,1,No,No,No,Yes,No,No,1,0,Mailed check,49.2,447.9,0
+3841-NFECX,1,1,0,71,Yes,0,Yes,Yes,Yes,Yes,No,No,24,1,Credit card (automatic),96.35,6766.95,0
+2200-DSAAL,0,0,0,68,Yes,1,No,Yes,Yes,No,Yes,Yes,24,1,Electronic check,80.65,5330.2,0
+2506-TNFCO,1,1,0,1,No,0,No,No,No,No,No,No,1,1,Electronic check,69.55,69.55,1
+5802-ADBRC,0,1,0,50,Yes,0,Yes,No,Yes,No,Yes,Yes,12,1,Mailed check,104.4,5232.9,0
+6434-TTGJP,0,1,1,10,No,1,Yes,Yes,Yes,Yes,No,Yes,24,0,Credit card (automatic),53.7,521.0,0
+4159-NAAIX,0,0,0,63,Yes,0,No,Yes,No,No,Yes,Yes,24,0,Bank transfer (automatic),97.45,6253.0,0
+8932-CZHRQ,0,0,0,68,Yes,1,Yes,Yes,Yes,No,No,Yes,12,0,Credit card (automatic),76.75,5233.25,0
+7239-HZZCX,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.75,19.75,1
+3389-YGYAI,1,0,0,8,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,105.5,829.55,1
+2672-DZUOY,0,0,0,1,No,1,No,No,No,No,No,No,1,1,Electronic check,25.15,25.15,1
+6035-RIIOM,0,0,0,54,Yes,0,No,Yes,No,No,Yes,Yes,24,1,Bank transfer (automatic),97.2,5129.45,0
+9090-SGQXL,1,1,0,68,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,105.3,7299.65,1
+5133-VRSAB,0,0,0,8,No,1,Yes,No,No,No,No,No,1,0,Mailed check,29.35,216.45,0
+0856-NAOES,0,0,0,6,No,1,No,No,Yes,No,Yes,No,1,0,Mailed check,60.9,414.1,0
+0613-WUXUM,0,1,1,70,No,2,No,No,No,No,No,No,24,1,Mailed check,19.2,1401.4,0
+2209-XADXF,0,0,0,1,No,1,No,No,No,No,No,No,1,0,Bank transfer (automatic),25.25,25.25,0
+5138-WVKYJ,0,0,0,10,Yes,0,Yes,No,No,No,Yes,Yes,1,0,Electronic check,98.55,1008.55,1
+3870-MQAMG,0,1,0,54,Yes,0,No,Yes,Yes,Yes,Yes,Yes,12,0,Electronic check,110.35,5893.15,1
+4558-CGYCZ,0,0,0,4,No,2,No,No,No,No,No,No,1,0,Mailed check,19.75,78.3,0
+1481-ZUWZA,0,0,0,28,Yes,0,Yes,Yes,No,No,No,Yes,1,1,Credit card (automatic),94.5,2659.4,1
+7750-EYXWZ,0,0,0,12,No,1,No,Yes,Yes,Yes,Yes,Yes,12,0,Electronic check,60.65,743.3,0
+6656-JWRQX,0,0,0,1,No,1,No,No,No,Yes,No,No,1,0,Mailed check,30.55,30.55,0
+2458-EOMRE,0,0,0,11,No,1,Yes,No,Yes,No,No,Yes,1,0,Bank transfer (automatic),64.05,733.95,0
+0732-OCQOC,0,1,1,52,Yes,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),25.05,1270.25,0
+1257-SXUXQ,0,1,1,5,No,2,No,No,No,No,No,No,1,0,Mailed check,19.45,86.05,0
+9067-YGSCA,0,0,0,70,Yes,2,No,No,No,No,No,No,12,0,Credit card (automatic),26.05,1856.4,0
+6789-HJBWG,0,0,0,12,No,1,No,Yes,No,No,No,No,1,1,Electronic check,49.4,611.65,0
+5346-BZCHP,0,1,1,69,No,2,No,No,No,No,No,No,24,0,Mailed check,19.4,1346.2,0
+7399-QHBJS,0,1,1,72,Yes,1,Yes,Yes,No,Yes,No,No,24,0,Credit card (automatic),66.75,4760.3,0
+0365-GXEZS,0,1,0,18,No,0,No,No,Yes,Yes,No,No,1,0,Electronic check,78.2,1468.75,0
+2774-LVQUS,1,1,0,15,Yes,0,No,No,Yes,Yes,No,No,1,1,Electronic check,83.05,1258.3,1
+1724-IQWNM,0,0,1,1,No,2,No,No,No,No,No,No,1,1,Mailed check,19.3,19.3,0
+0812-WUPTB,1,1,0,1,No,0,No,No,No,No,No,No,1,0,Mailed check,70.85,70.85,1
+8670-ERCJH,0,0,0,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),113.4,8164.1,0
+1697-BCSHV,0,1,1,58,Yes,1,No,Yes,No,No,Yes,No,1,1,Bank transfer (automatic),66.8,3970.4,0
+7675-OZCZG,1,0,0,3,No,1,No,No,No,No,No,No,1,0,Electronic check,45.0,127.1,1
+5178-LMXOP,1,1,0,1,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,95.1,95.1,1
+9717-IOAAF,0,0,1,27,Yes,2,No,No,No,No,No,No,24,1,Credit card (automatic),25.85,788.55,0
+6631-HMANX,0,1,0,72,Yes,1,No,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),85.45,6227.5,0
+9695-IDRZR,0,0,1,34,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),116.15,3946.9,0
+0378-NHQXU,0,1,1,17,Yes,0,No,No,Yes,No,Yes,No,1,0,Electronic check,88.25,1460.65,1
+3694-DELSO,0,1,1,4,No,1,Yes,No,No,No,Yes,No,1,0,Credit card (automatic),38.55,156.1,0
+3703-TTEPD,0,0,0,21,No,1,Yes,No,Yes,No,Yes,No,1,0,Bank transfer (automatic),65.35,1424.4,0
+4441-NIHPT,1,0,0,13,No,0,No,No,Yes,No,No,No,1,1,Electronic check,74.3,940.35,1
+4237-RLAQD,0,0,0,1,No,1,No,No,No,No,No,No,1,1,Mailed check,45.85,45.85,1
+9992-RRAMN,0,1,0,22,Yes,0,No,No,No,No,No,Yes,1,1,Electronic check,85.1,1873.7,1
+7673-LPRNY,0,0,0,23,Yes,1,Yes,No,Yes,No,Yes,Yes,12,1,Electronic check,78.55,1843.05,0
+8345-MVDYC,0,0,0,45,No,1,Yes,No,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),81.65,3618.7,0
+8224-IVVPA,0,0,0,27,No,1,Yes,Yes,No,No,No,No,1,1,Mailed check,56.7,1652.95,0
+2296-DKZFP,0,1,0,65,No,1,Yes,Yes,Yes,No,No,Yes,24,0,Bank transfer (automatic),71.0,4386.2,0
+5056-FIMPT,0,0,1,43,No,0,Yes,Yes,No,Yes,Yes,Yes,12,1,Credit card (automatic),106.0,4532.3,0
+3594-IVHJZ,0,0,0,2,No,2,No,No,No,No,No,No,1,1,Mailed check,20.45,42.45,0
+8564-LDKFL,0,1,0,40,Yes,0,No,Yes,Yes,No,Yes,Yes,12,1,Bank transfer (automatic),106.0,4178.65,0
+9904-EHEVJ,1,1,1,32,Yes,0,No,No,Yes,No,Yes,No,1,1,Mailed check,91.35,2896.55,0
+9025-ZRPVR,0,0,0,9,No,2,No,No,No,No,No,No,1,1,Mailed check,18.95,185.6,1
+4328-VUFWD,0,0,0,39,No,1,No,No,No,Yes,No,Yes,12,0,Electronic check,59.3,2209.15,0
+0650-BWOZN,1,0,0,18,No,0,No,Yes,No,No,No,No,1,1,Electronic check,73.55,1359.45,0
+9398-MMQTO,0,0,0,3,No,0,No,Yes,No,No,No,No,1,0,Credit card (automatic),74.45,221.1,0
+5044-LRQAQ,0,1,0,7,No,0,No,No,No,No,No,No,1,1,Bank transfer (automatic),69.2,477.55,0
+2108-YKQTY,0,0,0,4,No,1,No,Yes,No,No,No,No,1,0,Credit card (automatic),50.7,151.3,1
+7010-ZMVBF,0,1,1,18,No,2,No,No,No,No,No,No,1,0,Mailed check,20.45,357.0,0
+3197-ARFOY,1,0,0,19,No,0,Yes,Yes,No,Yes,Yes,Yes,1,1,Mailed check,105.0,2007.25,0
+2729-VNVAP,0,1,1,33,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.8,641.35,0
+9544-PYPSJ,1,1,1,62,Yes,0,No,Yes,Yes,No,No,Yes,1,1,Credit card (automatic),96.1,6019.35,0
+1078-TDCRN,1,1,0,3,No,1,No,Yes,No,No,No,No,1,1,Electronic check,30.75,82.85,0
+4187-CINZD,1,0,0,46,No,0,No,Yes,No,No,Yes,Yes,12,0,Credit card (automatic),95.25,4424.2,1
+2984-MIIZL,0,0,0,4,No,0,No,No,Yes,No,No,No,1,1,Bank transfer (automatic),74.8,321.9,1
+6322-PJJDJ,0,1,0,49,No,0,No,Yes,No,No,Yes,Yes,24,1,Electronic check,94.8,4690.65,0
+2429-AYKKO,0,0,0,72,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),19.85,1434.1,0
+0623-EJQEG,0,0,0,65,Yes,0,Yes,No,No,Yes,No,Yes,12,0,Electronic check,93.55,6069.25,0
+2592-HODOV,0,0,0,13,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.3,259.65,0
+1623-NLDOT,0,1,0,42,No,1,No,Yes,No,Yes,No,No,12,0,Mailed check,33.55,1445.3,1
+6980-IMXXE,0,1,1,69,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),20.2,1412.65,0
+4430-YHXGG,0,0,1,4,Yes,2,No,No,No,No,No,No,1,1,Mailed check,25.45,84.2,0
+4910-GMJOT,0,0,0,1,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,94.6,94.6,1
+8627-ZYGSZ,0,1,0,47,Yes,0,No,Yes,No,No,No,No,12,1,Electronic check,78.9,3650.35,0
+1444-VVSGW,0,1,0,70,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,12,0,Credit card (automatic),115.65,7968.85,1
+6961-MJKBO,0,0,0,47,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),20.45,943.0,0
+5876-QMYLD,0,1,1,23,No,2,No,No,No,No,No,No,12,0,Mailed check,20.05,415.1,0
+7677-SJJJK,0,1,1,8,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.9,153.95,0
+3716-BDVDB,0,0,0,1,No,0,No,No,No,No,No,No,1,1,Electronic check,69.1,69.1,1
+3785-NRHYR,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.65,19.65,0
+4134-BSXLX,0,1,0,28,No,1,Yes,Yes,No,Yes,No,No,1,0,Mailed check,60.9,1785.65,0
+3677-TNKIO,0,0,0,14,No,0,No,No,No,No,No,No,1,1,Credit card (automatic),71.0,914.0,1
+2812-SFXMJ,0,0,1,1,No,2,No,No,No,No,No,No,1,0,Mailed check,20.05,20.05,0
+6762-NSODU,0,1,1,46,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.4,958.15,0
+3733-UOCWF,1,1,0,61,Yes,0,No,Yes,No,Yes,No,No,12,1,Bank transfer (automatic),85.55,5251.75,0
+7343-EOBEU,0,1,0,3,Yes,2,No,No,No,No,No,No,1,1,Mailed check,23.6,89.05,0
+3066-RRJIO,0,0,0,1,No,0,No,No,No,No,No,No,1,1,Mailed check,69.95,69.95,1
+2754-SDJRD,1,0,0,8,Yes,0,No,No,No,Yes,Yes,Yes,1,1,Credit card (automatic),100.15,908.55,0
+1582-RAFML,0,0,0,1,Yes,1,No,Yes,No,Yes,No,No,1,0,Mailed check,60.1,60.1,1
+5312-UXESG,0,0,0,41,Yes,0,No,No,Yes,No,Yes,Yes,1,0,Bank transfer (automatic),98.05,3990.6,0
+5461-QKNTN,1,1,0,43,Yes,0,No,Yes,No,Yes,Yes,No,1,1,Electronic check,94.3,3953.15,0
+5499-ECUTN,0,1,0,47,No,1,Yes,No,Yes,No,Yes,No,12,1,Credit card (automatic),66.05,3021.45,0
+0064-YIJGF,0,1,1,27,Yes,0,No,No,No,No,No,No,1,1,Bank transfer (automatic),75.75,1929.0,0
+2388-LAESQ,1,1,0,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),114.85,8317.95,0
+7568-PODML,0,0,0,1,No,1,No,No,No,No,Yes,Yes,1,1,Mailed check,45.3,45.3,1
+4912-PIGUY,0,0,0,1,Yes,0,No,No,No,No,Yes,No,1,1,Electronic check,84.6,84.6,0
+8885-QSQBX,0,0,0,1,No,1,Yes,No,No,No,No,No,1,0,Bank transfer (automatic),49.55,49.55,0
+4558-FANTW,0,1,1,17,No,0,Yes,No,No,Yes,Yes,No,1,0,Electronic check,91.85,1574.45,1
+3458-IDMFK,0,0,0,25,No,2,No,No,No,No,No,No,24,1,Mailed check,20.75,499.4,0
+4312-GVYNH,0,1,0,70,No,1,Yes,No,Yes,Yes,No,Yes,24,1,Bank transfer (automatic),49.85,3370.2,0
+9172-JITSM,0,1,1,26,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,90.8,2361.8,1
+9600-NAXZN,0,0,0,43,Yes,0,No,Yes,No,No,Yes,Yes,1,1,Electronic check,101.4,4528.0,1
+6311-UEUME,0,0,0,29,No,0,No,No,No,No,Yes,No,1,1,Electronic check,78.9,2384.15,1
+0052-DCKON,0,1,0,66,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,12,0,Bank transfer (automatic),115.8,7942.15,0
+9940-HPQPG,0,1,0,9,Yes,0,Yes,Yes,Yes,No,No,No,1,0,Bank transfer (automatic),91.75,865.8,1
+6152-ONASV,0,1,0,68,Yes,1,Yes,No,No,Yes,No,No,12,0,Bank transfer (automatic),58.25,3975.7,0
+6595-YGXIT,1,0,0,25,Yes,0,No,Yes,No,No,Yes,No,1,1,Electronic check,88.95,2291.2,1
+0866-QLSIR,0,0,0,34,Yes,1,Yes,Yes,No,Yes,No,No,12,1,Mailed check,64.4,2088.75,1
+0616-ATFGB,1,1,0,1,No,1,No,No,No,No,No,No,1,0,Electronic check,25.05,25.05,1
+5970-GHJAW,0,1,1,46,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.95,862.4,0
+8972-HJWNV,1,1,0,7,Yes,0,No,No,No,No,No,Yes,1,1,Electronic check,84.55,646.85,1
+6629-CZTTH,0,0,0,1,No,1,No,No,No,No,No,Yes,1,1,Mailed check,55.7,55.7,1
+7268-IGMFD,1,0,0,18,Yes,0,No,No,Yes,Yes,Yes,No,1,0,Bank transfer (automatic),93.9,1743.9,0
+2685-SREOM,0,1,1,25,Yes,0,No,No,Yes,No,No,Yes,1,1,Electronic check,89.1,2368.4,1
+9504-YAZWB,0,0,0,53,No,2,No,No,No,No,No,No,24,0,Mailed check,20.25,1048.45,0
+0419-YAAPX,0,1,0,49,No,0,No,Yes,No,No,Yes,No,1,1,Credit card (automatic),85.3,4297.95,0
+3262-EIDHV,0,1,1,72,Yes,1,Yes,No,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),84.7,5893.9,0
+1740-CSDJP,0,0,0,1,No,1,No,No,No,No,No,Yes,1,1,Bank transfer (automatic),35.25,35.25,1
+5203-XEHAX,0,0,0,34,No,1,Yes,Yes,No,No,No,Yes,12,0,Electronic check,64.35,2053.05,0
+7932-WPTDS,1,1,0,1,No,1,No,No,No,No,No,No,1,1,Electronic check,24.8,24.8,1
+2013-SGDXK,0,0,0,1,No,0,No,Yes,No,No,Yes,No,1,0,Electronic check,84.3,84.3,1
+7439-DKZTW,0,0,0,1,No,0,No,No,No,No,Yes,No,1,1,Electronic check,80.55,80.55,0
+6585-WCEWR,0,1,1,72,No,2,No,No,No,No,No,No,24,0,Electronic check,20.35,1354.4,0
+2616-UUTFK,0,1,0,33,Yes,1,Yes,Yes,Yes,No,Yes,No,1,1,Bank transfer (automatic),72.75,2447.45,0
+6695-AMZUF,0,1,0,70,No,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),86.45,5950.2,0
+6483-OATDN,0,1,1,8,No,1,Yes,No,No,No,No,No,1,1,Credit card (automatic),51.3,411.6,0
+5419-CONWX,1,0,0,4,No,0,No,Yes,Yes,No,Yes,Yes,1,1,Credit card (automatic),99.8,442.85,1
+9470-YFUYI,1,1,0,71,No,1,Yes,Yes,No,Yes,Yes,No,12,1,Bank transfer (automatic),71.0,5012.1,0
+8565-CLBZW,0,0,0,24,Yes,0,No,No,Yes,No,Yes,No,1,1,Mailed check,89.85,2165.05,1
+0471-LVHGK,0,1,0,41,Yes,1,No,No,Yes,No,Yes,Yes,12,1,Electronic check,73.0,3001.2,1
+2898-MRKPI,0,1,1,68,Yes,0,No,Yes,No,No,Yes,Yes,12,1,Credit card (automatic),101.05,6770.5,0
+0148-DCDOS,0,0,0,25,Yes,0,No,No,No,No,Yes,Yes,1,1,Bank transfer (automatic),94.7,2362.1,1
+7398-HPYZQ,0,1,0,71,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),90.55,6404.0,0
+6728-DKUCO,0,1,1,72,Yes,0,Yes,Yes,No,No,Yes,Yes,12,1,Electronic check,104.15,7303.05,0
+4611-ANLQC,0,1,0,60,No,1,Yes,Yes,Yes,No,No,Yes,12,0,Electronic check,50.05,2911.5,0
+8910-LEDAG,1,1,0,34,No,0,No,No,No,No,No,No,1,0,Credit card (automatic),71.55,2427.35,0
+8404-FYDIB,0,0,0,26,Yes,0,Yes,Yes,No,No,No,No,1,1,Credit card (automatic),86.65,2208.75,0
+0508-SQWPL,0,1,1,57,No,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),20.1,1087.7,0
+1543-LLLFT,1,1,0,61,Yes,0,No,Yes,Yes,Yes,Yes,No,12,1,Mailed check,98.3,6066.55,0
+2233-FAGXV,0,1,1,5,Yes,2,No,No,No,No,No,No,1,1,Mailed check,24.3,132.25,0
+0559-CKHUS,0,1,0,29,No,2,No,No,No,No,No,No,24,1,Mailed check,19.55,521.8,0
+7080-TNUWP,0,1,0,70,Yes,0,No,Yes,Yes,No,Yes,No,12,1,Bank transfer (automatic),95.0,6602.9,0
+4750-UKWJK,1,1,0,37,No,2,No,No,No,No,No,No,12,0,Mailed check,19.6,727.8,0
+5854-KSRBJ,0,1,1,70,Yes,2,No,No,No,No,No,No,24,0,Mailed check,25.4,1782.05,0
+9931-DCEZH,0,0,1,28,No,1,No,Yes,No,Yes,No,No,12,1,Credit card (automatic),54.4,1516.6,0
+0253-ZTEOB,0,1,1,48,Yes,1,No,Yes,No,Yes,Yes,Yes,24,0,Electronic check,79.65,3870.3,0
+3941-XTSKM,0,1,1,42,No,1,No,Yes,Yes,No,No,Yes,12,1,Credit card (automatic),45.1,2049.05,0
+4115-BNPJY,0,1,1,29,No,1,No,No,Yes,Yes,Yes,Yes,24,0,Mailed check,75.55,2054.4,0
+3934-HXCFZ,0,1,0,23,Yes,0,Yes,Yes,Yes,No,Yes,No,1,1,Electronic check,99.25,2186.4,1
+4877-TSOFF,0,1,1,55,Yes,1,Yes,Yes,No,Yes,No,Yes,12,1,Bank transfer (automatic),75.75,4264.25,0
+6447-EGDIV,0,0,0,31,No,2,No,No,No,No,No,No,12,0,Mailed check,20.95,683.25,0
+4568-KNYWR,0,0,0,52,No,1,Yes,Yes,No,No,Yes,No,24,1,Credit card (automatic),63.25,3342.45,0
+9381-NDKME,1,1,0,24,No,1,No,No,Yes,No,No,Yes,1,1,Credit card (automatic),40.65,933.3,1
+2034-GDRCN,0,0,0,2,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,90.4,168.2,1
+0122-OAHPZ,0,0,0,7,Yes,0,No,No,No,No,No,No,1,1,Electronic check,73.85,511.25,1
+4229-CZMLL,0,0,0,6,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.9,469.8,1
+8728-SKJLR,0,0,0,41,No,0,No,No,No,Yes,No,No,1,1,Electronic check,74.25,3089.1,0
+7989-AWGEH,0,1,1,49,No,1,Yes,No,No,No,No,Yes,1,1,Electronic check,39.2,1838.15,0
+4565-EVZMJ,0,0,0,47,No,1,Yes,Yes,No,Yes,No,No,12,1,Mailed check,58.9,2813.05,0
+2101-RANCD,0,0,0,55,Yes,0,No,No,No,No,No,No,1,1,Electronic check,73.1,4144.9,0
+9732-OUYRN,0,1,0,49,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.0,918.7,0
+8203-XJZRC,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,20.25,20.25,0
+3001-UNBTL,1,1,1,29,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,103.95,2964.8,0
+9554-DFKIC,0,1,1,30,Yes,1,Yes,No,No,No,No,No,1,1,Bank transfer (automatic),54.45,1588.7,0
+7762-URZQH,0,1,0,66,Yes,0,Yes,No,Yes,No,Yes,Yes,24,1,Credit card (automatic),106.05,6981.35,1
+6202-DYYFX,0,0,0,22,Yes,0,No,No,No,No,No,No,12,1,Credit card (automatic),76.0,1783.6,0
+4716-MRVEN,0,0,0,29,No,2,No,No,No,No,No,No,12,0,Mailed check,20.0,599.3,0
+9274-UARKJ,0,0,0,15,No,0,No,Yes,No,No,Yes,No,1,1,Bank transfer (automatic),83.2,1130.0,0
+0193-ESZXP,1,1,0,58,No,0,Yes,Yes,No,Yes,Yes,Yes,12,1,Credit card (automatic),105.5,6205.5,1
+9822-WMWVG,0,0,0,41,Yes,0,Yes,Yes,Yes,Yes,Yes,No,1,1,Electronic check,106.5,4282.4,0
+9710-NJERN,0,0,0,39,No,2,No,No,No,No,No,No,24,0,Mailed check,20.15,826.0,0
+8208-EUMTE,0,0,0,16,No,1,Yes,Yes,Yes,Yes,Yes,No,24,0,Mailed check,54.85,916.15,0
+8035-BUYVG,0,1,0,40,No,1,Yes,Yes,Yes,No,No,No,12,1,Electronic check,42.35,1716.45,1
+8873-GLDMH,0,0,0,6,Yes,0,No,No,No,No,No,No,1,1,Mailed check,73.85,401.3,0
+3893-JRNFS,0,0,0,68,No,1,No,No,Yes,No,No,Yes,1,1,Bank transfer (automatic),39.9,2796.35,0
+2560-WBWXF,0,0,0,68,Yes,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),24.15,1498.85,0
+8348-JLBUG,1,1,0,64,No,0,Yes,No,Yes,No,No,No,12,0,Credit card (automatic),80.3,5017.7,0
+3038-PQIUY,0,0,0,38,Yes,1,Yes,Yes,Yes,No,No,No,1,1,Bank transfer (automatic),66.15,2522.4,0
+9530-GRMJG,0,1,1,70,Yes,1,No,Yes,Yes,Yes,Yes,Yes,24,1,Electronic check,84.1,5979.7,0
+7661-CPURM,0,0,0,19,No,0,No,No,No,Yes,No,Yes,12,1,Credit card (automatic),87.7,1725.95,0
+4979-HPRFL,0,1,1,56,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),24.15,1402.25,0
+7145-FEJWU,0,0,1,12,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,105.3,1275.65,0
+3572-UUHRS,0,0,0,45,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),18.85,867.3,0
+7647-GYYKX,0,1,1,54,No,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),20.35,1092.35,0
+3896-ZVNET,0,1,1,24,Yes,2,No,No,No,No,No,No,24,0,Mailed check,24.7,571.75,0
+5012-YSPJJ,0,1,1,31,No,1,No,No,Yes,Yes,No,No,1,0,Mailed check,54.35,1647.0,0
+7977-HXJKU,0,0,1,21,No,2,No,No,No,No,No,No,24,0,Mailed check,19.6,397.0,0
+3520-FJGCV,0,1,1,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),112.6,8126.65,0
+9170-ARBTB,0,1,1,52,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.6,1012.4,0
+6218-KNUBD,0,0,0,6,No,1,No,Yes,No,No,Yes,No,1,0,Electronic check,59.45,357.6,0
+2141-RRYGO,0,0,0,4,No,1,No,Yes,No,No,Yes,Yes,1,1,Bank transfer (automatic),68.65,261.25,1
+1207-BLKSA,0,1,1,52,Yes,2,No,No,No,No,No,No,24,0,Mailed check,23.05,1255.1,0
+9570-KYEUA,0,0,0,64,Yes,0,Yes,No,Yes,Yes,No,Yes,24,0,Credit card (automatic),99.25,6549.45,0
+6283-GITPX,0,0,1,71,No,1,Yes,Yes,Yes,Yes,Yes,No,24,1,Credit card (automatic),76.9,5522.7,0
+0682-USIXD,0,1,0,21,No,0,No,No,No,Yes,Yes,No,1,1,Electronic check,86.05,1818.9,0
+2403-BCASL,1,1,1,41,Yes,0,No,Yes,Yes,Yes,Yes,Yes,12,1,Electronic check,111.95,4534.9,1
+5590-BYNII,0,0,0,22,Yes,0,Yes,No,No,No,Yes,Yes,1,1,Electronic check,100.75,2095.0,1
+3503-TYDAY,0,1,0,43,Yes,0,No,Yes,No,No,No,No,1,0,Electronic check,80.45,3398.9,0
+5726-CVNYA,0,1,1,8,No,2,No,No,No,No,No,No,24,1,Mailed check,19.85,146.6,0
+2789-HQBOU,0,0,0,3,No,0,No,No,No,No,No,Yes,1,1,Electronic check,80.35,253.8,0
+7139-JZFVG,0,1,1,60,No,1,Yes,Yes,Yes,No,No,No,24,0,Bank transfer (automatic),60.5,3694.45,0
+0607-MVMGC,0,1,1,45,Yes,1,No,Yes,Yes,No,Yes,Yes,12,0,Credit card (automatic),78.75,3600.65,0
+7446-YPODE,1,0,0,11,Yes,1,Yes,Yes,No,No,No,No,1,0,Bank transfer (automatic),60.25,662.95,0
+8601-QACRS,0,0,0,5,Yes,1,No,No,No,No,No,No,1,1,Mailed check,50.6,249.95,1
+2007-QVGAW,0,1,1,68,No,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),19.35,1292.65,0
+4534-WGCIR,0,1,1,58,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),25.15,1509.9,0
+0943-ZQPXH,0,1,1,44,No,0,No,No,Yes,No,Yes,Yes,1,1,Bank transfer (automatic),92.95,4122.9,0
+9436-ZBZCT,0,0,0,14,Yes,0,No,No,No,Yes,Yes,No,1,1,Electronic check,89.95,1178.4,1
+8969-PRHFK,0,0,0,18,No,2,No,No,No,No,No,No,12,0,Mailed check,19.65,411.25,0
+1045-LTCYT,0,1,1,8,No,2,No,No,No,No,No,No,1,0,Credit card (automatic),21.05,139.75,0
+8605-ITULD,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.55,19.55,0
+7169-YWAMK,0,1,1,72,No,1,Yes,Yes,No,Yes,Yes,No,24,0,Bank transfer (automatic),68.4,4855.35,0
+3914-FDRHP,0,0,0,9,No,0,No,No,No,Yes,Yes,No,1,0,Electronic check,86.25,770.5,0
+1047-NNCBF,0,0,0,20,No,0,No,No,No,No,No,No,1,0,Credit card (automatic),70.55,1493.55,0
+3768-NLUBH,1,1,0,57,Yes,0,No,No,Yes,No,Yes,Yes,1,0,Electronic check,100.6,5746.15,1
+9103-CXVOK,0,1,1,1,No,2,No,No,No,No,No,No,1,0,Electronic check,19.75,19.75,0
+5172-RKOCB,0,1,0,72,Yes,0,Yes,Yes,No,Yes,Yes,Yes,24,1,Credit card (automatic),108.95,7875.0,0
+3932-IJWDZ,0,0,0,45,Yes,0,No,No,Yes,Yes,Yes,Yes,1,1,Bank transfer (automatic),103.65,4747.85,0
+7395-XWZOY,0,0,0,20,No,1,Yes,Yes,Yes,Yes,Yes,No,1,1,Credit card (automatic),55.0,1165.55,0
+7876-DNYAP,0,1,1,69,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.8,1436.95,0
+2971-SGAFL,0,0,0,13,Yes,1,Yes,No,Yes,No,Yes,Yes,1,1,Electronic check,78.75,995.35,0
+7814-LEEVE,0,1,0,1,No,2,No,No,No,No,No,No,1,1,Bank transfer (automatic),20.3,20.3,0
+6615-ZGEDR,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.7,19.7,1
+9251-AWQGT,0,1,1,48,No,2,No,No,No,No,No,No,24,0,Mailed check,20.0,935.9,0
+7998-WNZEM,0,0,0,71,Yes,1,Yes,Yes,Yes,Yes,No,Yes,24,0,Bank transfer (automatic),80.6,5708.2,0
+2274-XUATA,1,1,0,72,No,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),63.1,4685.55,0
+0550-DCXLH,0,0,0,13,No,1,No,Yes,No,Yes,Yes,Yes,1,0,Mailed check,73.35,931.55,0
+1452-UZOSF,0,1,1,72,Yes,0,Yes,Yes,Yes,Yes,Yes,No,24,1,Credit card (automatic),106.1,7548.6,0
+6698-OXETB,0,0,0,11,No,2,No,No,No,No,No,No,24,0,Mailed check,20.4,231.45,0
+0707-HOVVN,1,0,0,70,Yes,1,No,Yes,Yes,Yes,Yes,No,24,1,Bank transfer (automatic),75.5,5212.65,0
+4484-CGXFK,0,0,0,3,No,1,No,No,No,No,No,Yes,1,1,Electronic check,55.3,196.15,1
+7251-LJBQN,1,0,0,40,Yes,0,No,No,Yes,Yes,Yes,Yes,12,1,Credit card (automatic),103.75,4188.4,0
+9700-ISPUP,0,1,1,10,No,1,No,Yes,No,Yes,No,Yes,1,1,Electronic check,65.5,616.9,0
+2796-UUZZO,0,1,1,63,No,0,No,Yes,Yes,No,No,No,1,1,Credit card (automatic),80.3,4896.35,0
+1820-TQVEV,0,0,0,1,No,0,No,No,No,No,No,No,1,1,Electronic check,69.55,69.55,1
+7379-POKDZ,0,1,0,3,No,0,No,No,No,No,No,No,1,1,Electronic check,70.3,208.85,1
+5161-UBZXI,0,1,1,69,No,0,Yes,Yes,No,Yes,Yes,Yes,24,1,Credit card (automatic),106.35,7261.75,0
+7975-JMZNT,0,1,0,66,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),91.7,6075.9,0
+0670-KDOMA,0,0,0,1,No,2,No,No,No,No,No,No,1,1,Mailed check,20.25,20.25,0
+0515-YPMCW,0,0,1,1,No,0,No,No,No,No,No,No,1,1,Mailed check,70.45,70.45,1
+3967-KXAPS,0,1,0,72,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),92.3,6719.9,0
+6319-IEJWJ,0,1,1,20,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,90.2,1776.55,1
+1229-RCALF,0,1,0,64,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,12,1,Electronic check,115.0,7396.15,0
+1809-DMJHQ,0,0,1,5,No,1,No,No,No,No,No,No,1,0,Mailed check,46.0,221.7,1
+8887-IPQNC,0,1,0,7,No,1,No,No,No,No,No,No,1,1,Mailed check,44.25,313.45,0
+6323-AYBRX,0,0,0,59,No,2,No,No,No,No,No,No,24,0,Mailed check,19.35,1099.6,1
+1642-HMARX,0,1,0,68,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Electronic check,91.7,6424.7,0
+2495-TTHBQ,0,0,1,4,No,2,No,No,No,No,No,No,12,1,Mailed check,20.4,84.75,0
+1635-FJFCC,0,0,0,5,No,1,No,No,No,No,No,No,1,1,Credit card (automatic),44.05,202.15,0
+3838-OZURD,0,1,0,66,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Credit card (automatic),105.0,7133.25,1
+7534-BFESC,1,0,0,24,Yes,0,No,No,No,No,No,No,1,1,Electronic check,76.1,1712.7,1
+5666-CYCYZ,0,0,0,24,Yes,0,No,No,No,Yes,No,Yes,1,1,Electronic check,89.55,2259.35,0
+4468-YDOVK,0,0,1,5,No,1,No,No,No,Yes,No,No,1,1,Bank transfer (automatic),48.65,235.2,0
+8285-ABVLB,0,1,0,70,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.85,1328.35,0
+4070-OKWVH,0,1,0,52,Yes,0,No,Yes,Yes,No,Yes,No,1,0,Bank transfer (automatic),94.6,5025.8,0
+0461-CVKMU,0,1,1,23,No,0,No,Yes,Yes,Yes,No,No,1,0,Electronic check,83.8,1900.25,1
+2831-EBWRN,0,0,0,4,No,1,No,No,No,No,No,No,1,1,Electronic check,45.9,199.75,0
+3522-CDKHF,0,1,0,32,No,0,Yes,No,No,No,No,No,1,1,Bank transfer (automatic),75.5,2324.7,0
+6664-FPDAC,1,0,0,56,Yes,0,No,Yes,Yes,Yes,Yes,Yes,12,1,Electronic check,111.95,6418.9,1
+1049-FYSYG,0,1,0,17,No,1,No,Yes,Yes,No,No,No,1,1,Credit card (automatic),35.65,646.05,0
+5669-SRAIP,0,0,0,5,No,1,No,No,Yes,No,No,Yes,1,0,Electronic check,39.5,210.75,1
+2897-DOVND,0,0,0,2,No,0,No,No,No,No,No,No,1,1,Electronic check,69.8,146.65,0
+3927-NLNRY,0,1,0,53,No,0,No,Yes,No,No,Yes,Yes,12,1,Bank transfer (automatic),94.25,4867.95,1
+7610-TVOPG,0,0,0,15,Yes,2,No,No,No,No,No,No,1,1,Electronic check,26.35,378.6,0
+0587-DMGBH,0,0,0,8,No,1,Yes,No,No,No,No,No,1,1,Electronic check,49.85,365.55,1
+5693-PIPCS,0,0,0,41,No,0,No,Yes,No,Yes,Yes,Yes,24,1,Credit card (automatic),99.65,4220.35,0
+6429-SHBCB,0,0,0,19,Yes,1,No,No,No,No,Yes,Yes,1,0,Mailed check,69.6,1394.55,0
+0603-TPMIB,0,1,1,59,Yes,2,No,No,No,No,No,No,24,0,Mailed check,25.45,1534.05,0
+0491-KAPQG,0,0,0,21,Yes,0,No,No,No,No,No,No,1,1,Electronic check,73.7,1558.7,0
+0577-WHMEV,0,1,0,16,Yes,0,Yes,Yes,Yes,No,No,No,1,0,Electronic check,90.7,1374.9,0
+1269-FOYWN,0,1,1,44,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),20.0,860.85,0
+0265-PSUAE,0,1,1,16,No,0,Yes,No,Yes,No,Yes,Yes,1,0,Bank transfer (automatic),100.7,1522.7,0
+5027-YOCXN,0,1,1,51,Yes,0,Yes,Yes,No,Yes,Yes,Yes,12,0,Credit card (automatic),110.05,5686.4,0
+4079-WWQQQ,0,0,0,72,No,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),65.55,4807.45,0
+9681-OXGVC,0,0,0,5,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,100.5,514.0,1
+4547-FZJWE,0,1,1,55,No,1,Yes,No,No,No,No,Yes,12,0,Credit card (automatic),59.45,3157.0,0
+3167-SNQPL,1,1,1,38,Yes,0,No,Yes,No,No,Yes,Yes,1,0,Electronic check,101.15,3741.85,0
+9391-LMANN,0,0,1,53,No,0,Yes,Yes,Yes,No,No,Yes,12,0,Electronic check,95.95,5036.9,0
+1925-TIBLE,0,1,0,7,Yes,0,No,No,No,No,Yes,No,1,1,Electronic check,86.5,582.5,1
+3870-SPZSI,0,1,1,70,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),113.05,7869.05,0
+7206-PQBBZ,1,1,0,11,No,0,No,No,No,No,No,No,1,1,Electronic check,70.2,834.7,0
+3800-LYTRK,0,0,0,14,No,1,Yes,No,No,Yes,No,No,12,0,Mailed check,55.7,795.15,0
+6022-UGGSO,1,0,0,32,No,0,No,Yes,No,No,No,No,1,1,Electronic check,74.4,2276.95,1
+5134-IKDAY,0,1,1,1,No,0,No,No,No,No,No,No,1,1,Electronic check,69.8,69.8,1
+4950-HKQTE,0,0,0,22,Yes,2,No,No,No,No,No,No,24,0,Mailed check,26.25,605.9,0
+3642-BYHDO,0,1,1,71,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),19.9,1389.35,0
+0654-PQKDW,0,1,1,62,No,1,Yes,No,Yes,Yes,Yes,No,12,1,Bank transfer (automatic),70.75,4263.45,0
+6048-QBXKL,1,0,0,2,Yes,1,No,Yes,No,No,No,No,1,1,Credit card (automatic),56.55,118.25,0
+1374-DMZUI,1,0,0,4,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,94.3,424.45,1
+3205-MXZRA,0,0,0,26,No,1,No,No,No,Yes,Yes,No,12,0,Credit card (automatic),59.45,1507.0,0
+3705-RHRFR,0,1,0,69,Yes,0,Yes,No,No,No,Yes,Yes,24,0,Bank transfer (automatic),99.15,6875.35,0
+1936-CZAKF,0,1,0,49,No,1,No,Yes,No,No,Yes,Yes,24,0,Credit card (automatic),49.65,2409.9,0
+4369-HTUIF,1,0,0,6,No,0,Yes,No,No,No,Yes,No,1,1,Bank transfer (automatic),85.15,503.6,1
+1842-EZJMK,0,1,1,50,Yes,0,No,Yes,No,Yes,Yes,Yes,1,0,Electronic check,103.7,5071.05,1
+5697-GOMBF,1,1,1,28,No,1,No,No,No,No,Yes,No,1,1,Electronic check,35.9,973.65,0
+9647-ERGBE,0,1,1,30,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,100.05,3046.15,1
+3771-PZOBW,0,0,0,20,Yes,0,No,No,Yes,No,Yes,No,1,1,Credit card (automatic),90.7,1781.35,0
+3714-XPXBW,0,0,0,37,Yes,1,Yes,Yes,Yes,Yes,Yes,No,1,1,Credit card (automatic),78.9,2976.95,0
+6128-DAFVY,0,0,0,56,No,1,No,No,No,No,Yes,Yes,1,1,Credit card (automatic),44.85,2564.95,0
+3736-BLEPA,0,0,0,28,No,0,No,Yes,No,Yes,Yes,No,12,1,Bank transfer (automatic),91.25,2483.65,0
+7579-OOPEC,1,1,0,2,No,1,No,Yes,No,No,No,No,1,0,Credit card (automatic),50.15,115.1,1
+7901-HXJVA,0,0,0,14,No,0,No,No,Yes,No,No,No,1,0,Electronic check,76.45,1117.55,0
+2592-SEIFQ,0,0,0,3,No,1,No,No,No,No,No,No,1,0,Electronic check,24.75,66.95,1
+0743-HNPFG,0,1,1,51,No,1,Yes,Yes,No,Yes,No,Yes,12,1,Credit card (automatic),69.75,3562.5,0
+8267-ZNYVZ,0,1,0,33,No,0,Yes,No,Yes,Yes,Yes,Yes,12,1,Electronic check,103.75,3361.05,1
+7047-YXDMZ,0,0,0,21,No,2,No,No,No,No,No,No,1,0,Mailed check,20.0,417.7,0
+1618-CFHME,0,0,0,2,Yes,0,No,No,No,No,No,No,1,1,Electronic check,75.9,143.35,1
+1784-EZDKJ,0,1,0,51,Yes,0,No,Yes,Yes,No,Yes,Yes,12,1,Bank transfer (automatic),106.8,5498.8,0
+4781-ZXYGU,0,1,1,1,No,2,No,No,No,No,No,No,1,1,Bank transfer (automatic),20.15,20.15,0
+2761-OCIAX,1,0,0,2,No,0,No,Yes,No,No,No,No,1,1,Electronic check,74.7,165.4,1
+4526-ZJJTM,1,1,0,25,No,0,No,Yes,Yes,No,No,Yes,1,0,Bank transfer (automatic),88.4,2191.15,0
+6023-GSSXW,0,1,0,69,No,1,No,Yes,No,No,No,Yes,24,1,Credit card (automatic),61.45,4131.2,0
+7777-UNYHB,0,1,1,12,No,2,No,No,No,No,No,No,1,1,Credit card (automatic),20.1,232.4,0
+2011-TRQYE,0,0,0,18,No,1,No,Yes,Yes,No,No,No,1,1,Credit card (automatic),33.5,600.0,1
+2773-OVBPK,0,1,0,67,Yes,0,No,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),111.3,7567.2,0
+6810-VCAEX,0,0,0,47,No,1,Yes,Yes,No,Yes,No,No,12,0,Credit card (automatic),39.65,1798.65,0
+8374-UULRV,0,0,0,72,Yes,1,Yes,Yes,No,Yes,Yes,Yes,24,0,Credit card (automatic),86.05,6309.65,0
+2674-MIAHT,0,0,0,4,Yes,0,No,Yes,No,No,No,No,1,1,Mailed check,80.3,324.2,0
+0970-QXPXW,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.65,19.65,0
+3744-ZBHON,0,0,0,3,No,2,No,No,No,No,No,No,1,0,Electronic check,20.2,65.95,0
+9574-BOSMD,0,1,1,68,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.4,1620.2,0
+6990-YNRIO,0,1,1,65,Yes,0,Yes,No,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),108.65,6937.95,1
+6082-OQFBA,0,1,1,23,No,2,No,No,No,No,No,No,12,0,Mailed check,19.65,436.9,0
+1265-HVPZB,0,1,0,59,No,1,Yes,Yes,Yes,No,Yes,No,12,0,Credit card (automatic),66.4,3958.2,0
+6164-HAQTX,0,0,0,71,No,1,Yes,Yes,Yes,Yes,Yes,No,24,0,Bank transfer (automatic),53.95,3888.65,0
+2969-QWUBZ,0,0,0,2,No,1,No,Yes,No,No,Yes,Yes,1,0,Electronic check,51.4,96.8,0
+3884-UEBXB,0,1,1,67,No,1,Yes,Yes,No,No,No,No,24,0,Bank transfer (automatic),36.15,2434.45,0
+6161-ERDGD,0,1,1,71,Yes,1,Yes,No,Yes,Yes,Yes,Yes,12,0,Electronic check,85.45,6300.85,0
+7779-ORAEL,1,1,0,45,Yes,1,Yes,No,Yes,Yes,No,Yes,24,0,Credit card (automatic),75.15,3480.35,0
+2851-STERV,1,0,0,35,No,1,No,No,Yes,Yes,Yes,Yes,12,1,Electronic check,73.0,2471.25,0
+9445-SZLCH,0,1,1,36,Yes,0,No,Yes,Yes,No,Yes,No,1,1,Bank transfer (automatic),97.35,3457.9,1
+7336-RLLRH,0,1,0,27,Yes,1,Yes,No,No,Yes,Yes,Yes,12,0,Mailed check,80.85,2204.35,0
+5849-ASHZJ,0,0,1,27,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),20.05,552.9,0
+9465-RWMXL,0,1,0,32,Yes,0,No,No,Yes,No,No,No,1,1,Electronic check,78.9,2447.95,1
+3030-YZADT,0,0,0,9,No,1,No,No,No,No,No,No,1,0,Mailed check,44.95,431.0,1
+3049-NDXFL,0,0,0,1,Yes,0,No,No,No,No,No,Yes,1,0,Mailed check,85.8,85.8,1
+0428-AXXLJ,0,0,0,25,No,2,No,No,No,No,No,No,12,1,Bank transfer (automatic),19.5,516.3,0
+9798-OPFEM,0,0,0,46,No,2,No,No,No,No,No,No,24,1,Electronic check,21.1,937.1,0
+1853-ARAAQ,0,0,0,26,No,1,No,No,Yes,No,Yes,Yes,1,1,Credit card (automatic),50.35,1277.5,0
+4745-LSPLO,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,20.5,20.5,1
+0455-XFASS,0,1,1,3,No,0,No,No,No,No,No,No,1,1,Electronic check,69.55,200.2,0
+0128-MKWSG,0,0,1,26,No,1,Yes,No,No,Yes,No,Yes,1,0,Mailed check,45.8,1147.0,0
+8148-BPLZQ,0,0,0,34,No,1,No,Yes,No,No,No,No,1,1,Electronic check,49.8,1734.2,0
+7852-LECYP,1,1,0,13,Yes,0,Yes,Yes,No,No,No,Yes,1,0,Credit card (automatic),93.8,1261.0,0
+1345-GKDZZ,0,0,1,6,No,2,No,No,No,No,No,No,1,0,Mailed check,19.55,128.6,0
+0749-IRGQE,1,1,0,13,No,1,No,No,No,No,Yes,Yes,1,0,Electronic check,45.3,528.45,0
+8854-CCVSQ,0,0,0,18,Yes,0,No,Yes,No,No,No,No,1,1,Electronic check,80.65,1451.9,1
+6598-KELSS,0,0,1,50,No,1,Yes,Yes,No,No,Yes,No,12,1,Bank transfer (automatic),43.05,2208.05,0
+1820-DJFPH,0,1,1,72,Yes,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),24.05,1709.15,0
+6286-SUUWT,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,19.95,19.95,0
+5206-HPJKM,0,0,0,17,No,1,Yes,Yes,No,No,No,No,1,1,Credit card (automatic),55.5,934.15,0
+0322-YINQP,0,0,0,1,No,1,Yes,No,No,No,No,No,1,1,Mailed check,48.55,48.55,1
+5982-FPVQN,0,1,1,37,Yes,0,No,Yes,Yes,No,No,Yes,1,1,Electronic check,95.15,3532.85,0
+7130-YXBRO,0,1,0,48,Yes,0,Yes,Yes,Yes,No,Yes,Yes,1,1,Bank transfer (automatic),111.45,5315.1,0
+8361-LTMKD,1,1,0,4,Yes,0,No,No,No,No,No,No,1,1,Mailed check,74.4,306.6,1
+6770-XUAGN,0,1,1,1,No,2,No,No,No,No,No,No,1,1,Electronic check,21.0,21.0,1
+1927-QEWMY,0,1,0,72,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),20.5,1502.25,0
+6030-REHUX,1,1,0,28,Yes,0,No,Yes,Yes,Yes,Yes,Yes,1,1,Electronic check,110.85,3204.4,0
+9314-QDMDW,0,0,0,11,No,1,No,Yes,No,No,Yes,No,12,1,Electronic check,61.25,729.95,0
+2632-TACXW,0,1,0,62,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),23.65,1416.75,0
+0225-ZORZP,0,0,0,3,No,0,No,Yes,No,No,No,Yes,1,0,Electronic check,84.3,235.05,0
+6725-TPKJO,0,0,0,44,No,2,No,No,No,No,No,No,24,0,Mailed check,20.05,845.25,0
+3372-KWFBM,1,0,0,16,Yes,0,No,No,No,No,Yes,No,1,1,Electronic check,86.6,1281.0,1
+6257-RJOHI,0,0,0,4,No,1,No,No,No,Yes,No,No,1,1,Mailed check,50.8,202.3,0
+2122-SZZZD,0,0,0,44,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.5,835.5,0
+0106-UGRDO,0,1,0,69,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Electronic check,116.0,8182.85,0
+0980-PVMRC,0,1,1,40,No,1,No,Yes,No,No,Yes,Yes,1,1,Electronic check,50.85,2036.55,0
+9488-HGMJH,1,0,0,1,No,0,No,No,No,No,No,No,1,1,Electronic check,71.15,71.15,1
+3911-RSNHI,0,1,0,71,No,1,No,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),61.4,4310.35,0
+2985-JUUBZ,0,1,1,40,Yes,1,No,No,Yes,No,Yes,Yes,1,1,Electronic check,74.55,3015.75,0
+6620-HVDUJ,0,0,0,24,No,1,Yes,Yes,No,Yes,No,No,1,0,Bank transfer (automatic),60.45,1440.75,0
+6131-IUNXN,0,1,1,19,No,2,No,No,No,No,No,No,1,0,Mailed check,20.2,382.2,0
+0023-XUOPT,0,1,0,13,Yes,0,No,Yes,Yes,No,Yes,No,1,0,Electronic check,94.1,1215.6,1
+2100-BDNSN,0,1,0,5,Yes,1,No,No,Yes,Yes,Yes,No,1,0,Bank transfer (automatic),67.95,350.3,1
+9314-IJWSQ,0,1,1,14,Yes,0,No,No,No,No,Yes,No,1,1,Electronic check,84.8,1203.9,0
+5364-EVNIB,0,0,0,13,No,0,No,Yes,Yes,No,No,No,1,1,Electronic check,79.8,973.45,1
+4415-IJZTP,0,0,0,1,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.5,74.5,1
+4273-MBHYA,0,0,1,1,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,89.35,89.35,0
+5396-IZEPB,0,0,0,9,No,2,No,No,No,No,No,No,1,0,Credit card (automatic),19.7,180.7,0
+9565-JSNFM,0,0,0,38,No,0,No,No,No,No,No,No,12,1,Bank transfer (automatic),70.45,2597.6,1
+6728-WYQBC,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),20.95,20.95,0
+2436-QBZFP,0,1,1,22,No,1,No,Yes,No,No,Yes,No,1,0,Electronic check,39.2,849.9,0
+6486-LHTMA,1,1,0,31,Yes,0,No,No,Yes,No,Yes,No,12,1,Electronic check,90.7,2835.5,0
+8822-KNBHV,0,0,0,48,Yes,1,Yes,Yes,Yes,No,Yes,Yes,12,1,Credit card (automatic),83.45,3887.85,0
+1552-TKMXS,0,1,0,42,No,2,No,No,No,No,No,No,1,0,Credit card (automatic),20.35,869.9,0
+6985-HAYWX,0,1,0,26,Yes,0,No,Yes,No,No,No,No,1,0,Bank transfer (automatic),79.3,2015.8,0
+0787-LHDYT,0,0,0,16,No,2,No,No,No,No,No,No,1,1,Credit card (automatic),20.6,330.25,0
+6198-ZFIOJ,0,0,0,5,Yes,0,No,No,No,No,No,No,1,0,Electronic check,75.6,402.5,0
+0187-QSXOE,1,1,0,7,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,89.0,605.45,0
+7718-UPSKJ,0,1,0,69,No,0,Yes,Yes,No,Yes,Yes,Yes,12,1,Credit card (automatic),106.4,7251.9,0
+2656-TABEH,0,1,0,4,Yes,0,No,Yes,No,No,Yes,Yes,1,1,Electronic check,100.2,420.2,1
+2522-WLNSF,1,1,0,34,No,1,No,No,Yes,Yes,Yes,No,12,0,Bank transfer (automatic),64.2,2106.3,0
+6851-WEFYX,1,1,0,35,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,100.8,3437.5,0
+1391-UBDAR,0,0,0,11,No,0,No,No,Yes,No,No,No,1,0,Electronic check,72.9,818.45,0
+7398-SKNQZ,0,1,0,3,Yes,0,No,No,No,No,Yes,Yes,1,0,Electronic check,94.9,273.2,0
+3174-AKMAS,0,1,0,46,No,1,No,Yes,No,Yes,Yes,No,24,1,Credit card (automatic),64.2,3009.5,0
+4250-WAROZ,1,1,1,60,Yes,0,Yes,Yes,No,No,No,Yes,1,1,Electronic check,93.25,5774.55,0
+8766-PAFNE,0,1,0,71,No,1,No,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),79.1,5564.85,0
+9958-MEKUC,0,1,1,72,Yes,0,Yes,Yes,Yes,Yes,No,Yes,24,0,Credit card (automatic),103.95,7517.7,0
+1143-NMNQJ,0,0,0,2,Yes,0,No,No,No,No,No,Yes,1,1,Electronic check,85.7,169.8,1
+2612-PHGOX,0,1,0,64,Yes,1,No,Yes,Yes,Yes,Yes,No,24,1,Bank transfer (automatic),76.1,4818.8,0
+6427-FEFIG,0,1,1,24,Yes,1,Yes,No,Yes,No,Yes,Yes,24,0,Credit card (automatic),78.6,1846.65,0
+9912-GVSEQ,1,1,0,26,Yes,0,No,Yes,Yes,No,No,Yes,1,1,Electronic check,93.85,2381.55,1
+9661-MHUMO,1,1,1,1,No,1,No,No,No,Yes,No,No,1,1,Credit card (automatic),49.25,49.25,1
+2519-ERQOJ,1,0,0,33,No,1,No,No,Yes,Yes,Yes,Yes,1,1,Electronic check,54.6,1803.7,0
+0524-IAVZO,0,1,0,30,Yes,0,No,No,No,No,No,Yes,1,1,Electronic check,85.0,2624.25,1
+2750-BJLSB,0,0,0,47,No,0,Yes,No,Yes,Yes,Yes,Yes,12,1,Electronic check,103.7,4730.6,0
+4083-BFNYK,1,1,0,38,Yes,0,Yes,Yes,No,No,No,Yes,12,0,Credit card (automatic),95.0,3591.25,0
+4403-BWPAY,0,0,0,14,Yes,2,No,No,No,No,No,No,12,1,Credit card (automatic),24.8,321.7,0
+0484-JPBRU,0,0,0,41,Yes,2,No,No,No,No,No,No,1,1,Bank transfer (automatic),25.25,996.45,0
+9052-DHNKM,0,0,0,26,Yes,1,Yes,Yes,No,No,No,No,12,0,Electronic check,61.55,1581.95,0
+2925-VDZHY,0,1,1,72,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),88.7,6501.35,0
+5327-CNLUQ,0,1,0,48,Yes,0,Yes,Yes,Yes,No,Yes,No,24,1,Bank transfer (automatic),96.9,4473.45,0
+2193-SFWQW,0,1,1,72,No,0,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),111.95,8033.1,0
+8930-XOTDP,0,1,1,18,No,1,No,No,No,No,Yes,No,1,0,Mailed check,55.95,1082.8,0
+0354-WYROK,1,1,1,31,No,0,No,No,Yes,Yes,Yes,Yes,1,1,Electronic check,98.9,2911.3,1
+5186-PEIZU,0,0,0,35,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),19.25,617.65,0
+9734-UYXQI,0,0,0,2,Yes,1,No,No,No,No,No,No,1,1,Electronic check,49.4,106.55,1
+8445-DNBAE,0,0,1,1,Yes,1,No,No,No,No,No,No,1,1,Electronic check,50.05,50.05,0
+1270-XKUCC,0,1,1,30,No,2,No,No,No,No,No,No,24,0,Mailed check,19.7,599.25,0
+4706-DGAHW,1,0,0,1,No,1,No,No,No,No,No,No,1,0,Electronic check,45.2,45.2,0
+2900-PHPLN,1,1,0,70,No,2,No,No,No,No,No,No,24,1,Credit card (automatic),19.55,1462.05,0
+8319-QBEHW,0,0,1,26,No,1,No,Yes,No,No,Yes,No,12,1,Bank transfer (automatic),39.95,1023.75,0
+8996-ZROXE,1,0,0,57,No,1,No,No,Yes,Yes,No,No,12,1,Electronic check,53.5,3035.8,0
+2550-QHZGP,0,0,0,7,No,2,No,No,No,No,No,No,12,0,Mailed check,19.5,128.6,0
+2176-LVPNX,1,0,0,71,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Mailed check,89.85,6293.45,0
+8943-URTMR,0,0,0,2,No,0,No,No,No,No,Yes,No,1,1,Mailed check,79.65,152.7,1
+7526-BEZQB,0,0,0,12,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,96.05,1148.1,1
+3088-FVYWK,0,1,1,53,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),25.55,1336.1,0
+1921-KYSAY,0,0,0,41,Yes,1,No,No,Yes,Yes,No,Yes,12,1,Electronic check,68.6,2877.05,0
+8132-YPVBX,0,0,0,6,No,0,No,Yes,No,No,No,Yes,1,1,Mailed check,85.95,514.6,0
+1986-PHGZF,1,0,0,18,Yes,1,Yes,Yes,No,No,No,No,1,1,Credit card (automatic),58.4,964.9,0
+1689-YQBYY,0,0,1,12,Yes,0,No,No,No,No,No,No,1,1,Electronic check,76.6,893.0,0
+8735-NBLWT,0,0,1,9,No,2,No,No,No,No,No,No,1,0,Mailed check,20.4,184.1,0
+2171-UDMFD,0,1,1,32,No,2,No,No,No,No,No,No,1,1,Credit card (automatic),19.45,674.55,0
+9531-NSBMR,0,0,0,36,No,2,No,No,No,No,No,No,12,1,Bank transfer (automatic),19.25,679.8,0
+7056-IMHCC,1,1,0,53,Yes,0,No,Yes,No,No,Yes,Yes,1,1,Electronic check,101.9,5549.4,1
+6651-AZVTJ,0,1,1,49,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,99.8,4872.45,1
+5287-QWLKY,1,1,1,71,Yes,0,Yes,Yes,No,No,Yes,Yes,1,1,Credit card (automatic),105.1,7548.1,1
+4616-ULAOA,0,1,1,65,Yes,0,No,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),110.8,7245.9,0
+8263-QMNTJ,0,1,0,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Electronic check,115.55,8425.3,0
+8677-HDZEE,0,0,0,56,Yes,0,No,Yes,No,Yes,Yes,Yes,1,1,Bank transfer (automatic),105.45,5916.95,0
+1200-TUZHR,1,0,0,8,Yes,0,No,No,No,No,No,Yes,1,0,Electronic check,85.2,695.75,0
+7463-IFMQU,0,1,0,72,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),20.05,1423.65,0
+6352-GIGGQ,0,0,0,67,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,12,1,Bank transfer (automatic),88.8,5903.15,0
+5872-OEQNH,0,0,0,60,No,1,Yes,No,Yes,No,No,Yes,12,1,Electronic check,44.45,2773.9,0
+1116-FRYVH,0,1,1,48,No,1,Yes,Yes,No,Yes,No,No,24,0,Mailed check,39.4,1978.65,0
+3144-AUDBS,0,1,0,6,No,1,No,No,No,Yes,No,No,1,1,Electronic check,49.15,270.8,1
+1264-BYWMS,0,0,0,55,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,96.8,5283.95,1
+0959-WHOKV,0,0,0,42,Yes,0,Yes,Yes,Yes,No,No,Yes,12,1,Electronic check,99.0,4298.45,0
+2439-LYPMQ,1,1,0,38,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,102.6,4009.2,0
+7384-GHBPI,0,1,0,3,No,1,No,No,No,No,No,Yes,1,1,Electronic check,35.15,99.75,1
+1450-GALXR,0,0,0,10,Yes,0,No,No,No,Yes,Yes,Yes,1,1,Electronic check,98.5,1058.25,1
+1038-RQOST,0,1,1,19,No,2,No,No,No,No,No,No,1,0,Mailed check,20.6,414.95,0
+3696-DFHHB,0,0,0,68,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.5,1821.8,0
+8232-UTFOZ,0,0,0,69,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.95,1399.35,0
+5232-NXPAY,0,0,0,47,No,1,No,No,Yes,Yes,Yes,Yes,24,0,Mailed check,74.45,3510.3,0
+0675-NCDYU,0,1,1,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Credit card (automatic),116.4,8543.25,0
+3721-WKIIL,0,0,0,27,No,2,No,No,No,No,No,No,24,1,Mailed check,19.6,561.15,0
+9823-EALYC,0,1,1,72,Yes,1,Yes,Yes,Yes,Yes,Yes,No,24,1,Bank transfer (automatic),80.85,5727.45,0
+5898-IGSLP,0,1,1,31,Yes,0,Yes,No,Yes,Yes,No,No,1,0,Electronic check,89.3,2823.0,0
+8205-VSLRB,0,1,0,70,Yes,1,Yes,No,Yes,Yes,No,Yes,24,0,Credit card (automatic),77.3,5498.2,0
+3351-NQLDI,0,1,1,67,Yes,0,Yes,No,No,Yes,No,Yes,12,1,Credit card (automatic),94.35,6341.45,1
+9194-GFVOI,0,1,0,42,Yes,1,Yes,No,Yes,Yes,Yes,Yes,24,0,Credit card (automatic),84.35,3571.6,0
+9061-TIHDA,1,1,0,13,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,95.25,1233.65,1
+2251-PYLPB,0,1,0,72,Yes,1,Yes,Yes,Yes,Yes,No,Yes,24,0,Credit card (automatic),79.55,5810.9,0
+4636-TVXVG,0,1,1,62,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),19.95,1244.8,0
+9906-NHHVC,1,0,0,65,No,1,No,Yes,Yes,No,Yes,Yes,24,1,Bank transfer (automatic),53.5,3517.9,0
+1907-UBQFC,1,0,0,10,No,0,No,Yes,No,No,No,No,1,1,Electronic check,72.85,688.65,1
+2074-GKOWZ,0,1,1,2,No,0,No,No,No,No,Yes,Yes,1,1,Bank transfer (automatic),89.55,185.55,1
+3410-MHHUM,0,1,1,44,Yes,0,No,Yes,Yes,No,No,Yes,12,0,Electronic check,94.4,4295.35,0
+5906-DVAPM,0,1,1,55,Yes,1,Yes,Yes,No,Yes,Yes,No,12,1,Credit card (automatic),75.0,4213.9,0
+4587-VVTOX,0,1,0,6,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,105.3,545.2,1
+6408-OTUBZ,0,0,0,66,Yes,0,Yes,Yes,Yes,Yes,Yes,No,12,1,Bank transfer (automatic),104.55,6779.05,0
+6437-UDQJM,1,1,0,72,Yes,1,Yes,Yes,Yes,No,Yes,Yes,24,1,Credit card (automatic),84.1,6129.65,0
+6591-QGOYB,0,0,0,17,Yes,0,Yes,Yes,Yes,Yes,Yes,No,1,1,Bank transfer (automatic),106.65,1672.1,0
+7605-BDWDC,0,0,0,31,No,1,Yes,Yes,No,Yes,No,Yes,24,1,Bank transfer (automatic),49.85,1520.1,0
+7516-GMHUV,1,1,0,50,Yes,0,Yes,No,Yes,No,Yes,Yes,24,1,Credit card (automatic),105.05,5163.3,0
+8591-TKMZH,0,1,1,59,Yes,0,Yes,Yes,No,Yes,Yes,Yes,24,1,Mailed check,111.1,6555.2,0
+8219-VYBVI,0,0,1,39,Yes,2,No,No,No,No,No,No,24,0,Mailed check,25.0,1004.35,0
+7244-KXYZN,0,0,0,24,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),20.45,527.35,0
+6696-YDAYZ,0,1,1,16,No,2,No,No,No,No,No,No,24,0,Mailed check,20.5,290.55,0
+4554-YGZIH,1,1,0,49,Yes,0,No,Yes,No,No,No,Yes,1,0,Credit card (automatic),90.05,4547.25,1
+8390-FESFV,0,0,0,62,Yes,1,No,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),84.5,5193.2,0
+9055-MOJJJ,0,1,1,64,No,1,Yes,No,No,Yes,Yes,No,12,0,Mailed check,65.8,4068.0,0
+2712-SYWAY,0,0,0,1,Yes,2,No,No,No,No,No,No,1,1,Electronic check,25.7,25.7,0
+0481-SUMCB,1,0,0,45,Yes,0,No,No,Yes,No,Yes,Yes,12,1,Bank transfer (automatic),102.15,4735.35,0
+0621-TWIEM,0,0,0,10,No,1,No,No,No,No,No,No,1,1,Electronic check,45.55,402.6,1
+2434-EEVDB,0,1,0,64,Yes,0,Yes,No,Yes,No,Yes,No,24,1,Credit card (automatic),94.6,5948.7,0
+0506-YLVKJ,0,1,1,46,No,2,No,No,No,No,No,No,24,1,Mailed check,20.2,917.45,0
+9822-BIIGN,0,1,1,53,Yes,1,Yes,No,No,Yes,No,Yes,1,0,Electronic check,71.85,3827.9,0
+4581-SSPWD,0,0,0,3,Yes,0,No,No,No,No,No,No,1,1,Electronic check,75.8,246.3,1
+1098-KFQEC,0,1,1,55,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.4,1083.0,0
+5552-ZNFSJ,0,0,0,1,No,1,No,No,No,No,No,No,1,0,Electronic check,45.3,45.3,1
+1320-GVNHT,0,1,1,72,Yes,0,Yes,Yes,Yes,No,Yes,Yes,24,1,Credit card (automatic),108.4,7767.25,0
+8111-SLLHI,1,1,0,39,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,105.65,4284.8,1
+4188-PCPIG,0,1,0,57,No,1,Yes,Yes,No,Yes,Yes,No,24,1,Credit card (automatic),70.35,4124.65,0
+2114-MGINA,0,0,0,14,No,0,No,No,No,No,Yes,Yes,1,1,Mailed check,89.8,1129.1,1
+4430-UZIPO,0,0,0,3,No,1,No,Yes,No,Yes,No,No,1,1,Mailed check,36.85,108.7,1
+7729-JTEEC,0,1,1,2,No,1,No,No,No,No,No,No,1,1,Electronic check,44.5,90.05,0
+8292-ITGYJ,0,1,1,45,Yes,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),24.65,1138.8,0
+1915-OAKWD,0,0,1,16,No,2,No,No,No,No,No,No,12,1,Bank transfer (automatic),19.3,360.35,0
+9767-FFLEM,0,0,0,38,No,0,No,No,No,No,No,No,1,1,Credit card (automatic),69.5,2625.25,0
+8873-TMKGR,0,0,0,29,No,2,No,No,No,No,No,No,12,0,Mailed check,19.1,529.5,0
+5227-JSCFE,1,1,0,71,No,1,Yes,Yes,Yes,Yes,No,No,24,0,Credit card (automatic),46.35,3353.4,0
+6260-ONULR,0,0,0,1,No,1,No,No,No,No,Yes,Yes,1,1,Mailed check,62.8,62.8,0
+2982-IHMFT,1,0,0,1,Yes,0,No,No,No,No,No,No,1,1,Mailed check,74.45,74.45,1
+7277-OZCGZ,0,0,0,22,No,0,Yes,No,No,Yes,No,Yes,1,1,Electronic check,89.05,1886.25,0
+9839-ETQOE,0,0,1,43,No,1,Yes,Yes,Yes,No,No,No,1,1,Electronic check,40.45,1912.85,0
+5294-CDGWY,0,1,1,51,No,1,Yes,Yes,Yes,No,Yes,Yes,12,0,Electronic check,59.3,3014.65,1
+5630-IXDXV,0,0,0,47,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,106.35,4849.1,0
+8821-XNHVZ,0,1,1,1,No,0,No,No,No,No,Yes,No,1,1,Mailed check,80.05,80.05,1
+9402-ROUMJ,0,1,1,67,Yes,0,Yes,No,Yes,Yes,No,Yes,12,1,Bank transfer (automatic),100.25,6689.0,0
+4592-IWTJI,0,1,1,3,No,1,Yes,No,No,No,No,No,1,0,Credit card (automatic),29.7,91.7,1
+7072-MBHEV,1,1,1,11,Yes,0,No,No,Yes,No,No,No,1,1,Credit card (automatic),78.1,864.85,0
+5995-OIGLP,0,0,0,12,No,1,Yes,No,No,Yes,No,No,1,0,Mailed check,56.65,654.85,1
+3769-MHZNV,0,1,1,33,No,2,No,No,No,No,No,No,24,0,Mailed check,20.1,670.35,0
+0895-DQHEW,0,1,0,54,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,104.3,5278.15,1
+7596-LDUXP,0,0,0,12,No,0,Yes,No,No,No,Yes,No,12,1,Credit card (automatic),85.15,979.05,0
+4320-QMLLA,0,0,0,7,No,1,No,No,No,No,Yes,No,1,0,Mailed check,54.85,370.4,0
+9448-REEVD,0,1,0,1,No,1,No,No,No,No,No,No,1,0,Credit card (automatic),44.7,44.7,1
+8457-XIGKN,0,0,0,20,No,2,No,No,No,No,No,No,1,1,Credit card (automatic),19.6,356.15,0
+0042-JVWOJ,0,0,0,26,No,2,No,No,No,No,No,No,12,1,Bank transfer (automatic),19.6,471.85,0
+9385-EHGDO,0,1,1,35,No,2,No,No,No,No,No,No,24,1,Mailed check,19.85,739.35,0
+7993-PYKOF,0,1,0,8,No,0,Yes,No,No,No,No,No,1,0,Electronic check,75.0,632.95,1
+3569-VLDHH,0,1,1,66,No,1,Yes,Yes,Yes,Yes,Yes,No,12,1,Electronic check,75.1,5013.0,0
+2656-FMOKZ,1,0,0,15,Yes,0,No,No,No,No,No,No,1,1,Mailed check,74.45,1145.7,1
+3999-QGRJH,1,0,0,8,No,0,No,No,No,No,No,No,1,1,Electronic check,69.7,560.85,1
+5989-OMNJE,0,1,1,24,No,1,Yes,Yes,Yes,No,Yes,Yes,12,0,Electronic check,57.6,1367.75,0
+6559-RAKOZ,0,1,1,49,Yes,0,No,No,No,Yes,Yes,Yes,12,1,Electronic check,97.95,4917.9,0
+0727-BMPLR,1,0,0,55,Yes,0,No,No,Yes,No,Yes,Yes,12,1,Electronic check,100.0,5509.3,1
+6916-HIJSE,0,0,0,65,No,1,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),84.85,5459.2,0
+6137-MFAJN,0,0,0,48,No,1,Yes,Yes,No,No,Yes,No,1,1,Electronic check,44.8,2104.55,0
+9229-RQABD,0,0,0,18,Yes,2,No,No,No,No,No,No,12,0,Mailed check,23.75,424.5,0
+7850-VWJUU,0,0,0,23,No,0,Yes,No,No,No,No,No,1,1,Bank transfer (automatic),75.0,1778.5,0
+2380-DAMQP,0,1,0,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Electronic check,115.15,8349.7,0
+3810-DVDQQ,0,1,1,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),117.6,8308.9,0
+3067-SVMTC,0,1,0,68,No,1,Yes,No,No,Yes,No,No,12,0,Bank transfer (automatic),55.9,3848.8,0
+5966-EMAZU,0,1,0,64,Yes,0,Yes,No,Yes,Yes,Yes,Yes,12,1,Mailed check,108.5,6880.85,0
+0236-HFWSV,0,0,0,15,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,93.35,1444.65,1
+4059-IIEBK,0,0,0,7,Yes,0,No,Yes,No,No,No,No,1,1,Bank transfer (automatic),78.55,522.95,0
+1248-DYXUB,0,1,1,52,Yes,2,No,No,No,No,No,No,24,0,Mailed check,24.8,1229.1,0
+3324-OIRTO,0,1,1,71,No,0,Yes,Yes,Yes,No,Yes,Yes,12,1,Bank transfer (automatic),104.65,7288.4,0
+0135-NMXAP,0,0,0,12,Yes,0,No,Yes,No,No,Yes,No,1,1,Bank transfer (automatic),89.75,1052.4,1
+5712-PTIWW,0,0,0,2,No,0,No,No,Yes,Yes,No,No,1,1,Electronic check,79.85,152.45,1
+1709-EJDOX,0,1,1,47,No,2,No,No,No,No,No,No,24,0,Mailed check,19.75,948.9,0
+6711-VTNRE,0,0,0,36,No,0,No,No,Yes,Yes,No,Yes,1,1,Electronic check,87.55,3078.1,1
+8806-EAGWC,0,0,0,3,No,1,No,No,No,No,Yes,No,1,0,Mailed check,55.15,159.15,1
+9334-GWGOW,1,1,0,7,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.85,485.25,0
+8041-TMEID,1,1,0,63,Yes,0,Yes,Yes,Yes,No,Yes,Yes,24,0,Credit card (automatic),108.5,6991.9,0
+9909-IDLEK,0,1,1,20,Yes,0,No,Yes,No,Yes,Yes,No,1,0,Mailed check,96.8,1826.7,0
+8945-GRKHX,0,0,1,1,No,0,No,No,No,No,No,Yes,1,0,Electronic check,78.65,78.65,1
+3703-VAVCL,0,1,1,2,No,0,No,No,Yes,Yes,No,Yes,1,0,Credit card (automatic),90.0,190.05,1
+7562-UXTPG,0,0,0,13,No,0,No,No,No,No,No,No,1,1,Mailed check,70.15,886.7,0
+2703-AMTUL,0,1,1,36,No,1,Yes,Yes,No,No,No,No,12,0,Mailed check,53.65,1939.35,0
+0611-DFXKO,0,1,0,20,No,0,No,No,No,No,Yes,Yes,1,1,Mailed check,89.0,1820.45,1
+4597-ELFTS,0,0,0,56,Yes,2,No,No,No,No,No,No,12,0,Electronic check,24.9,1334.0,1
+1766-GKNMI,0,0,0,29,Yes,0,No,No,No,No,No,Yes,1,1,Electronic check,84.9,2516.2,0
+7190-XHTWJ,0,0,0,38,No,2,No,No,No,No,No,No,12,0,Mailed check,19.3,755.5,0
+5759-RCVCB,0,0,0,3,No,1,No,No,No,No,Yes,No,1,0,Credit card (automatic),35.2,108.95,1
+2096-XOTMO,0,1,1,16,No,2,No,No,No,No,No,No,1,0,Mailed check,19.35,275.9,0
+2907-ILJBN,0,1,1,11,No,2,No,No,No,No,No,No,12,0,Mailed check,20.6,233.9,0
+5445-PZWGX,0,0,0,62,Yes,0,Yes,Yes,No,Yes,No,Yes,12,0,Electronic check,102.0,6529.25,1
+5394-MEITZ,0,1,1,60,No,1,No,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),80.6,4946.7,0
+2027-WKXMW,0,1,0,63,Yes,0,No,Yes,Yes,Yes,Yes,Yes,1,1,Electronic check,108.75,6871.7,0
+6244-BESBM,0,1,1,69,No,0,No,No,No,Yes,Yes,Yes,24,1,Credit card (automatic),95.2,6671.7,0
+1723-HKXJQ,0,0,0,42,Yes,0,No,Yes,No,No,Yes,Yes,1,1,Electronic check,101.75,4273.45,1
+7813-TKCVO,0,1,0,20,No,2,No,No,No,No,No,No,12,0,Mailed check,20.35,393.15,0
+2516-VQRRV,1,0,0,2,Yes,0,No,No,No,No,No,No,1,1,Mailed check,75.45,158.4,1
+3649-JPUGY,0,0,0,72,Yes,1,No,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),88.6,6201.95,0
+1310-QRITU,0,0,0,18,Yes,1,No,No,No,No,No,No,1,1,Electronic check,50.3,913.3,0
+9917-KWRBE,0,1,1,41,Yes,1,Yes,Yes,Yes,No,Yes,No,12,1,Credit card (automatic),78.35,3211.2,0
+3737-XBQDD,0,0,0,24,Yes,0,No,Yes,Yes,No,No,No,1,1,Bank transfer (automatic),84.85,2048.8,0
+4231-LZUYM,0,1,0,72,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.65,1887.0,0
+1293-HHSHJ,0,0,0,35,No,2,No,No,No,No,No,No,12,0,Mailed check,21.1,741.0,0
+1104-FEJAM,0,1,1,28,Yes,1,No,Yes,No,No,No,Yes,1,0,Electronic check,64.4,1802.15,0
+1436-ZMJAN,0,1,0,10,No,1,No,No,Yes,No,Yes,Yes,1,1,Credit card (automatic),67.8,653.15,0
+6265-SXWBU,0,1,1,69,Yes,0,No,Yes,Yes,No,Yes,No,12,0,Credit card (automatic),95.75,6511.25,0
+5698-BQJOH,0,0,0,9,Yes,0,No,No,No,No,Yes,Yes,1,0,Electronic check,94.4,857.25,1
+6518-PPLMZ,0,1,1,53,No,2,No,No,No,No,No,No,24,1,Mailed check,19.4,1110.35,0
+8224-KDLKN,0,1,1,72,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),25.0,1738.9,0
+6285-FTQBF,0,1,1,72,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),25.55,1867.7,0
+8878-RYUKI,0,0,0,52,No,1,No,No,Yes,No,No,Yes,1,1,Electronic check,59.45,3043.7,0
+5299-RULOA,0,1,1,10,Yes,0,Yes,No,No,No,Yes,Yes,1,1,Electronic check,100.25,1064.65,1
+5804-JMYIO,0,1,1,39,No,2,No,No,No,No,No,No,24,0,Mailed check,19.75,757.95,0
+2811-POVEX,1,1,1,23,No,0,No,Yes,Yes,No,No,Yes,1,1,Bank transfer (automatic),88.45,2130.55,0
+2696-RZVZW,0,1,0,68,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),25.05,1629.2,0
+0565-IYCGT,0,0,0,69,Yes,1,Yes,Yes,Yes,Yes,No,Yes,12,1,Credit card (automatic),78.6,5356.45,1
+0679-TDGAK,0,1,1,50,No,1,Yes,No,No,Yes,Yes,Yes,12,0,Electronic check,75.5,4025.6,0
+5917-RYRMG,1,0,0,32,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.8,587.7,0
+9137-UIYPG,0,1,1,35,No,0,Yes,No,Yes,Yes,Yes,Yes,1,1,Electronic check,106.9,3756.45,0
+3814-MLAXC,0,0,0,31,Yes,0,No,No,No,Yes,No,No,1,1,Credit card (automatic),79.85,2404.15,1
+1216-BGTSP,0,0,0,45,Yes,0,Yes,No,Yes,Yes,Yes,Yes,1,1,Credit card (automatic),108.45,4964.7,0
+7571-YXDAD,0,0,0,2,Yes,0,No,No,No,No,No,No,1,0,Credit card (automatic),74.9,147.15,1
+8082-GHXOP,0,0,1,13,No,1,No,No,No,No,No,No,1,0,Mailed check,44.0,659.35,0
+2391-IPLOP,0,1,1,50,Yes,1,No,No,Yes,Yes,Yes,No,12,1,Electronic check,69.65,3442.15,0
+6040-CGACY,0,0,0,15,No,2,No,No,No,No,No,No,1,0,Mailed check,19.6,299.4,0
+6598-RFFVI,0,0,0,2,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),19.3,28.3,1
+9626-WEQRM,0,0,0,4,No,1,Yes,No,No,No,No,No,1,1,Mailed check,29.15,110.05,0
+4695-WJZUE,1,0,0,2,Yes,0,No,No,Yes,No,No,Yes,1,1,Electronic check,88.55,179.25,1
+2615-YVMYX,1,1,0,71,Yes,0,Yes,Yes,Yes,No,Yes,Yes,1,1,Electronic check,107.5,7713.55,0
+3765-JXVKY,0,0,0,1,No,0,No,Yes,No,No,No,No,1,1,Electronic check,74.7,74.7,1
+3567-PQTSO,0,1,1,53,Yes,0,No,Yes,Yes,No,Yes,Yes,12,1,Electronic check,105.25,5576.3,0
+5423-BHIXO,0,0,0,32,Yes,1,No,Yes,No,No,No,No,1,1,Electronic check,54.2,1739.6,0
+7530-HDYDS,0,0,0,38,No,0,No,Yes,Yes,Yes,No,No,1,1,Credit card (automatic),84.25,3264.5,1
+2344-JMOGN,0,1,0,9,No,0,No,Yes,Yes,Yes,Yes,No,1,1,Mailed check,94.85,890.6,1
+3646-ITDGM,0,0,0,56,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),19.7,1051.9,0
+9402-ORRAH,1,0,0,15,No,0,No,No,No,No,Yes,Yes,1,1,Electronic check,91.5,1400.3,0
+0531-ZZJWQ,1,1,0,55,Yes,0,No,No,No,No,No,No,1,1,Electronic check,74.0,4052.4,0
+4191-XOVOM,0,0,0,63,Yes,0,No,Yes,No,Yes,Yes,Yes,1,0,Electronic check,105.4,6713.2,0
+5339-PXDVH,0,0,0,4,Yes,0,Yes,No,No,No,Yes,No,1,0,Electronic check,90.65,367.95,0
+5624-RYAMH,0,0,0,9,No,2,No,No,No,No,No,No,1,1,Electronic check,19.5,178.85,0
+0347-UBKUZ,0,0,0,15,No,2,No,No,No,No,No,No,1,0,Mailed check,19.9,320.45,0
+1304-SEGFY,0,1,0,72,Yes,0,No,No,Yes,No,Yes,Yes,24,1,Electronic check,97.85,6841.3,0
+5844-QVTAT,0,1,1,33,No,1,Yes,Yes,Yes,No,No,No,12,1,Mailed check,58.45,1955.4,0
+1016-DJTSV,1,0,0,8,No,0,No,No,No,No,No,No,1,1,Electronic check,69.7,572.85,0
+2197-OMWGI,1,1,1,68,No,1,No,Yes,Yes,No,Yes,Yes,24,1,Electronic check,53.0,3656.25,0
+4257-GAESD,0,0,0,6,No,1,No,No,No,No,Yes,Yes,1,0,Credit card (automatic),45.0,298.7,0
+1400-MMYXY,1,1,0,3,Yes,0,No,Yes,Yes,No,Yes,Yes,1,1,Electronic check,105.9,334.65,1
+2650-GYRYL,0,1,1,33,No,2,No,No,No,No,No,No,12,1,Bank transfer (automatic),19.45,600.25,0
+0222-CNVPT,1,0,0,52,No,1,Yes,No,No,No,Yes,Yes,1,1,Credit card (automatic),48.8,2555.05,0
+1522-VVDMG,0,1,1,7,No,0,No,Yes,No,Yes,Yes,No,1,1,Electronic check,89.75,608.8,1
+8109-YUOHE,0,0,0,17,No,1,Yes,Yes,No,No,No,No,12,0,Mailed check,56.1,946.95,0
+3208-YPIOE,0,0,0,39,Yes,0,No,No,No,No,No,No,1,0,Electronic check,75.25,3017.65,1
+3259-KNMRR,1,0,0,57,Yes,1,No,Yes,Yes,No,Yes,Yes,24,1,Bank transfer (automatic),79.75,4438.2,0
+6625-FLENO,0,1,0,58,No,2,No,No,No,No,No,No,24,0,Mailed check,20.75,1185.95,0
+4480-MBMLB,0,0,0,36,Yes,0,No,Yes,Yes,No,Yes,Yes,12,1,Bank transfer (automatic),104.8,3886.45,0
+0519-DRGTI,0,1,1,20,No,2,No,No,No,No,No,No,1,0,Mailed check,20.35,442.6,0
+2150-OEGBV,0,0,0,27,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),20.1,562.6,0
+3097-PYWXL,0,1,1,4,No,2,No,No,No,No,No,No,1,1,Electronic check,19.95,82.9,0
+6211-WHMYA,1,0,0,64,No,1,No,Yes,No,Yes,Yes,No,1,1,Electronic check,43.85,2751.0,0
+9026-LHEVG,0,0,0,9,No,1,No,Yes,No,No,No,Yes,1,0,Electronic check,40.75,359.4,0
+5307-UVGNB,0,1,1,53,No,1,Yes,Yes,Yes,No,No,Yes,1,1,Bank transfer (automatic),48.7,2495.2,0
+7240-FQLHE,1,1,0,18,Yes,0,No,No,No,Yes,Yes,Yes,1,0,Bank transfer (automatic),99.75,1836.25,1
+6490-FGZAT,0,0,0,6,No,2,No,No,No,No,No,No,1,0,Mailed check,20.65,109.3,0
+1686-STUHN,0,0,0,42,No,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),19.8,849.9,0
+3841-CONLJ,0,1,0,1,No,1,No,No,No,No,No,Yes,1,0,Electronic check,35.0,35.0,0
+4139-JPIAM,0,0,0,51,No,1,Yes,No,No,Yes,No,Yes,1,1,Credit card (automatic),44.45,2181.55,0
+3705-PSNGL,0,0,0,45,No,2,No,No,No,No,No,No,12,1,Electronic check,20.4,930.45,1
+3258-SANFR,1,0,0,6,No,1,No,No,No,No,No,No,1,0,Credit card (automatic),44.7,276.5,0
+1813-JYWTO,0,1,0,72,Yes,0,Yes,No,No,No,No,No,24,0,Bank transfer (automatic),80.45,5737.6,0
+4786-UKSNZ,0,0,0,1,No,2,No,No,No,No,No,No,1,0,Mailed check,20.2,20.2,1
+7729-XBTWX,0,1,1,66,No,2,No,No,No,No,No,No,24,1,Mailed check,19.75,1344.5,0
+4626-OZDTJ,0,1,0,51,Yes,1,No,Yes,No,Yes,Yes,Yes,12,1,Credit card (automatic),78.65,3950.85,0
+9318-NKNFC,0,0,0,1,No,2,No,No,No,No,No,No,1,1,Mailed check,18.85,18.85,1
+7905-NJMXS,1,1,0,7,Yes,1,Yes,Yes,No,Yes,No,No,1,0,Electronic check,64.2,475.0,0
+6741-QRLUP,0,0,0,63,Yes,1,Yes,Yes,Yes,Yes,No,Yes,24,1,Credit card (automatic),80.3,4995.35,0
+3566-VVORZ,0,1,0,12,No,1,No,No,No,No,No,No,1,0,Bank transfer (automatic),45.9,505.95,0
+8023-QHAIO,1,1,0,56,Yes,0,No,No,No,Yes,No,No,1,1,Bank transfer (automatic),76.85,4275.75,0
+4322-RCYMT,0,1,1,68,Yes,1,No,Yes,Yes,Yes,No,Yes,12,1,Bank transfer (automatic),75.8,5293.95,1
+9068-FHQHD,0,1,1,40,No,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),20.15,777.35,0
+1925-GMVBW,0,0,0,5,No,2,No,No,No,No,No,No,1,0,Credit card (automatic),20.55,96.1,0
+9953-ZMKSM,0,0,0,63,Yes,2,No,No,No,No,No,No,24,0,Mailed check,25.25,1559.3,0
+7234-FECYN,1,0,0,8,Yes,0,No,No,Yes,No,Yes,Yes,1,0,Electronic check,101.35,780.5,1
+4702-HDRKD,0,0,0,67,No,1,Yes,No,Yes,Yes,Yes,No,12,1,Bank transfer (automatic),49.35,3321.35,0
+2979-SXESE,0,1,1,17,Yes,0,Yes,No,Yes,No,Yes,No,1,0,Electronic check,94.4,1607.2,1
+0447-BEMNG,0,1,0,48,No,1,Yes,No,Yes,No,No,Yes,1,1,Bank transfer (automatic),45.3,2145.0,1
+3308-MHOOC,0,0,1,1,No,2,No,No,No,No,No,No,1,1,Mailed check,19.2,19.2,0
+8058-JMEQO,1,0,0,9,Yes,0,No,No,No,No,No,Yes,1,1,Electronic check,84.45,762.5,1
+2675-OTVVJ,1,1,0,31,Yes,0,Yes,No,No,No,Yes,No,1,0,Electronic check,89.45,2807.65,0
+2073-QBVBI,0,1,0,41,No,1,No,Yes,No,Yes,No,No,12,0,Mailed check,35.45,1391.65,0
+9787-XVQIU,0,0,0,1,Yes,0,No,No,No,No,No,No,1,1,Electronic check,75.3,75.3,1
+7924-GJZFI,1,1,0,25,No,0,No,No,No,No,No,No,1,1,Electronic check,69.3,1813.1,0
+3472-OAOOR,0,1,1,19,No,1,Yes,Yes,No,No,No,No,1,1,Mailed check,34.95,610.2,0
+1731-TVIUK,0,0,0,4,Yes,0,No,Yes,No,Yes,No,Yes,1,1,Electronic check,93.5,362.2,1
+5982-XMDEX,0,0,0,65,Yes,2,No,No,No,No,No,No,24,0,Bank transfer (automatic),26.5,1698.55,0
+4016-BJKTZ,0,0,0,25,Yes,0,No,Yes,Yes,Yes,Yes,Yes,24,0,Electronic check,108.9,2809.05,0
+6726-NNFWD,1,1,0,71,No,0,No,Yes,Yes,No,No,Yes,24,0,Credit card (automatic),89.45,6435.25,0
+5619-PTMIK,0,1,0,46,Yes,1,Yes,No,No,No,No,No,1,0,Electronic check,53.1,2459.8,0
+3506-OVLKD,0,0,0,35,Yes,2,No,No,No,No,No,No,12,0,Bank transfer (automatic),26.2,954.9,0
+9964-WBQDJ,0,1,0,71,Yes,2,No,No,No,No,No,No,24,1,Credit card (automatic),24.4,1725.4,0
+8958-JPTRR,0,1,0,56,Yes,2,No,No,No,No,No,No,12,0,Electronic check,24.3,1261.7,0
+8473-VUVJN,1,0,0,1,Yes,0,No,No,No,No,No,No,1,1,Electronic check,73.65,73.65,1
+2474-LCNUE,0,1,0,23,Yes,1,No,No,No,Yes,Yes,Yes,1,1,Credit card (automatic),73.65,1642.75,0
+1599-MMYRQ,0,1,1,62,No,0,Yes,Yes,No,No,No,No,12,1,Credit card (automatic),81.45,4983.05,0
+3018-TFTSU,0,0,0,12,No,0,Yes,No,Yes,No,No,No,1,0,Bank transfer (automatic),81.7,858.6,1
+7128-GGCNO,0,0,0,46,Yes,0,No,No,No,No,No,No,1,0,Bank transfer (automatic),72.8,3249.4,0
+0621-HJWXJ,0,1,0,63,Yes,0,No,Yes,No,No,No,No,1,1,Bank transfer (automatic),81.55,5029.05,0
+6479-SZPLM,0,1,1,36,No,2,No,No,No,No,No,No,24,0,Credit card (automatic),19.45,754.5,0
+2275-RBYQS,0,0,0,1,No,1,No,No,No,No,No,No,1,1,Mailed check,45.4,45.4,0
+3786-WOVKF,1,1,0,72,Yes,0,Yes,Yes,No,No,Yes,Yes,12,1,Bank transfer (automatic),106.85,7677.4,0
+0623-IIHUG,1,0,0,21,No,1,Yes,No,No,No,Yes,No,1,1,Electronic check,41.9,840.1,1
+0575-CUQOV,1,1,0,60,No,0,No,Yes,Yes,No,Yes,Yes,12,1,Electronic check,97.95,5867.0,0
+8592-PLTMQ,0,0,0,64,Yes,2,No,No,No,No,No,No,12,0,Mailed check,24.7,1642.75,0
+3190-FZATL,0,0,1,14,No,2,No,No,No,No,No,No,1,0,Mailed check,19.95,268.4,0
+4951-UKAAQ,0,0,0,4,Yes,0,No,Yes,No,No,No,Yes,1,1,Electronic check,88.95,355.2,1
+0612-RTZZA,1,0,0,1,No,1,No,No,No,No,No,No,1,0,Electronic check,25.25,25.25,1
+2080-GKCWQ,0,0,0,2,No,0,No,Yes,No,No,No,No,1,0,Electronic check,74.95,151.75,0
+7599-NTMDP,0,1,1,62,No,1,Yes,Yes,No,Yes,Yes,No,24,0,Bank transfer (automatic),48.7,3008.55,0
+2428-ZMCTB,0,0,0,10,No,2,No,No,No,No,No,No,1,0,Credit card (automatic),19.75,208.25,0
+2252-JHJGE,0,0,0,61,Yes,0,Yes,No,Yes,No,Yes,Yes,12,0,Electronic check,104.0,6363.45,0
+9804-ICWBG,0,0,0,1,No,0,No,No,No,No,No,No,1,1,Electronic check,69.9,69.9,1
+8774-GSBUN,0,1,0,72,Yes,2,No,No,No,No,No,No,24,0,Mailed check,25.4,1797.1,0
+4163-HFTUK,0,0,0,51,No,2,No,No,No,No,No,No,12,0,Electronic check,19.1,1007.8,0
+1334-FJSVR,0,0,0,1,No,1,No,No,No,No,No,No,1,1,Electronic check,24.25,24.25,1
+1455-UGQVH,0,1,0,10,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,98.5,1037.75,1
+8076-FEZKJ,0,0,0,10,No,2,No,No,No,No,No,No,12,0,Mailed check,19.5,225.85,0
+2805-EDJPQ,0,1,1,56,Yes,0,No,Yes,Yes,Yes,No,Yes,12,1,Credit card (automatic),99.75,5608.4,0
+9560-BBZXK,0,0,0,36,No,1,Yes,No,No,No,No,No,24,0,Bank transfer (automatic),31.05,1126.35,0
+5433-KYGHE,0,0,1,14,Yes,0,Yes,No,No,Yes,No,No,1,1,Mailed check,86.0,1164.05,0
+6447-GORXK,0,0,1,31,No,1,No,No,No,No,No,No,1,0,Credit card (automatic),25.0,789.2,0
+3701-SFMUH,0,1,1,7,No,1,Yes,No,No,No,Yes,Yes,1,0,Credit card (automatic),69.7,516.15,0
+5600-PDUJF,0,0,0,6,No,1,No,No,No,Yes,No,No,1,1,Credit card (automatic),49.5,312.7,0
+0584-BJQGZ,0,0,0,25,Yes,1,Yes,Yes,Yes,Yes,Yes,No,1,1,Bank transfer (automatic),78.35,1837.9,0
+1926-QUZNN,0,1,0,72,Yes,2,No,No,No,No,No,No,24,1,Bank transfer (automatic),25.25,1841.2,0
+7825-ECJRF,0,0,0,19,No,0,Yes,No,Yes,Yes,Yes,Yes,1,1,Electronic check,106.6,1934.45,1
+7426-WEIJX,1,1,1,60,Yes,0,Yes,No,No,No,No,No,1,1,Electronic check,80.95,4859.1,0
+7542-CYDDM,0,0,0,18,No,2,No,No,No,No,No,No,1,0,Mailed check,20.05,358.5,0
+7903-CMPEY,1,1,0,1,Yes,0,Yes,No,No,No,No,No,1,1,Electronic check,80.3,80.3,1
+2834-SPCJV,0,1,0,52,No,0,Yes,No,No,No,Yes,No,1,0,Electronic check,84.1,4348.65,1
+7569-NMZYQ,0,1,1,72,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,24,1,Bank transfer (automatic),118.75,8672.45,0
+2587-EKXTS,0,0,0,44,Yes,0,Yes,Yes,Yes,No,Yes,Yes,1,1,Electronic check,111.5,4915.15,0
+2716-GFZOR,0,1,0,43,No,0,Yes,Yes,Yes,No,No,No,1,1,Credit card (automatic),86.1,3551.65,0
+5129-HHMZC,0,1,0,43,Yes,1,Yes,Yes,No,Yes,Yes,Yes,24,0,Credit card (automatic),86.45,3574.5,0
+6689-KXGBO,0,0,0,1,No,1,No,Yes,No,No,No,No,1,0,Electronic check,50.55,50.55,1
+2230-XTUWL,0,1,1,48,No,2,No,No,No,No,No,No,24,0,Mailed check,19.55,883.35,0
+0330-BGYZE,0,1,0,60,Yes,0,No,Yes,Yes,No,Yes,Yes,12,0,Bank transfer (automatic),102.5,6157.6,0
+7683-CBDKJ,0,1,1,14,No,1,Yes,Yes,No,No,Yes,No,1,1,Electronic check,65.45,937.6,1
+2498-XLDZR,0,1,1,32,No,1,Yes,Yes,Yes,Yes,No,Yes,24,0,Mailed check,73.6,2316.85,0
+1952-DVVSW,0,1,0,10,No,2,No,No,No,No,No,No,12,0,Mailed check,20.1,184.4,0
+9362-MWODR,0,0,1,40,No,1,Yes,No,No,Yes,Yes,No,1,1,Credit card (automatic),64.1,2460.35,0
+9497-QCMMS,1,0,0,1,Yes,0,No,No,No,No,Yes,Yes,1,1,Electronic check,93.55,93.55,1
+8559-CIZFV,0,1,1,21,Yes,1,Yes,Yes,No,Yes,Yes,No,12,0,Mailed check,77.5,1625.0,1
+9500-LTVBP,0,0,0,35,Yes,0,No,No,No,Yes,No,No,1,0,Credit card (automatic),80.05,2835.9,0
+3006-XIMLN,0,0,1,2,Yes,0,No,No,No,No,Yes,Yes,1,1,Bank transfer (automatic),94.2,193.8,1
+6333-YDVLT,0,0,0,65,Yes,0,Yes,No,Yes,Yes,Yes,Yes,12,1,Credit card (automatic),110.0,7138.65,0
+5944-UGLLK,0,0,0,53,No,1,No,No,Yes,Yes,Yes,Yes,12,0,Credit card (automatic),54.9,3045.75,0
+1085-LDWAM,0,1,1,69,No,2,No,No,No,No,No,No,12,1,Credit card (automatic),20.35,1442.65,0
+5960-MVTUK,0,0,0,3,No,1,No,No,No,Yes,No,No,1,1,Electronic check,29.75,96.85,0
+0485-ZBSLN,0,1,1,65,Yes,2,No,No,No,No,No,No,24,0,Credit card (automatic),24.75,1715.1,0
+4419-UJMUS,0,1,1,69,Yes,0,No,No,No,Yes,Yes,Yes,24,1,Electronic check,99.35,6856.45,0
+1075-BGWOH,1,1,0,16,Yes,0,No,No,Yes,No,Yes,Yes,1,1,Electronic check,98.75,1587.55,1
+9102-OXKFY,0,0,0,59,Yes,1,No,No,Yes,No,No,No,24,0,Credit card (automatic),54.15,3116.15,0
+6461-SZMCV,0,1,0,71,Yes,1,Yes,Yes,Yes,Yes,Yes,Yes,24,0,Bank transfer (automatic),87.95,6365.35,0
+8752-STIVR,0,0,0,4,No,0,No,No,No,No,Yes,No,1,1,Electronic check,79.0,303.15,1
+5897-ZYEKH,1,1,0,67,Yes,0,Yes,Yes,No,No,Yes,Yes,12,1,Electronic check,105.6,7112.15,0
+8033-ATFAS,0,1,1,39,No,1,No,No,Yes,No,Yes,No,1,1,Mailed check,59.85,2341.5,0
+5453-YBTWV,0,1,1,70,No,0,Yes,Yes,Yes,Yes,Yes,No,24,1,Credit card (automatic),101.1,6994.8,0
+3506-LCJDC,0,1,1,1,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),19.95,19.95,1
+1471-GIQKQ,0,0,0,1,No,1,No,Yes,No,No,No,No,1,0,Electronic check,49.95,49.95,0
+1934-MKPXS,0,1,1,33,No,2,No,No,No,No,No,No,12,0,Credit card (automatic),20.1,620.55,0
+3179-GBRWV,1,1,0,21,No,1,Yes,Yes,No,No,No,Yes,1,1,Bank transfer (automatic),64.95,1339.8,0
+5148-HKFIR,0,0,0,20,No,2,No,No,No,No,No,No,24,0,Mailed check,19.7,406.95,0
+3627-FCRDW,0,0,0,9,No,0,No,No,No,No,No,No,1,0,Electronic check,71.0,672.55,1
+5448-VWNAM,0,0,1,19,Yes,1,Yes,Yes,No,Yes,Yes,No,1,1,Mailed check,75.9,1375.6,0
+0968-GSIKN,0,0,0,1,No,0,No,No,No,No,No,No,1,1,Mailed check,70.8,70.8,1
+1904-WAJAA,0,1,1,24,Yes,1,Yes,Yes,Yes,No,No,No,24,0,Electronic check,64.35,1558.65,0
+0810-DHDBD,0,0,0,52,Yes,1,Yes,No,Yes,Yes,Yes,No,12,0,Credit card (automatic),74.0,3877.65,0
+1395-OFUWC,0,1,1,43,No,1,No,Yes,No,No,No,No,1,0,Credit card (automatic),29.3,1224.05,0
+6961-VCPMC,1,1,0,46,No,0,No,No,No,No,No,Yes,1,1,Electronic check,80.4,3605.2,1
+2725-IWWBA,0,1,1,46,No,1,Yes,No,Yes,Yes,No,No,12,0,Mailed check,56.9,2560.1,0
+5481-NTDOH,1,1,0,67,Yes,0,Yes,No,Yes,No,Yes,Yes,12,1,Credit card (automatic),107.05,7142.5,0
+7808-DVWEP,0,1,0,3,No,2,No,No,No,No,No,No,1,0,Bank transfer (automatic),20.0,49.65,0
+5397-TUPSH,1,1,0,65,No,0,No,No,No,No,No,No,12,1,Bank transfer (automatic),70.95,4555.2,0
+1215-EXRMO,0,1,0,50,No,2,No,No,No,No,No,No,24,0,Mailed check,20.55,1067.65,0
+1137-DGOWI,0,1,0,30,No,1,No,Yes,Yes,Yes,No,Yes,12,0,Bank transfer (automatic),70.25,2198.9,0
+8242-JSVBO,0,0,0,7,No,1,No,No,No,No,No,No,1,1,Bank transfer (automatic),44.65,322.5,0
+2387-KDZQY,0,0,0,17,No,2,No,No,No,No,No,No,12,1,Mailed check,20.1,279.5,0
