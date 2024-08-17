@@ -8,3 +8,4 @@ scikit-learn
 pycaret
 skopt
 fastapi[standard]
+python-dotenv
