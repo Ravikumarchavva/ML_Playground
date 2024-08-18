@@ -11,16 +11,17 @@ load_dotenv()
 
 # Access the environment variable
 BASE_URL = os.getenv("BASE_URL")
-
+NEXTJS_URL = os.getenv("NEXTJS_URL")
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins= BASE_URL,
+    allow_origins=[BASE_URL,NEXTJS_URL],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 
 class Item(BaseModel):
@@ -46,3 +47,20 @@ def read_item(item_id: int):
 @app.put("/items/{item_id}")
 def update_item(item_id: int, item: Item):
     return {"item_name": item.name, "item_id": item_id}
+
+import apis.carprice as cp
+@app.get('/carprice')
+def get_car_price():
+    return {"price": cp.carprice()}
+
+import apis.churn as ch
+
+@app.get('/churn')
+def get_churn_prediction():
+    return {"churn":ch.churn}
+
+import apis.imageClassification as c
+
+@app.post('/imageclassification')
+def classify_image():
+    return {"image":c.imageClassification()}

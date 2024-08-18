@@ -1,0 +1,2 @@
+def imageClassification():
+    return "building"

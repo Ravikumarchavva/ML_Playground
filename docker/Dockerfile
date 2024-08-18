@@ -2,10 +2,8 @@ FROM python:3.10
 
 WORKDIR /fastApi
 
-COPY ./docker ./docker
-COPY ./main.py .  
+COPY . .
 
-COPY ./dockerRequirements.txt ./dockerRequirements.txt
 
 RUN pip install --no-cache-dir -r dockerRequirements.txt
 

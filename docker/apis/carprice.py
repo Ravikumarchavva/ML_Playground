@@ -1,3 +1,2 @@
-import joblib
-model=joblib.load('../models/churn.pkl')
-print(model)
+def carprice():
+    return 10000
