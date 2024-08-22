@@ -7,7 +7,7 @@ import numpy as np
 
 def predictPrice(carlength, carwidth, horsepower, brandavg, averagempg):
     try:
-        model = joblib.load("/home/ravikumar/wslgit/ML_playground/docker/models/carprice.joblib")
+        model = joblib.load("models/carprice.joblib")
                 
         X_submit = pd.DataFrame({
             'carlength': [float(carlength)],

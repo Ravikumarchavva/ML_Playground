@@ -11,10 +11,11 @@ def predictChurn(MonthlyCharges, TotalCharges, InternetService, tenure, Contract
     contract = contracts[Contract]
     
     # Load the saved model
-    model = joblib.load('/home/ravikumar/wslgit/ML_playground/docker/models/churn.joblib')
+    model = joblib.load('models/churn.joblib')
     
     # Make predictions using the model
     prediction = model.predict([[MonthlyCharges, TotalCharges, internet_service, tenure, contract]])[0]
     
     # Convert numpy.int64 to Python int
     return int(prediction)
+print(predictChurn(80,900,"No",13,"One year"))
