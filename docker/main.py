@@ -1,10 +1,12 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-import random
 from dotenv import load_dotenv
 import os
-
+from apis.carprice import predictPrice
+import random
+import numpy as np
+import pandas as pd
 # Load environment variables
 load_dotenv()
 
@@ -23,25 +25,54 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-class ChurnPredictionRequest(BaseModel):
-    tenure: str
-    contract: str
-    monthlyCharges: str
-    internetService: str
-    paymentMethod: str
-
 @app.get("/")
 def read_root():
     return {"message": "Hello, Next.js World!"}
 
+
+class CarPriceRequest(BaseModel):
+    carlength: float
+    carwidth: float
+    horsepower: float
+    brandavg: float
+    averagempg: float
+
+from apis.carprice import predictPrice
 @app.post("/send_carprice")
-def carprice():
-    return {"price": random.randint(1000, 50000)}
+def send_carprice(request: CarPriceRequest):
+    price = predictPrice(
+        request.carlength,
+        request.carwidth,
+        request.horsepower,
+        request.brandavg,
+        request.averagempg
+    )
+    # Example logic for calculating price
+    return {"price": price}
+
+from apis.churn import predictChurn
+
+class ChurnPredictionRequest(BaseModel):
+    MonthlyCharges: float
+    TotalCharges: float
+    InternetService: str
+    tenure: float
+    Contract: str
 
 @app.post("/predict_churn")
 def predict_churn(request: ChurnPredictionRequest):
     try:
-        result = random.choice(["Churn", "Don't Churn"])
-        return {"prediction": result}
+        result = predictChurn(
+            request.MonthlyCharges,
+            request.TotalCharges,
+            request.InternetService,
+            request.tenure,
+            request.Contract
+        )
+        if(result==1):
+            return {"prediction": "More probable to Churn"}
+        else:
+            return {"prediction": "Less probable to Churn"} 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+

@@ -36,6 +36,8 @@ def num_scatter_plot(df : Union[pl.DataFrame,pd.DataFrame],num_features : list,t
         plt.tight_layout()
         plt.show()
 def num_dodge_plot(data : Union[pl.DataFrame,pd.DataFrame], num_cols: list, target_col: pl.String):
+    if isinstance(data,pl.DataFrame):
+        data=data.to_pandas()
     # Determine the number of rows needed based on the number of numerical columns
     n_cols = 2
     n_rows = (len(num_cols) + 1) // n_cols  # Round up if there is an odd number of columns
