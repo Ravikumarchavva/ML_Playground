@@ -27,5 +27,5 @@ jobs:
       run: |
         TAG_NAME=$(date +%Y%m%d%H%M%S)
         IMAGE_NAME="ravikumarchavva/mlplayground:${TAG_NAME}"
-        docker build . --file Dockerfile --tag $IMAGE_NAME
+        docker build ./docker --file ./docker/Dockerfile --tag $IMAGE_NAME
         docker push $IMAGE_NAME
