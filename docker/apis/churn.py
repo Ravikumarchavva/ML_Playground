@@ -18,4 +18,3 @@ def predictChurn(MonthlyCharges, TotalCharges, InternetService, tenure, Contract
     
     # Convert numpy.int64 to Python int
     return int(prediction)
-print(predictChurn(80,900,"No",13,"One year"))

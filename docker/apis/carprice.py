@@ -20,4 +20,3 @@ def predictPrice(carlength, carwidth, horsepower, brandavg, averagempg):
         return int(predicted_price)
     except Exception as e:
         raise e
-print(predictPrice(140,30,110,12,10))
