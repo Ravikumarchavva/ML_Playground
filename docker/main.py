@@ -4,9 +4,7 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 import os
 from apis.carprice import predictPrice
-import random
-import numpy as np
-import pandas as pd
+
 # Load environment variables
 load_dotenv()
 
